@@ -822,7 +822,7 @@
 
             <div class="site-info">
                 <div class="copyright">
-                    Copyright &copy; Smart Sourcing </div>
+                    Copyright &copy; Fintrinet </div>
                 <div class="credit-info">
                 Designed and Developed by LITES
                    
