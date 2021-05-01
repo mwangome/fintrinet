@@ -7,13 +7,14 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>Fintrinet &#8211; Landing Page</title>
+    <title>Fintrinet &#8211; Finance Trade & Investment</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Smart Sourcing &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Smart Sourcing &raquo; Comments Feed" href="https://www.smart-sourcing.com/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Finance Trade Investment &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Finance Trade Investment &raquo; Comments Feed" href="https://www.smart-sourcing.com/comments/feed/" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
@@ -74,6 +75,127 @@
             background: none !important;
             padding: 0 !important;
         }
+
+        h2{
+  text-align:center;
+  padding: 20px;
+}
+/* Slider */
+
+.slick-slide {
+    margin: 0px 20px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
     </style>
     <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.7' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css' href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
@@ -713,6 +835,21 @@
 
 
         </div><!-- #main -->
+        <div class="container">
+  <h2>Our  Partners</h2>
+   <section class="customer-logos slider">
+      <div class="slide"><a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals.html"><img src="images/IDLO-SDG-CoverImage_0.png"></a></div>
+      <div class="slide"><a href="https://kepsa.or.ke"><img src="images/kepsa.png"></a></div>
+      <div class="slide"><a href="https://www.kenyachamber.or.ke"><img src="images/seo-kncci-logo-.png"></a></div>
+      <div class="slide"><a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals.html"><img src="images/IDLO-SDG-CoverImage_0.png"></a></div>
+      <div class="slide"><a href="https://kepsa.or.ke"><img src="images/kepsa.png"></a></div>
+      <div class="slide"><a href="https://www.kenyachamber.or.ke"><img src="images/seo-kncci-logo-.png"></a></div>
+      <div class="slide"><a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals.html"><img src="images/IDLO-SDG-CoverImage_0.png"></a></div>
+      <div class="slide"><a href="https://kepsa.or.ke"><img src="images/kepsa.png" height="150" width="150"></a></div>
+      <div class="slide"><a href="https://www.kenyachamber.or.ke"><img src="images/seo-kncci-logo-.png"></a></div>
+   </section>
+   
+</div>
         <footer id="colophon" class="site-footer" role="contentinfo">
             <div class="footer-bg clearfix">
                 <div class="widget-wrap">
@@ -732,6 +869,8 @@
                     </div><!-- #secondary -->
                 </div>
             </div>
+
+         
 
             <div class="site-info">
                 <div class="copyright">
@@ -776,6 +915,33 @@
                 families: ['Open Sans:400:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai', 'Roboto:400:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai']
             }
         });
+    </script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+    <script>
+    $(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 3
+            }
+        }]
+    });
+});
     </script>
     <div id="wprmenu_bar" class="wprmenu_bar">
         <div class="wprmenu-inner">
@@ -825,6 +991,9 @@
             <form role="search" method="get" class="wpr-search-form" action="https://www.smart-sourcing.com/ss"><label><input type="search" class="wpr-search-field" placeholder=" Search..." value="" name="s" title="Search for:"></label></form>
         </div>
     </div>
+
+
+    
 </body>
 
 </html>
