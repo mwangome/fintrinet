@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -8,7 +7,7 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>About Us &#8211; Fintrinet</title>
+    <title>Who we are &#8211; Smart Sourcing</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -22,7 +21,7 @@
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/",
             "svgExt": ".svg",
             "source": {
-                "concatemoji": "https:\/\/www.smart-sourcing.com\/ss\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.7"
+                "concatemoji": "https:\/\/www.smart-sourcing.com\/ss\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.8"
             }
         };
         ! function(e, a, t) {
@@ -76,7 +75,7 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.8' type='text/css' media='all' />
     <link rel='stylesheet' id='siteorigin-panels-front-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.7' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css' href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
     <link rel='stylesheet' id='owl-carousel-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1' type='text/css' media='all' />
@@ -132,11 +131,11 @@
     <link rel='https://api.w.org/' href='https://www.smart-sourcing.com/wp-json/' />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.smart-sourcing.com/ss/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.smart-sourcing.com/ss/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 5.3.7" />
-    <link rel="canonical" href="https://www.smart-sourcing.com/about/" />
-    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=4' />
-    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2F&#038;format=xml" />
+    <meta name="generator" content="WordPress 5.3.8" />
+    <link rel="canonical" href="https://www.smart-sourcing.com/about/who-we-are/" />
+    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=37' />
+    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2Fwho-we-are%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2Fwho-we-are%2F&#038;format=xml" />
     <style type="text/css">
         body {
             font-family: "Open Sans", Helvetica, sans-serif;
@@ -536,7 +535,7 @@
 
 
         /* show the bar and hide othere navigation elements */
-        @media  only screen and (max-width: 1069px) {
+        @media only screen and (max-width: 1069px) {
             html {
                 padding-top: 42px !important;
             }
@@ -561,106 +560,145 @@
         }
     </style>
     <style type="text/css" media="all" id="siteorigin-panels-layouts-head">
-        /* Layout 4 */
-        #pgc-4-0-0 {
+        /* Layout 37 */
+        #pgc-37-0-0 {
             width: 25%;
-            width: calc(25% - (0.750000001875 * 30px))
+            width: calc(25% - (0.75 * 30px))
         }
 
-        #pl-4 #panel-4-0-0-0,
-        #pl-4 #panel-4-0-1-0,
-        #pl-4 #panel-4-1-0-0 {}
+        #pl-37 #panel-37-0-0-0,
+        #pl-37 #panel-37-0-1-0,
+        #pl-37 #panel-37-1-0-0,
+        #pl-37 #panel-37-2-0-0,
+        #pl-37 #panel-37-2-1-0,
+        #pl-37 #panel-37-3-0-0,
+        #pl-37 #panel-37-3-1-0,
+        #pl-37 #panel-37-4-0-0,
+        #pl-37 #panel-37-4-1-0,
+        #pl-37 #panel-37-5-0-0,
+        #pl-37 #panel-37-5-1-0,
+        #pl-37 #panel-37-6-0-0,
+        #pl-37 #panel-37-7-0-0,
+        #pl-37 #panel-37-7-1-0,
+        #pl-37 #panel-37-8-0-0,
+        #pl-37 #panel-37-8-1-0 {}
 
-        #pgc-4-0-1 {
+        #pgc-37-0-1 {
             width: 75%;
-            width: calc(75% - (0.249999998125 * 30px))
+            width: calc(75% - (0.25 * 30px))
         }
 
-        #pg-4-0,
-        #pl-4 .so-panel {
+        #pg-37-0,
+        #pg-37-1,
+        #pg-37-2,
+        #pg-37-3,
+        #pg-37-4,
+        #pg-37-5,
+        #pg-37-6,
+        #pg-37-7,
+        #pl-37 .so-panel {
             margin-bottom: 30px
         }
 
-        #pgc-4-1-0 {
+        #pgc-37-1-0,
+        #pgc-37-6-0 {
             width: 100%;
             width: calc(100% - (0 * 30px))
         }
 
-        #pl-4 .so-panel:last-child {
-            margin-bottom: 0px
+        #pgc-37-2-0,
+        #pgc-37-3-1,
+        #pgc-37-4-0,
+        #pgc-37-5-1,
+        #pgc-37-7-1,
+        #pgc-37-8-0 {
+            width: 75%;
+            width: calc(75% - (0.249999998125 * 30px))
         }
 
-        #pg-4-1.panel-no-style,
-        #pg-4-1.panel-has-style>.panel-row-style {
-            -webkit-align-items: flex-start;
-            align-items: flex-start
+        #pgc-37-2-1,
+        #pgc-37-3-0,
+        #pgc-37-4-1,
+        #pgc-37-5-0,
+        #pgc-37-7-0,
+        #pgc-37-8-1 {
+            width: 25%;
+            width: calc(25% - (0.750000001875 * 30px))
+        }
+
+        #pl-37 .so-panel:last-child {
+            margin-bottom: 0px
         }
 
         @media (max-width:780px) {
 
-            #pg-4-0.panel-no-style,
-            #pg-4-0.panel-has-style>.panel-row-style,
-            #pg-4-1.panel-no-style,
-            #pg-4-1.panel-has-style>.panel-row-style {
+            #pg-37-0.panel-no-style,
+            #pg-37-0.panel-has-style>.panel-row-style,
+            #pg-37-1.panel-no-style,
+            #pg-37-1.panel-has-style>.panel-row-style,
+            #pg-37-2.panel-no-style,
+            #pg-37-2.panel-has-style>.panel-row-style,
+            #pg-37-3.panel-no-style,
+            #pg-37-3.panel-has-style>.panel-row-style,
+            #pg-37-4.panel-no-style,
+            #pg-37-4.panel-has-style>.panel-row-style,
+            #pg-37-5.panel-no-style,
+            #pg-37-5.panel-has-style>.panel-row-style,
+            #pg-37-6.panel-no-style,
+            #pg-37-6.panel-has-style>.panel-row-style,
+            #pg-37-7.panel-no-style,
+            #pg-37-7.panel-has-style>.panel-row-style,
+            #pg-37-8.panel-no-style,
+            #pg-37-8.panel-has-style>.panel-row-style {
                 -webkit-flex-direction: column;
                 -ms-flex-direction: column;
                 flex-direction: column
             }
 
-            #pg-4-0>.panel-grid-cell,
-            #pg-4-0>.panel-row-style>.panel-grid-cell,
-            #pg-4-1>.panel-grid-cell,
-            #pg-4-1>.panel-row-style>.panel-grid-cell {
+            #pg-37-0>.panel-grid-cell,
+            #pg-37-0>.panel-row-style>.panel-grid-cell,
+            #pg-37-1>.panel-grid-cell,
+            #pg-37-1>.panel-row-style>.panel-grid-cell,
+            #pg-37-2>.panel-grid-cell,
+            #pg-37-2>.panel-row-style>.panel-grid-cell,
+            #pg-37-3>.panel-grid-cell,
+            #pg-37-3>.panel-row-style>.panel-grid-cell,
+            #pg-37-4>.panel-grid-cell,
+            #pg-37-4>.panel-row-style>.panel-grid-cell,
+            #pg-37-5>.panel-grid-cell,
+            #pg-37-5>.panel-row-style>.panel-grid-cell,
+            #pg-37-6>.panel-grid-cell,
+            #pg-37-6>.panel-row-style>.panel-grid-cell,
+            #pg-37-7>.panel-grid-cell,
+            #pg-37-7>.panel-row-style>.panel-grid-cell,
+            #pg-37-8>.panel-grid-cell,
+            #pg-37-8>.panel-row-style>.panel-grid-cell {
                 width: 100%;
                 margin-right: 0
             }
 
-            #pgc-4-0-0 {
+            #pgc-37-0-0,
+            #pgc-37-2-0,
+            #pgc-37-3-0,
+            #pgc-37-4-0,
+            #pgc-37-5-0,
+            #pgc-37-7-0,
+            #pgc-37-8-0 {
                 margin-bottom: 30px
             }
 
-            #pl-4 .panel-grid-cell {
+            #pl-37 .panel-grid-cell {
                 padding: 0
             }
 
-            #pl-4 .panel-grid .panel-grid-cell-empty {
+            #pl-37 .panel-grid .panel-grid-cell-empty {
                 display: none
             }
 
-            #pl-4 .panel-grid .panel-grid-cell-mobile-last {
+            #pl-37 .panel-grid .panel-grid-cell-mobile-last {
                 margin-bottom: 0px
             }
         }
-
-       
-
-.custom-list {
-    list-style: none;
-    padding-left: 0;
-}
-.custom-list li {
-    position: relative;
-    padding-left: 20px;
-}
-.custom-list li:before {
-    content: '';
-    width: 10px;
-    height: 10px;
-    position: absolute;
-    background-image: url('images/bullet.png');
-    background-size: cover;
-    background-position: center;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.mybullet{
-    list-style-image: url(images/bullet.png);
-    width: 10px;
-    height: 10px;
-}
-
     </style>
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-32x32.png" sizes="32x32" />
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-192x192.png" sizes="192x192" />
@@ -668,7 +706,7 @@
     <meta name="msapplication-TileImage" content="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-270x270.png" />
 </head>
 
-<body class="page-template-default page page-id-4 page-parent custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
+<body class="page-template-default page page-id-37 page-child parent-pageid-4 custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
 
     <div class="nx-ispload">
         <div class="nx-ispload-wrap">
@@ -683,7 +721,7 @@
 
     <div id="page" class="hfeed site">
 
-        <div id="utilitybar" class="utilitybar colored-bg">
+    <div id="utilitybar" class="utilitybar colored-bg">
             <div class="ubarinnerwrap">
                 <div class="socialicons">
                 </div>
@@ -696,7 +734,6 @@
                     <i class="topbarico genericon genericon-mail"></i>
                     Mail us : <a class="top_email_link" href="mailto:info@fintrinet.or.ke" style="color: #FFF;"> info@fintrinet.or.ke</a>
                 </div>
-
             </div>
         </div>
 
@@ -704,10 +741,9 @@
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
                 <a class="home-link" href="/" title="Fintrinet" rel="home">
-                        <span><img src="/images/fintrinet.png" alt="Fintrinet"  class="imax-logo normal-logo" /></span>
+                        <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
-
 
                     <div id="navbar" class="navbar colored-drop">
                         <nav id="site-navigation" class="navigation main-navigation" role="navigation">
@@ -715,16 +751,16 @@
                             <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
                             <div class="nav-container">
                                 <ul id="menu-main_menu" class="nav-menu">
-                                    
+
                                     <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
-                                        
+
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">Who we are</a></li>
-                </ul>
-            </li>
-                                   
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are">Who we are</a></li>
+                                        </ul>
+                                    </li>
+
                                     <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/services/">Services</a></li>
                                     <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/contact/">Contact Us</a></li>
                                 </ul>
@@ -745,7 +781,7 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">Fintrinet</h1>
+                <h1 class="entry-title">Who we are</h1>
 
             </div>
         </div>
@@ -758,35 +794,173 @@
                 <div id="content" class="site-content" role="main">
 
 
-                    <article id="post-4" class="post-4 page type-page status-publish hentry">
+                    <article id="post-37" class="post-37 page type-page status-publish hentry">
 
                         <div class="entry-content">
-                            <div id="pl-4" class="panel-layout">
+                            <div id="pl-37" class="panel-layout">
                                
-                                <div id="pg-4-1" class="panel-grid panel-no-style">
-                                    <div id="pgc-4-1-0" class="panel-grid-cell">
-                                        <div id="panel-4-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2">
-                                            <div class="so-widget-sow-editor so-widget-sow-editor-base">
-                                                <div class="siteorigin-widget-tinymce textwidget">
-                                                    <p><strong>Vision</strong> </p>
-                                                    <p>To be Public-Private Partnership in the recovery and transformation of Kenya’s economy powered by Finance, Trade and Investment to achieve Big 4 agenda, Vision 2030 and the SDGs.</p>
-                                                    <p><strong>Mission</strong></p>
-                                                    <p>To build momentum for rapid economic recovery, create jobs, turn Kenya into a major export economy and deliver the Vision 2030.</p>
-                                                    <p><strong>Core Values</strong> </p>
-                                                    <span>FINTRINET will be guided by the following core values:</span>
-                                                    <ul>
-                                                        <li>Innovation</li>
-                                                        <li>Accountability and Transparency</li>
-                                                        <li>Leadership and Integrity</li>
-                                                        <li>Equal opportunities.</li>
-                                                        <li>Collaboration and Partnerships</li>
-                                                        <li>Teamwork</li>
-                                                    </ul>
+                               
+                                <div id="pg-37-2" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-2-0" class="panel-grid-cell">
+                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Mr. Hosea Kili</strong><br /><em>Group Managing Director/CEO</em> </p>
+                                                                    <p class="bodytext">An advocate of the High Court of Kenya, Mr. Kili holds a Masters of Business Administration from the Management College of Southern Africa (MANCOSA). He is a Fellow of the Institute of Certified Public Secretaries of Kenya (ICPSK); a Fellow Member of Kenya Institute of Management (KIM) and an active member of the Law Society of Kenya (LSK).</p>
+                                                                    <p class="bodytext">Mr. Kili is a Council member and the current Chairman of the East and Central Africa Social Security Association (ECASSA). He is a Non-Executive Director at the Nairobi Securities Exchange (NSE) and the current President, Association of Pension Trustees & Administrators of Kenya (APTAK).</p>
+                                                                    <p>A recipient of numerous commendations, Mr. Kili was awarded the Presidential Order of Grand Warrior of Kenya in December 2011 and the 2nd Runners up CEO of the Year at the COYA Awards 2012. He was also recognized as the Personality of the Year at the 2017 Pension Awards that sought to award excellence in innovation and service provision to improve the outcomes of both pension funds as well as members. Mr. Kili was also recognized as the 2nd Runners up in the ‘CEO of the Year’ category during the 2017 and 2018 Champions of Governance Awards.</p>
+                                                                    <p>Mr. Kili currently serves as a member of the International Social Security Association (ISSA) bureau and a member of the Finance Committee of the ISSA, following his election to this post in 2019.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-2-1" class="panel-grid-cell">
+                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/thumbnail_Hosea Kili Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="pg-37-3" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-3-0" class="panel-grid-cell">
+                                        <div id="panel-37-3-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="5">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/Wamboi Mbarire Passport Photo.jpeg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mrs. Wamboi Mbarire" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-3-1" class="panel-grid-cell">
+                                        <div id="panel-37-3-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="6">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Mrs. Wambui Mbarire</strong><br />
+                                                                        <em>CEO (RETRAK).</em>
+                                                                    </p>
+                                                                    <p class="bodytext">Wambui Mbarire is a well-respected influencer in retail sector in the Continent. She is currently
+the Chief Executive Officer of Kenya Retail Traders Association (RETRAK). Ms. Mbarire has been
+with the association since its inception and has built it up to be The Voice of retailers, sort by
+both Government and Private Sector. She has been instrumental in defining policy and regulatory
+framework for the Sectors positioning and exponential growth.</p>
+<p>Wambui champions responsible development and stewardship of various social sectors including
+sitting in the Impala club Board. She has been serving as the Sergeant at Arms of the Rotary Club
+of Lavington Eco and also served temporary as the President Elect. Wambui is also Board Member,
+Kenya Producer Responsibility (KEPRO), Tourism taskforce member.</p>
+<p>Wambui is an accomplished administrator with over eighteen years’ all-round experience. Wambui
+is the holder of a Bachelor of Education Degree, from Kenyatta University, and a Certified Public
+Accountants CPA from Strathmore University.</p>
+<p>She has worked in personnel and human capital management, finance, administration field and
+operations management.</p>
+<p>Ms. Mbarire has been with the association since its formation and has helped build it up to be
+The Voice of retailers, sort by both Government and Private Sector for dialogue and various
+partnerships. She passionately champions best practices in the retail sector.
+She has worked in personnel and human capital management, finance, administration field and
+operations management.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                                <div id="pg-37-4" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-4-0" class="panel-grid-cell">
+                                        <div id="panel-37-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Mr. Michael Kamau</strong><br />
+                                                                        <em>Agronomist</em>
+                                                                    </p>
+                                                                    <p class="bodytext">Michael Kamau is an Agronomist and programme management specialist. Michael has had a stint working in Kenya & beyond with a demonstrated ability to lead diverse teams of personnel to new levels of success in fast-paced business environments. Michael has over fifteen (15) years of experience in the Public, Private and development sectors. Michael is adept at designing and implementing corporate and business strategies, with expertise in programme planning and identifying interventions that can contribute to sustainable market transformation, specifically in the Agriculture sector. Michael has also worked in a multi-stakeholder approach to create an enabling environment through public-private dialogue platforms. Michael key areas of expertise are project planning, project implementation, programme monitoring and reporting, Networking with Government and non-Government Organizations, specifically in the Agriculture sector. Michael focuses on working to fully utilize his skill to ensure improved productivity and food security.</p>
+                                                                    <p>Currently, Michael works as a Sector manager at Kenya Market Trust. His responsibilities include developing partnerships and managing relationships with stakeholders drawn from private, the public (both at the national and county levels) and development sectors. Michael previously worked at Kencrop Kenya Limited as their pioneer Country Manager, at Bio-Medica Laboratories as the Technical and Marketing Manager and a Divisional Agricultural and Extension Officer at the Ministry of Agriculture.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-4-1" class="panel-grid-cell">
+                                        <div id="panel-37-4-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="8">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/thumbnail_Michael Kamau Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Richard Trendley" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="pg-37-5" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-5-0" class="panel-grid-cell">
+                                        <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/thumbnail_Luke Kinoti Passport Photo.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Bob Tilton" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-5-1" class="panel-grid-cell">
+                                        <div id="panel-37-5-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="10">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Mr. LUKE M. KINOTI</strong><br />
+                                                                        <em>CEO of Vedman capital</em>
+                                                                    </p>
+                                                                    <p class="bodytext">Mr. Kinoti is a finance and investment professional, entrepreneur, business coach, trainer and author with over 30 years’ experience in establishing, leading and growing corporates and business entities.</p>
+                                                                    <p>Mr. Kinoti is the Founder and CEO of Vedman capital, a private fund management and investor relations company. The company is an accredited Nominated Advisor (Nomad) at the Nairobi Securities Exchange PLC and member of Institute of certified investment and financial analysts (ICIFA). 
+</p>
+<p>He is the former Managing Director & CEO of Suntra Investment Bank, a leading Stockbrokerage company in Kenya. Before joining Suntra Investment Bank, Mr. Kinoti was Group Chief Executive, of Fusion Group, a Private Equity and Real Estate company that he co-founded with presence across East Africa. In 2016, he pioneered the launch of the first Development Real Estate Investment Trust (D-REITS) in the continent. The company also successfully sponsored the building of Kigali Heights, a modern Mix-use complex in Kigali City, Rwanda among other notable ventures in East Africa. He voluntary retired in March 2017 to join Suntra Investment Bank. Mr. Kinoti was the Founding CEO of ECLOF Kenya, a private financial institution, with Headquarters in Geneva, Switzerland. </p>
+                                                                
+<p>He is the Chairman of Key Microfinance Bank PLC, Director of Home Africa Limited, a listed real estate company at NSE, Director at Kenya Association of Stockbrokers and Investment Banks (KASIB), a Member of Kenya Institute of Management (MKIM), Institute of Directors (IOD) Kenya, and Project Management Institute (PMI).</p>
+
+<p>Mr. Kinoti holds Masters of Arts (University of Nairobi) and Bachelor of Science (University of Nairobi), Diploma in Management (Kenya Institute of Management).</p>
+<p>Luke is the author of two acclaimed publications; (1) The Merchant’s Pearl (2018), and (2) The Agile Investor (2020).</p>
+</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                               
                             </div>
                         </div><!-- .entry-content -->
 
@@ -830,14 +1004,15 @@
                 <div class="copyright">
                     Copyright &copy; Fintrinet </div>
                 <div class="credit-info">
-                Designed and Developed by LITES
-                   
+                    Designed and Developed by LITES
+
                 </div>
 
             </div><!-- .site-info -->
         </footer><!-- #colophon -->
     </div><!-- #page -->
 
+    <link rel='stylesheet' id='sow-image-default-d6014b76747a-css' href='https://www.smart-sourcing.com/ss/wp-content/uploads/siteorigin-widgets/sow-image-default-d6014b76747a.css?ver=5.3.8' type='text/css' media='all' />
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
@@ -861,7 +1036,7 @@
     </script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-content/themes/i-max/inc/responsive-menu/js/wprmenu.js?ver=2017-03-16'></script>
     <script type='text/javascript' src='https://use.fontawesome.com/30858dc40a.js?ver=4.0.7'></script>
-    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/wp-embed.min.js?ver=5.3.7'></script>
+    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/wp-embed.min.js?ver=5.3.8'></script>
     <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=3.0.25'></script>
     <script type='text/javascript'>
         WebFont.load({
@@ -887,9 +1062,10 @@
 
     <div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
         <ul id="wprmenu_menu_ul">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/" aria-current="page">About Us</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">Who we are</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://www.smart-sourcing.com/about/history/">History</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-75"><a href="https://www.smart-sourcing.com/about/who-we-are/" aria-current="page">Who we are</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>

@@ -631,35 +631,36 @@
             }
         }
 
-       
 
-.custom-list {
-    list-style: none;
-    padding-left: 0;
-}
-.custom-list li {
-    position: relative;
-    padding-left: 20px;
-}
-.custom-list li:before {
-    content: '';
-    width: 10px;
-    height: 10px;
-    position: absolute;
-    background-image: url('images/bullet.png');
-    background-size: cover;
-    background-position: center;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
-}
 
-.mybullet{
-    list-style-image: url(images/bullet.png);
-    width: 10px;
-    height: 10px;
-}
+        .custom-list {
+            list-style: none;
+            padding-left: 0;
+        }
 
+        .custom-list li {
+            position: relative;
+            padding-left: 20px;
+        }
+
+        .custom-list li:before {
+            content: '';
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            background-image: url('images/bullet.png');
+            background-size: cover;
+            background-position: center;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .mybullet {
+            list-style-image: url(images/bullet.png);
+            width: 10px;
+            height: 10px;
+        }
     </style>
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-32x32.png" sizes="32x32" />
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-192x192.png" sizes="192x192" />
@@ -701,8 +702,8 @@
         <div class="headerwrap">
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
-                <a class="home-link" href="/" title="Fintrinet" rel="home">
-                        <span><img src="/images/fintrinet.png" alt="Fintrinet"  class="imax-logo normal-logo" /></span>
+                    <a class="home-link" href="/" title="Fintrinet" rel="home">
+                        <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
 
@@ -713,16 +714,16 @@
                             <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
                             <div class="nav-container">
                                 <ul id="menu-main_menu" class="nav-menu">
-                                    
+
                                     <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
-                                        
+
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">Who we are</a></li>
-                </ul>
-            </li>
-                                   
+                                        <ul class="sub-menu">
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/about">Who we are</a></li>
+                                        </ul>
+                                    </li>
+
                                     <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/services/">Services</a></li>
                                     <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/contact/">Contact Us</a></li>
                                 </ul>
@@ -760,20 +761,20 @@
 
                         <div class="entry-content">
                             <div id="pl-4" class="panel-layout">
-                               
+
                                 <div id="pg-4-1" class="panel-grid panel-no-style">
                                     <div id="pgc-4-1-0" class="panel-grid-cell">
                                         <div id="panel-4-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2">
                                             <div class="so-widget-sow-editor so-widget-sow-editor-base">
                                                 <div class="siteorigin-widget-tinymce textwidget">
-                                                    <p><strong>Main Objectives –</strong> 
-                                                    <ul >
-                                                        <li > To create an umbrella platform for Finance, Trade and Investment sector in Kenya.</li>
+                                                    <p><strong>Main Objectives –</strong>
+                                                    <ul>
+                                                        <li> To create an umbrella platform for Finance, Trade and Investment sector in Kenya.</li>
                                                         <li>To create synergy and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities.</li>
                                                         <li>To upscale trade and access to strategic markets at local, regional, continental and global levels towards positioning Kenya as a major export economy.</li>
                                                         <li>To mainstream Local, regional and international investments into Kenya.</li>
                                                         <li>To create an innovation, research and resource centre on Finance, Trade and Investment</li>
-                                                       
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -823,8 +824,8 @@
                 <div class="copyright">
                     Copyright &copy; Fintrinet </div>
                 <div class="credit-info">
-                Designed and Developed by LITES
-                   
+                    Designed and Developed by LITES
+
                 </div>
 
             </div><!-- .site-info -->
