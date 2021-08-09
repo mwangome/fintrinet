@@ -798,7 +798,163 @@
 
                         <div class="entry-content">
                             <div id="pl-37" class="panel-layout">
+
+
+
+
+
+
+
+
+
+
+
+                            <div id="pg-37-2" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-2-0" class="panel-grid-cell">
+                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Mr. LEE KARURI </strong><br /><em>Chairman</em> </p>
+                                                                    
+                                                                    <p>Lee is a leading architect, business leader and entrepreneur with passion for Kenya and Africa’s socioeconomic development. He has served as Chairman of the Kenya Private Sector Alliance (KEPSA), Chairman of KEPSA Immediate Foundation, Member of the Inaugural Council of Vision 2030 and Senior Advisor to President Kibaki. Currently he is the Deputy Chairman of the Africa Venture Philanthropy Alliance (AVPA), Chairman of the Multi-Sectoral Forum (MSF) and Chairman of Finance, Trade and Investment Network (FINTRINET).
+Lee is an entrepreneur and serves as executive Chairman of resorts and cities, a real estate and hospitality development company.
+Towards Community service, Lee and his family founded Muangaza Trust 10years ago. Muangaza Trust empowers vulnerable members of the Community through education scholarships and economic empowerment programmes.
+</p>
+                                                                    
+                                                                   
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-2-1" class="panel-grid-cell">
+                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/lee_karuri.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
                                
+
+
+
+
+
+
+
+                            <div id="pg-37-5" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-5-0" class="panel-grid-cell">
+                                        <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/arif_neky.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Bob Tilton" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-5-1" class="panel-grid-cell">
+                                        <div id="panel-37-5-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="10">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Mr. ARIF NEKY </strong><br />
+                                                                        <em></em>
+                                                                    </p>
+                                                                    <p class="bodytext">
+                                                                    Arif Neky is the Senior Advisor for UN Strategic Partnerships at the Resident Coordinator’s Office and the National Coordinator of the SDG Partnership Platform in Kenya - co-created by the UN system and the Government of Kenya. He is also Chairman of the Task Force for the National Advisory Board (NAB) for Impact Finance in Kenya and a member of the Africa Venture Philanthropy Alliance SAG (AVPA). He is Deputy Chairman of the Finance, Trade & Investment Network FINTRINET and a Trustee of the Agriculture Sector Network ASNET of Kenya, and an active Board member of the National Business Compact on Coronavirus NBCC.
+</p>
+<p>He was the founding Coordinator of the first SDG Philanthropy Platform globally in Kenya, Founding Co-Chair of the EA Philanthropy Network and helped create the Kenya Philanthropy Forum. Arif is currently active in broadening the SDG Partnership Platform in Kenya to unlock significant private, philanthropic, intellectual and blended finance capital and collaborations to accelerate high priority SDG impacts.</p>
+                                                                    
+    <p>As the former Regional CEO of the Aga Khan Foundation (AKF) East Africa for over 13 years, Arif was directly responsible for a wide portfolio of programs in health, education, rural development and civil society enhancement across Kenya, Uganda and Tanzania.</p>                                                               
+                                                               
+<p>Arif was previously the Regional Representative across Eastern Africa for the French & International Bank - Société Générale where his achievements included blended financing of selected development and infrastructure projects up to 250m French Francs per annum. He was also previously the founder and CEO of the Microsoft certified Academy of Learning in Vancouver, Canada.</p>
+<p>
+Contact Arif Neky at <a href="mailto:arif.neky@one.un.org">arif.neky@one.un.org</a>
+
+</p>
+                                                                   
+</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+
+
+                                <div id="pg-37-2" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-2-0" class="panel-grid-cell">
+                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong> DR. ALFRED NDEMO</strong><br /><em>Chief Executive Officer (CEO) of Finance</em> </p>
+                                                                    
+                                                                    <p>
+                                                                    Dr. Alfred Ndemo is the Current Chief Executive Officer (CEO) of Finance, Trade, and Investment Network, (FINTRINET). Prior to joining FINTRINET, Dr. Ndemo was a Lecturer at Strathmore University at the Business School. His areas of interest were in Corporate Governance, Public Policy, and International Development.
+He previously has a chequered career as a Public Administrator, having worked with Government of Kenya as a civil servant for many years. He is a researcher and trainer in Governance matters, particularly in Public Finance, Public Policy, and International Development.
+He is an experienced Resource Person in Public Management and Devolution. Dr. Ndemo has previously worked as a technical expert and consultant in many institutions such as the World Bank (Governance Division), Centre for Parliamentary Studies and Training (CPST), DFID, USAID, GiZ, Transparency International Kenya and Kenya Institute of Public Policy Research and Analysis (KIPPRA). He has also previously worked as a General Assembly Council member for Action Aid International (AAIK), Kenya Chapter. 
+Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree from the University of Leicester in the UK. He is a member of African Association of Political Science-Kenya Chapter (AAPS-K), an affiliate member of the Centre for Law and Research International (CLARION) and a member of Chartered Institute of Arbitrators.
+                                                                    
+                                                                    
+</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-2-1" class="panel-grid-cell">
+                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/alfred_ndemo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+
                                
                                 <div id="pg-37-2" class="panel-grid panel-no-style">
                                     <div id="pgc-37-2-0" class="panel-grid-cell">
