@@ -7,13 +7,13 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>Who we are &#8211; Smart Sourcing</title>
+    <title>Who we are &#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Smart Sourcing &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Smart Sourcing &raquo; Comments Feed" href="https://www.smart-sourcing.com/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Comments Feed" href="https://www.smart-sourcing.com/comments/feed/" />
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
