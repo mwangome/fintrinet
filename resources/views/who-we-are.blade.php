@@ -878,7 +878,7 @@ Towards Community service, Lee and his family founded Muangaza Trust 10years ago
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong>Mr. ARIF NEKY </strong><br />
-                                                                        <em></em>
+                                                                        <em>Vice Chairman</em>
                                                                     </p>
                                                                     <p class="bodytext">
                                                                     Arif Neky is the Senior Advisor for UN Strategic Partnerships at the Resident Coordinator’s Office and the National Coordinator of the SDG Partnership Platform in Kenya - co-created by the UN system and the Government of Kenya. He is also Chairman of the Task Force for the National Advisory Board (NAB) for Impact Finance in Kenya and a member of the Africa Venture Philanthropy Alliance SAG (AVPA). He is Deputy Chairman of the Finance, Trade & Investment Network FINTRINET and a Trustee of the Agriculture Sector Network ASNET of Kenya, and an active Board member of the National Business Compact on Coronavirus NBCC.
@@ -919,7 +919,7 @@ Contact Arif Neky at <a href="mailto:arif.neky@one.un.org">arif.neky@one.un.org<
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> DR. ALFRED NDEMO</strong><br /><em>Chief Executive Officer (CEO) of Finance</em> </p>
+                                                                    <p class="bodytext"><strong> DR. ALFRED NDEMO</strong><br /><em>Chief Executive Officer (CEO)</em> </p>
                                                                     
                                                                     <p>
                                                                     Dr. Alfred Ndemo is the Current Chief Executive Officer (CEO) of Finance, Trade, and Investment Network, (FINTRINET). Prior to joining FINTRINET, Dr. Ndemo was a Lecturer at Strathmore University at the Business School. His areas of interest were in Corporate Governance, Public Policy, and International Development.
@@ -955,48 +955,13 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
 
 
 
-                               
-                                <div id="pg-37-2" class="panel-grid panel-no-style">
-                                    <div id="pgc-37-2-0" class="panel-grid-cell">
-                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
-                                            <div class="textwidget">
-                                                <div class="jsn-bootstrap3">
-                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
-                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
-                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
-                                                                <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong>Mr. Hosea Kili</strong><br /><em>Group Managing Director/CEO</em> </p>
-                                                                    <p class="bodytext">An advocate of the High Court of Kenya, Mr. Kili holds a Masters of Business Administration from the Management College of Southern Africa (MANCOSA). He is a Fellow of the Institute of Certified Public Secretaries of Kenya (ICPSK); a Fellow Member of Kenya Institute of Management (KIM) and an active member of the Law Society of Kenya (LSK).</p>
-                                                                    <p class="bodytext">Mr. Kili is a Council member and the current Chairman of the East and Central Africa Social Security Association (ECASSA). He is a Non-Executive Director at the Nairobi Securities Exchange (NSE) and the current President, Association of Pension Trustees & Administrators of Kenya (APTAK).</p>
-                                                                    <p>A recipient of numerous commendations, Mr. Kili was awarded the Presidential Order of Grand Warrior of Kenya in December 2011 and the 2nd Runners up CEO of the Year at the COYA Awards 2012. He was also recognized as the Personality of the Year at the 2017 Pension Awards that sought to award excellence in innovation and service provision to improve the outcomes of both pension funds as well as members. Mr. Kili was also recognized as the 2nd Runners up in the ‘CEO of the Year’ category during the 2017 and 2018 Champions of Governance Awards.</p>
-                                                                    <p>Mr. Kili currently serves as a member of the International Social Security Association (ISSA) bureau and a member of the Finance Committee of the ISSA, following his election to this post in 2019.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="pgc-37-2-1" class="panel-grid-cell">
-                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
-                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
-
-                                                <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Hosea Kili Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                                 <div id="pg-37-3" class="panel-grid panel-no-style">
                                     <div id="pgc-37-3-0" class="panel-grid-cell">
                                         <div id="panel-37-3-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="5">
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/Wamboi Mbarire Passport Photo.jpeg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mrs. Wamboi Mbarire" alt="" class="so-widget-image" />
+                                                    <img src="images/thumbnail_Hosea Kili Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mrs. Wamboi Mbarire" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -1010,7 +975,45 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong>Mrs. Wambui Mbarire</strong><br />
+
+                                                                <p class="bodytext"><strong>Mr. Hosea Kili</strong><br /><em>Group Managing Director/CEO</em> </p>
+                                                                    <p class="bodytext">An advocate of the High Court of Kenya, Mr. Kili holds a Masters of Business Administration from the Management College of Southern Africa (MANCOSA). He is a Fellow of the Institute of Certified Public Secretaries of Kenya (ICPSK); a Fellow Member of Kenya Institute of Management (KIM) and an active member of the Law Society of Kenya (LSK).</p>
+                                                                    <p class="bodytext">Mr. Kili is a Council member and the current Chairman of the East and Central Africa Social Security Association (ECASSA). He is a Non-Executive Director at the Nairobi Securities Exchange (NSE) and the current President, Association of Pension Trustees & Administrators of Kenya (APTAK).</p>
+                                                                    <p>A recipient of numerous commendations, Mr. Kili was awarded the Presidential Order of Grand Warrior of Kenya in December 2011 and the 2nd Runners up CEO of the Year at the COYA Awards 2012. He was also recognized as the Personality of the Year at the 2017 Pension Awards that sought to award excellence in innovation and service provision to improve the outcomes of both pension funds as well as members. Mr. Kili was also recognized as the 2nd Runners up in the ‘CEO of the Year’ category during the 2017 and 2018 Champions of Governance Awards.</p>
+                                                                    <p>Mr. Kili currently serves as a member of the International Social Security Association (ISSA) bureau and a member of the Finance Committee of the ISSA, following his election to this post in 2019.</p>
+                                                                
+
+
+                                                                    
+                                                                   
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+
+                               
+                                <div id="pg-37-2" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-2-0" class="panel-grid-cell">
+                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    
+                                                                <p class="bodytext"><strong>Mrs. Wambui Mbarire</strong><br />
                                                                         <em>CEO (RETRAK).</em>
                                                                     </p>
                                                                     <p class="bodytext">Wambui Mbarire is a well-respected influencer in retail sector in the Continent. She is currently
@@ -1032,6 +1035,7 @@ The Voice of retailers, sort by both Government and Private Sector for dialogue 
 partnerships. She passionately champions best practices in the retail sector.
 She has worked in personnel and human capital management, finance, administration field and
 operations management.</p>
+                                                                
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1040,41 +1044,24 @@ operations management.</p>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div id="pg-37-4" class="panel-grid panel-no-style">
-                                    <div id="pgc-37-4-0" class="panel-grid-cell">
-                                        <div id="panel-37-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7">
-                                            <div class="textwidget">
-                                                <div class="jsn-bootstrap3">
-                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
-                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
-                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
-                                                                <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong>Mr. Michael Kamau</strong><br />
-                                                                        <em>Agronomist</em>
-                                                                    </p>
-                                                                    <p class="bodytext">Michael Kamau is an Agronomist and programme management specialist. Michael has had a stint working in Kenya & beyond with a demonstrated ability to lead diverse teams of personnel to new levels of success in fast-paced business environments. Michael has over fifteen (15) years of experience in the Public, Private and development sectors. Michael is adept at designing and implementing corporate and business strategies, with expertise in programme planning and identifying interventions that can contribute to sustainable market transformation, specifically in the Agriculture sector. Michael has also worked in a multi-stakeholder approach to create an enabling environment through public-private dialogue platforms. Michael key areas of expertise are project planning, project implementation, programme monitoring and reporting, Networking with Government and non-Government Organizations, specifically in the Agriculture sector. Michael focuses on working to fully utilize his skill to ensure improved productivity and food security.</p>
-                                                                    <p>Currently, Michael works as a Sector manager at Kenya Market Trust. His responsibilities include developing partnerships and managing relationships with stakeholders drawn from private, the public (both at the national and county levels) and development sectors. Michael previously worked at Kencrop Kenya Limited as their pioneer Country Manager, at Bio-Medica Laboratories as the Technical and Marketing Manager and a Divisional Agricultural and Extension Officer at the Ministry of Agriculture.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="pgc-37-4-1" class="panel-grid-cell">
-                                        <div id="panel-37-4-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="8">
+                                    <div id="pgc-37-2-1" class="panel-grid-cell">
+                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Michael Kamau Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Richard Trendley" alt="" class="so-widget-image" />
+                                                    <img src="images/Wamboi Mbarire Passport Photo.jpeg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+
+
+
+
+
+                                
                                 <div id="pg-37-5" class="panel-grid panel-no-style">
                                     <div id="pgc-37-5-0" class="panel-grid-cell">
                                         <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
@@ -1116,6 +1103,48 @@ operations management.</p>
                                         </div>
                                     </div>
                                 </div>
+
+
+
+
+
+
+
+                                <div id="pg-37-4" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-4-0" class="panel-grid-cell">
+                                        <div id="panel-37-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Mr. Michael Kamau</strong><br />
+                                                                        <em>Agronomist</em>
+                                                                    </p>
+                                                                    <p class="bodytext">Michael Kamau is an Agronomist and programme management specialist. Michael has had a stint working in Kenya & beyond with a demonstrated ability to lead diverse teams of personnel to new levels of success in fast-paced business environments. Michael has over fifteen (15) years of experience in the Public, Private and development sectors. Michael is adept at designing and implementing corporate and business strategies, with expertise in programme planning and identifying interventions that can contribute to sustainable market transformation, specifically in the Agriculture sector. Michael has also worked in a multi-stakeholder approach to create an enabling environment through public-private dialogue platforms. Michael key areas of expertise are project planning, project implementation, programme monitoring and reporting, Networking with Government and non-Government Organizations, specifically in the Agriculture sector. Michael focuses on working to fully utilize his skill to ensure improved productivity and food security.</p>
+                                                                    <p>Currently, Michael works as a Sector manager at Kenya Market Trust. His responsibilities include developing partnerships and managing relationships with stakeholders drawn from private, the public (both at the national and county levels) and development sectors. Michael previously worked at Kencrop Kenya Limited as their pioneer Country Manager, at Bio-Medica Laboratories as the Technical and Marketing Manager and a Divisional Agricultural and Extension Officer at the Ministry of Agriculture.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-4-1" class="panel-grid-cell">
+                                        <div id="panel-37-4-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="8">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/thumbnail_Michael Kamau Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Richard Trendley" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                               
                                
                             </div>
                         </div><!-- .entry-content -->
