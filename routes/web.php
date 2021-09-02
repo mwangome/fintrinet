@@ -32,3 +32,7 @@ Route::get('/who-we-are', function () {
 Route::get('/services', function () {
     return view('services');
 });
+
+Route::get('/pillars', function () {
+    return view('pillars');
+});

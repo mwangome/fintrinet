@@ -733,7 +733,9 @@
                                     <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="about/">About Us</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Who we are</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="pillars">Pillars</a></li>
                                         </ul>
+                                        
                                     </li>
                                   
                                     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="services/">Services</a>
@@ -760,7 +762,7 @@
         <div class="ibanner nxs-max19 left">
             <div id="da-slider" class="da-slider" role="banner" data-slider-speed="6000" data-slider-height="100" data-slider-reduct="260" data-slider-parallax="1">
                 <div class="nx-slider">
-                    <div class="da-img" style="background-image: url(images/slider_1.jpg);"></div>
+                    <div class="da-img" style="background-image: url(images/slider_1_tea_harvest.jpg);"></div>
                     <div class="slider-content-wrap">
                         <div class="nx-slider-container">
                             <h2>Welcome To Fintrinet</h2>
@@ -769,7 +771,7 @@
                     </div>
                 </div>
                 <div class="nx-slider">
-                    <div class="da-img" style="background-image: url(images/slider_2.jpg);"></div>
+                    <div class="da-img" style="background-image: url(images/slider_2_mombasa_port.jpg);"></div>
                     <div class="slider-content-wrap">
                         <div class="nx-slider-container">
                             <h2>Finance, Trade & Investment</h2>
@@ -779,7 +781,7 @@
                 </div>
                 
                 <div class="nx-slider">
-                    <div class="da-img" style="background-image: url(images/slider_4.jpg);"></div>
+                    <div class="da-img" style="background-image: url(images/slider_3_finance.jpg);"></div>
                     <div class="slider-content-wrap">
                         <div class="nx-slider-container">
                             <h2>Contact Us</h2>
@@ -960,6 +962,7 @@
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
                 <ul class="sub-menu">
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">Who we are</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="pillars">Pillars</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>
