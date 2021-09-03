@@ -730,21 +730,25 @@
                             <div class="nav-container">
                                 <ul id="menu-main_menu" class="nav-menu">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/">Home</a></li>
-                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="about/">About Us</a>
+                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Who we are</a></li>
-                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="pillars">Pillars</a></li>
+                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                         </ul>
                                         
                                     </li>
                                   
-                                    <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="services/">Services</a>
+                                    <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Services</a>
                                         <ul class="sub-menu">
                                             
-                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="services/">Fintrinet Agenda</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="nab">NAB</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="si">Strategic Initiatives</a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact/">Contact Us</a></li>
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav><!-- #site-navigation -->
@@ -817,7 +821,7 @@
                                 <div class="entry-content">
 
                                     <p>To be Public-Private Partnership in the recovery and transformation of Kenya’s economy powered by Finance, Trade and Investment to achieve Big 4 agenda, Vision 2030 and the SDGs.</p>
-                                    <p></p><a href="/who-we-are" class="da-link">Learn More</a>
+                                    <p></p><a href="/our-stand" class="da-link">Learn More</a>
 
                                 </div><!-- .entry-content -->
 
@@ -961,8 +965,8 @@
         <ul id="wprmenu_menu_ul">
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">Who we are</a></li>
-                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="pillars">Pillars</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">The board</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>
@@ -986,8 +990,8 @@
                     <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="https://www.smart-sourcing.com/smart-sourcing-process/faqs/">FAQs</a></li>
                 </ul>
             </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.smart-sourcing.com/request-quote/">Request Quote</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://www.smart-sourcing.com/contact/">Contact Us</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="#">Request Quote</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="#">Contact Us</a></li>
         </ul>
 
         <div class="wpr_search">

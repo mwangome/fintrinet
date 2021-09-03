@@ -755,15 +755,24 @@
                                     <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are">Who we are</a></li>
-                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/pillars">Pillars</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                         </ul>
                                     </li>
 
-                                    <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/services/">Services</a></li>
-                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/contact/">Contact Us</a></li>
+                                    <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Services</a>
+                                        <ul class="sub-menu">
+                                            
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="nab">NAB</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="si">Strategic Initiatives</a></li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav><!-- #site-navigation -->
@@ -1056,13 +1065,7 @@ operations management.</p>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-
-
-
-
-
-                                
+                                </div>                                
                                 <div id="pg-37-5" class="panel-grid panel-no-style">
                                     <div id="pgc-37-5-0" class="panel-grid-cell">
                                         <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
@@ -1146,7 +1149,61 @@ operations management.</p>
                                     </div>
                                 </div>
                                
-                               
+                                <div id="pg-37-5" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-5-0" class="panel-grid-cell">
+                                        <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/thumbnail_Dr. Olaka Passport.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Bob Tilton" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-5-1" class="panel-grid-cell">
+                                        <div id="panel-37-5-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="10">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>DR. HABIL OLAKA</strong><br />
+                                                                        <em>Chief Executive Officer</em>
+                                                                    </p>
+                                                                    
+                                                                    <p>Dr. Olaka was appointed as Chief Executive Officer of the Kenya Bankers Association (KBA) in
+October 2010. He is responsible for the strategic direction of the Association, covering
+industry advocacy, development, and sustainability. Previously he was the Director of
+Operations of the East African Development Bank (EADB) based in Kampala after serving as
+the Resident Manager in Kenya. He earlier served the bank as the Head of Risk Management
+and as the Chief Internal Auditor.</p><p>
+Before joining the Bank, he had been with Banque Indosuez (now Bank of Africa) as the
+Internal Auditor. He started his career at the PricewaterhouseCoopers, Nairobi in the Audit
+and Business Advisory Services Division. He sits on a number of boards representing the KBA.
+These are Kenya Deposit Insurance Corporation (KDIC), Higher Education Loans Board (HELB),
+National Research Fund (NRF), Federation of Kenya Employers (FKE), and the Anti-Money
+Laundering Advisory Board (AMLAB) as alternate to KBA Chairman. He is the National
+President of the Federation of Kenya Employers and the Chairman of the board of the Centre
+for Corporate Governance (CCG). He also sits on the board of the National Housing
+Corporation (NHC).</p><p>
+He holds a Doctor of Business Administration from USIU-Africa, a First-Class Honours BSc
+degree in Electrical Engineering from the University of Nairobi, and an MBA in Finance from
+the Manchester Business School in the UK. His DBA dissertation was on the influence of
+strategic leadership on the implementation of strategy in the commercial banks in Kenya.
+He is a member of the Institute of the Certified Public Accountants of Kenya (ICPAK). He is an
+alumnus of the Strathmore School of Accountancy, a Certified Executive Coach and has a good
+command of the French language.</p>
+</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div><!-- .entry-content -->
 

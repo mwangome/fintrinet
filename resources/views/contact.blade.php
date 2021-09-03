@@ -692,14 +692,21 @@
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
 </li>
-                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
+                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are/">Who we are</a></li>
-                                            <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="/pillars/">Pillars</a></li>
+                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                                            <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="secretariat">The secretariat</a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/services/">Services</a>
-
+                                    <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Services</a>
+                                        <ul class="sub-menu">
+                                            
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="nab">NAB</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="si">Strategic Initiatives</a></li>
+                                        </ul>
                                     </li>
                                     
                                    
@@ -753,8 +760,8 @@
                                                         Off Langata road<br />
                                                         
                                                     </p>
-                                                    <p>Tel: 888-235-0500 or 631-293-4796<br />
-                                                        Fax: 631-752-6907<br />
+                                                    <p>Tel: +254 715 723 670<br />
+                                                       <br />
                                                         Email: <a href="mailto:info@fintrinet.or.ke?subject=WebRequest">info@fintrinet.or.ke</a></p>
                                                 </div>
                                             </div>
@@ -762,28 +769,34 @@
                                     </div>
                                   
                                 </div>
+                                @if ($message = Session::get('success'))
+                                                        <div class="alert alert-success alert-block" style="color:green;">
+                                                            
+                                                            <strong>{{ $message }}</strong>
+                                                        </div>
+                                                        @endif
                                 <div id="pg-14-1" class="panel-grid panel-no-style">
+                                
                                     <div id="pgc-14-1-0" class="panel-grid-cell">
                                         <div id="panel-14-1-0-0" class="so-panel widget widget_sow-contact-form panel-first-child panel-last-child" data-index="3">
                                             <div class="so-widget-sow-contact-form so-widget-sow-contact-form-default-29e8396e8f06">
                                                 <h3 class="widget-title">Drop us a note</h3>
-                                                <form action="/contact/#contact-form-ef3a" method="POST" class="sow-contact-form" id="contact-form-ef3a">
-
-
+                                                <form action="mailus" method="POST" class="sow-contact-form" id="contact-form-ef3a">
+                                                    @csrf
                                                     <div class="sow-form-field sow-form-field-name"><label class="sow-form-field-label-above" for="sow-contact-form-field-your-name-2047918865d5dfd4ec057b242971005"><strong>Your Name</strong></label>
-                                                        <span class="sow-field-container"> <input type="text" name="your-name-2047918865d5dfd4ec057b242971005" id="sow-contact-form-field-your-name-2047918865d5dfd4ec057b242971005" value="" class="sow-text-field" />
+                                                        <span class="sow-field-container"> <input type="text" name="name" id="sow-contact-form-field-your-name-2047918865d5dfd4ec057b242971005" value="" class="sow-text-field" />
                                                         </span>
                                                     </div>
                                                     <div class="sow-form-field sow-form-field-email"><label class="sow-form-field-label-above" for="sow-contact-form-field-your-email-2047918865d5dfd4ec057b242971005"><strong>Your Email</strong></label>
-                                                        <span class="sow-field-container"> <input type="email" name="your-email-2047918865d5dfd4ec057b242971005" id="sow-contact-form-field-your-email-2047918865d5dfd4ec057b242971005" value="" class="sow-text-field" />
+                                                        <span class="sow-field-container"> <input type="email" name="email" id="sow-contact-form-field-your-email-2047918865d5dfd4ec057b242971005" value="" class="sow-text-field" />
                                                         </span>
                                                     </div>
                                                     <div class="sow-form-field sow-form-field-subject"><label class="sow-form-field-label-above" for="sow-contact-form-field-subject-2047918865d5dfd4ec057b242971005"><strong>Subject</strong></label>
-                                                        <span class="sow-field-container"> <input type="text" name="subject-2047918865d5dfd4ec057b242971005" id="sow-contact-form-field-subject-2047918865d5dfd4ec057b242971005" value="" class="sow-text-field" />
+                                                        <span class="sow-field-container"> <input type="text" name="subject" id="sow-contact-form-field-subject-2047918865d5dfd4ec057b242971005" value="" class="sow-text-field" />
                                                         </span>
                                                     </div>
                                                     <div class="sow-form-field sow-form-field-textarea"><label class="sow-form-field-label-above" for="sow-contact-form-field-message-2047918865d5dfd4ec057b242971005"><strong>Message</strong></label>
-                                                        <span class="sow-field-container"> <textarea name="message-2047918865d5dfd4ec057b242971005" id="sow-contact-form-field-message-2047918865d5dfd4ec057b242971005" rows="10"></textarea>
+                                                        <span class="sow-field-container"> <textarea name="message" id="sow-contact-form-field-message-2047918865d5dfd4ec057b242971005" rows="10"></textarea>
                                                         </span>
                                                     </div> <input type="hidden" name="instance_hash" value="ef3afa5a4afea65f2073c32d84e786e7" />
                                                     <input type="hidden" id="_wpnonce" name="_wpnonce" value="9b6aa72ece" /><input type="hidden" name="_wp_http_referer" value="/contact/" />
@@ -794,17 +807,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="pgc-14-1-1" class="panel-grid-cell">
-                                        <div id="panel-14-1-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
-                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
-
-                                                <div class="sow-image-container">
-                                                    <img src="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/07/phone-call.jpg" width="919" height="613" srcset="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/07/phone-call.jpg 919w, https://www.smart-sourcing.com/ss/wp-content/uploads/2015/07/phone-call-300x200.jpg 300w, https://www.smart-sourcing.com/ss/wp-content/uploads/2015/07/phone-call-272x182.jpg 272w" sizes="(max-width: 919px) 100vw, 919px" alt="" class="so-widget-image" />
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
+                   
                                 </div>
                             </div>
                         </div><!-- .entry-content -->
@@ -906,10 +909,10 @@
 
     <div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
         <ul id="wprmenu_menu_ul">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="about/">About Us</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about/">Who we are</a></li>
-                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="pillars/">Pillars</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                 </ul>
             </li>        
             

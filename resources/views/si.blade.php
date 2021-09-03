@@ -7,7 +7,7 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>Services &#8211; Fintrinet</title>
+    <title>Strategic Initiatives  &#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -21,7 +21,7 @@
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/",
             "svgExt": ".svg",
             "source": {
-                "concatemoji": "https:\/\/www.smart-sourcing.com\/ss\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.7"
+                "concatemoji": "https:\/\/www.smart-sourcing.com\/ss\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.8"
             }
         };
         ! function(e, a, t) {
@@ -75,7 +75,7 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.8' type='text/css' media='all' />
     <link rel='stylesheet' id='siteorigin-panels-front-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.7' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css' href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
     <link rel='stylesheet' id='owl-carousel-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1' type='text/css' media='all' />
@@ -131,11 +131,11 @@
     <link rel='https://api.w.org/' href='https://www.smart-sourcing.com/wp-json/' />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.smart-sourcing.com/ss/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.smart-sourcing.com/ss/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 5.3.7" />
-    <link rel="canonical" href="https://www.smart-sourcing.com/about/" />
-    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=4' />
-    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2F&#038;format=xml" />
+    <meta name="generator" content="WordPress 5.3.8" />
+    <link rel="canonical" href="https://www.smart-sourcing.com/about/who-we-are/" />
+    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=37' />
+    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2Fwho-we-are%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2Fwho-we-are%2F&#038;format=xml" />
     <style type="text/css">
         body {
             font-family: "Open Sans", Helvetica, sans-serif;
@@ -560,106 +560,144 @@
         }
     </style>
     <style type="text/css" media="all" id="siteorigin-panels-layouts-head">
-        /* Layout 4 */
-        #pgc-4-0-0 {
+        /* Layout 37 */
+        #pgc-37-0-0 {
             width: 25%;
-            width: calc(25% - (0.750000001875 * 30px))
+            width: calc(25% - (0.75 * 30px))
         }
 
-        #pl-4 #panel-4-0-0-0,
-        #pl-4 #panel-4-0-1-0,
-        #pl-4 #panel-4-1-0-0 {}
+        #pl-37 #panel-37-0-0-0,
+        #pl-37 #panel-37-0-1-0,
+        #pl-37 #panel-37-1-0-0,
+        #pl-37 #panel-37-2-0-0,
+        #pl-37 #panel-37-2-1-0,
+        #pl-37 #panel-37-3-0-0,
+        #pl-37 #panel-37-3-1-0,
+        #pl-37 #panel-37-4-0-0,
+        #pl-37 #panel-37-4-1-0,
+        #pl-37 #panel-37-5-0-0,
+        #pl-37 #panel-37-5-1-0,
+        #pl-37 #panel-37-6-0-0,
+        #pl-37 #panel-37-7-0-0,
+        #pl-37 #panel-37-7-1-0,
+        #pl-37 #panel-37-8-0-0,
+        #pl-37 #panel-37-8-1-0 {}
 
-        #pgc-4-0-1 {
+        #pgc-37-0-1 {
             width: 75%;
-            width: calc(75% - (0.249999998125 * 30px))
+            width: calc(75% - (0.25 * 30px))
         }
 
-        #pg-4-0,
-        #pl-4 .so-panel {
+        #pg-37-0,
+        #pg-37-1,
+        #pg-37-2,
+        #pg-37-3,
+        #pg-37-4,
+        #pg-37-5,
+        #pg-37-6,
+        #pg-37-7,
+        #pl-37 .so-panel {
             margin-bottom: 30px
         }
 
-        #pgc-4-1-0 {
+        #pgc-37-1-0,
+        #pgc-37-6-0 {
             width: 100%;
             width: calc(100% - (0 * 30px))
         }
 
-        #pl-4 .so-panel:last-child {
-            margin-bottom: 0px
+        #pgc-37-2-0,
+        #pgc-37-3-1,
+        #pgc-37-4-0,
+        #pgc-37-5-1,
+        #pgc-37-7-1,
+        #pgc-37-8-0 {
+            width: 75%;
+            width: calc(75% - (0.249999998125 * 30px))
         }
 
-        #pg-4-1.panel-no-style,
-        #pg-4-1.panel-has-style>.panel-row-style {
-            -webkit-align-items: flex-start;
-            align-items: flex-start
+        #pgc-37-2-1,
+        #pgc-37-3-0,
+        #pgc-37-4-1,
+        #pgc-37-5-0,
+        #pgc-37-7-0,
+        #pgc-37-8-1 {
+            width: 25%;
+            width: calc(25% - (0.750000001875 * 30px))
+        }
+
+        #pl-37 .so-panel:last-child {
+            margin-bottom: 0px
         }
 
         @media (max-width:780px) {
 
-            #pg-4-0.panel-no-style,
-            #pg-4-0.panel-has-style>.panel-row-style,
-            #pg-4-1.panel-no-style,
-            #pg-4-1.panel-has-style>.panel-row-style {
+            #pg-37-0.panel-no-style,
+            #pg-37-0.panel-has-style>.panel-row-style,
+            #pg-37-1.panel-no-style,
+            #pg-37-1.panel-has-style>.panel-row-style,
+            #pg-37-2.panel-no-style,
+            #pg-37-2.panel-has-style>.panel-row-style,
+            #pg-37-3.panel-no-style,
+            #pg-37-3.panel-has-style>.panel-row-style,
+            #pg-37-4.panel-no-style,
+            #pg-37-4.panel-has-style>.panel-row-style,
+            #pg-37-5.panel-no-style,
+            #pg-37-5.panel-has-style>.panel-row-style,
+            #pg-37-6.panel-no-style,
+            #pg-37-6.panel-has-style>.panel-row-style,
+            #pg-37-7.panel-no-style,
+            #pg-37-7.panel-has-style>.panel-row-style,
+            #pg-37-8.panel-no-style,
+            #pg-37-8.panel-has-style>.panel-row-style {
                 -webkit-flex-direction: column;
                 -ms-flex-direction: column;
                 flex-direction: column
             }
 
-            #pg-4-0>.panel-grid-cell,
-            #pg-4-0>.panel-row-style>.panel-grid-cell,
-            #pg-4-1>.panel-grid-cell,
-            #pg-4-1>.panel-row-style>.panel-grid-cell {
+            #pg-37-0>.panel-grid-cell,
+            #pg-37-0>.panel-row-style>.panel-grid-cell,
+            #pg-37-1>.panel-grid-cell,
+            #pg-37-1>.panel-row-style>.panel-grid-cell,
+            #pg-37-2>.panel-grid-cell,
+            #pg-37-2>.panel-row-style>.panel-grid-cell,
+            #pg-37-3>.panel-grid-cell,
+            #pg-37-3>.panel-row-style>.panel-grid-cell,
+            #pg-37-4>.panel-grid-cell,
+            #pg-37-4>.panel-row-style>.panel-grid-cell,
+            #pg-37-5>.panel-grid-cell,
+            #pg-37-5>.panel-row-style>.panel-grid-cell,
+            #pg-37-6>.panel-grid-cell,
+            #pg-37-6>.panel-row-style>.panel-grid-cell,
+            #pg-37-7>.panel-grid-cell,
+            #pg-37-7>.panel-row-style>.panel-grid-cell,
+            #pg-37-8>.panel-grid-cell,
+            #pg-37-8>.panel-row-style>.panel-grid-cell {
                 width: 100%;
                 margin-right: 0
             }
 
-            #pgc-4-0-0 {
+            #pgc-37-0-0,
+            #pgc-37-2-0,
+            #pgc-37-3-0,
+            #pgc-37-4-0,
+            #pgc-37-5-0,
+            #pgc-37-7-0,
+            #pgc-37-8-0 {
                 margin-bottom: 30px
             }
 
-            #pl-4 .panel-grid-cell {
+            #pl-37 .panel-grid-cell {
                 padding: 0
             }
 
-            #pl-4 .panel-grid .panel-grid-cell-empty {
+            #pl-37 .panel-grid .panel-grid-cell-empty {
                 display: none
             }
 
-            #pl-4 .panel-grid .panel-grid-cell-mobile-last {
+            #pl-37 .panel-grid .panel-grid-cell-mobile-last {
                 margin-bottom: 0px
             }
-        }
-
-
-
-        .custom-list {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        .custom-list li {
-            position: relative;
-            padding-left: 20px;
-        }
-
-        .custom-list li:before {
-            content: '';
-            width: 10px;
-            height: 10px;
-            position: absolute;
-            background-image: url('images/bullet.png');
-            background-size: cover;
-            background-position: center;
-            left: 0;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-
-        .mybullet {
-            list-style-image: url(images/bullet.png);
-            width: 10px;
-            height: 10px;
         }
     </style>
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-32x32.png" sizes="32x32" />
@@ -668,7 +706,7 @@
     <meta name="msapplication-TileImage" content="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-270x270.png" />
 </head>
 
-<body class="page-template-default page page-id-4 page-parent custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
+<body class="page-template-default page page-id-37 page-child parent-pageid-4 custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
 
     <div class="nx-ispload">
         <div class="nx-ispload-wrap">
@@ -683,7 +721,7 @@
 
     <div id="page" class="hfeed site">
 
-        <div id="utilitybar" class="utilitybar colored-bg">
+    <div id="utilitybar" class="utilitybar colored-bg">
             <div class="ubarinnerwrap">
                 <div class="socialicons">
                 </div>
@@ -702,11 +740,10 @@
         <div class="headerwrap">
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
-                    <a class="home-link" href="/" title="Fintrinet" rel="home">
+                <a class="home-link" href="/" title="Fintrinet" rel="home">
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
-
 
                     <div id="navbar" class="navbar colored-drop">
                         <nav id="site-navigation" class="navigation main-navigation" role="navigation">
@@ -718,19 +755,24 @@
                                     <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are">The board</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                         </ul>
                                     </li>
 
-                                    <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="/services/">Services</a>
+                                    <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Services</a>
                                         <ul class="sub-menu">
-
-                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="/services/">Fintrinet Agenda</a></li>
+                                            
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="nab">NAB</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="si">Strategic Initiatives</a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/contact/">Contact Us</a></li>
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav><!-- #site-navigation -->
@@ -749,119 +791,60 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">PILLARS</h1>
+                <h1 class="entry-title">Strategic Initiatives </h1>
 
             </div>
         </div>
 
         <div id="main" class="site-main">
 
-
-
             <div id="primary" class="content-area">
                 <div id="content" class="site-content" role="main">
 
-
-                    <article id="post-4" class="post-4 page type-page status-publish hentry">
+                    <article id="post-37" class="post-37 page type-page status-publish hentry">
 
                         <div class="entry-content">
-                            <div id="pl-4" class="panel-layout">
+                            <div id="pl-37" class="panel-layout">
 
-                                <div id="pg-4-1" class="panel-grid panel-no-style">
-                                    <div id="pgc-4-1-0" class="panel-grid-cell">
-                                        <div id="panel-4-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2">
-                                            <div class="so-widget-sow-editor so-widget-sow-editor-base">
-                                                <div class="siteorigin-widget-tinymce textwidget">
-                                                    <p>
-                                                    <h2>FINANCE PILLAR </h2> <br>
-                                                    Over the next three years, the network will work to create synergies and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities. Currently, there are several organised or independent finance institutions deploying capital for various projects and programmes. Majority of the institutions work in silos with no structured deployment and engagement on development priorities. Thus, it is essential that efforts be coordinated to maximize cross-organizational effectiveness, identify gaps and redundancies, and maintain a centralised custody of finance capital in Kenya.
-                                                    It is important to understand where the finances for various projects and programmes in Kenya originate from. Other than the banks, Saccos, Insurance agencies among others, several independent institutions also provide capital for development programmes. The network will work to not only centralise these funds but also understand where Kenya is in Financing, what are the key gaps and what are the key policy interventions to be used in unlocking financial resources. A key function of FINTRINET will be also to identify and mobilise sufficient funding for the Recovery strategy.
-                                                    Further, the network will work to increase Kenya’s savings. The current savings to GDP ratio is very low and institutions need to be encouraged to create a savings culture for both public and private institutions.
+                                <div id="pg-37-2" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-2-0" class="panel-grid-cell">
+                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong> Strategic Initiatives</strong><br /><em>....</em> </p>
+                                                                    To create a huge brand around Kenya@60. The celebration will coincide with the end of our first phase of 3 years. Our aim is to create an entire year of economic launching pad, to build a strong foundation to leapfrog our second phase, 7-year journey to 2030. 
 
+Kenya@60 celebrations, The Year of Convergence, is to bring the World to Kenya, and take Kenya to the World. 
+                                                                    <p>
 
-                                                    <br><strong>Objective One</strong><br>
-                                                    To map out and centralize finance capital in Kenya
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Identify the Key Financial Sources and create operational synergies</li>
-                                                        <li>Engage in continual funds mobilization activities for the key sectors </li>
-                                                        <li>Reduce capital raising costs/complexities for businesses and projects</li>
-                                                        <li>Create a saving culture and enhance market liquidity </li>
-                                                        <li>Create a continental financial services hub in Nairobi.</li>
-
-                                                    </ul>
-                                                    <br><strong>Objective Two</strong><br>
-                                                    To coordinate deployment of capital 
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Develop a Finance deployment criterion to guide prioritization of financial capital</li>
-                                                        <li>Increase Financial access for institutions </li>
-                                                        <li>Increasingly provide simplified and targeted financial solutions to projected recovery and accelerated criterion</li>
-                                                       
-                                                    </ul>
-
-
-                                                    <h2>TRADE PILLAR </h2> <br>
-                                                    The network envisages accelerating recovery and growth through upscaling trade and strategic markets at local, regional, continental, and global levels. Trade will leverage on a public private sector partnership model towards positioning Kenya as a major export economy. The Trade pillar will focus on implementation of the national integrated export strategy across the 10 sectors of the economy.
-
-                                                    <br><strong>Objective One</strong><br>
-                                                    To sustain the export supply base operationalization 
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Operationalize the National integrated export strategy </li>
-                                                        <li>Identify and prioritize on destination markets</li>
-                                                        <li>Productive capacity specification.</li>
-                                                        <li>Identify specific products that will respond to opportunities in specific markets.</li>
-                                                        <li>Coordinate with the private sector to facilitate production</li>
-                                                        <li>Invest in value addition productive infrastructure and technology</li>
-                                                        <li>Increase production in collaboration with County Governments.</li>
-
-                                                    </ul>
-
-                                                    <br><strong>Objective Two</strong><br>
-                                                    To sustain the export supply base operationalization 
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Promote a Continental Hub for Intra Africa Trade through the Africa Continental Free Trade Area (AfCFTA) </li>
-                                                        <li>Promote customs cooperation and tariff concessions to facilitate trade</li>
-                                                        <li>Create a framework and Institutionalize Public-Private partnerships</li>
-                                                        <li></li>
-
-                                                    </ul>
-
-                                                    <h2>INVESTMENT PILLAR </h2> <br>
-                                                    FINTRINET seeks to leverage on the various financial assets to implement the Post COVID recovery and accelerated growth. Kenya is a prime investment hub with a lot of local and foreign interests yet there are insufficient structured platform offering pre-vetted investments options. In the brink of great economic transformation in Africa with unprecedented opportunities, there is need to tap into the capital markets and provide an investor ready catalogue to address the most important projects in achieving the projected growth.
-
-The network believes that investing can make the world more equitable and sustainable and will seek to provide a financial infrastructure to execute on this potential. The platform should engage the different actors and leverage different types of capital that have varying expectations, tax implications, legal obligations, and regulatory oversight among others and provide the required different infrastructure to succeed.
-
-                                                    <br><strong>Objective One</strong><br>
-                                                    To create synergy of all sources of investment funds both local and foreign
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Create an investment management platform </li>
-                                                        <li>Expand existing investments and generate new investment </li>
-                                                        <li>Identify and promote potential investor ready business and entrepreneurs </li>
-                                                        <li>Provide an advisory and technical expertise platform to support businesses </li>
-                                                        <li>Promote growth through investments in innovative product and platform offerings</li>
-                                                        <li>Create monetary targets for investment capital origination</li>
-                                                        <li>Create investment profiles to create awareness of investment opportunities, incentives.</li>
-
-                                                    </ul>
-
-                                                    <br><strong>Objective Two</strong><br>
-                                                    Increase Investment Portfolio
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Introduce demand driven investments. </li>
-                                                        <li>Promote innovative business ideas.</li>
-                                                        <li>Introduce new investments.</li>
-                                                        <li>Increase and strengthen members engagement.</li>
-                                                    </ul>
+                                                                    </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+                                    <div id="pgc-37-2-1" class="panel-grid-cell">
+                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/Wamboi Mbarire Passport Photo.jpeg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
+                                              
+                                                </div>
+                                                <br> <p >Mrs. Wambui Mbarire<br>
+                                                <span style="font-size: x-small;"><a href="mailto:"></a></span></p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
+
+
                             </div>
                         </div><!-- .entry-content -->
 
@@ -913,6 +896,7 @@ The network believes that investing can make the world more equitable and sustai
         </footer><!-- #colophon -->
     </div><!-- #page -->
 
+    <link rel='stylesheet' id='sow-image-default-d6014b76747a-css' href='https://www.smart-sourcing.com/ss/wp-content/uploads/siteorigin-widgets/sow-image-default-d6014b76747a.css?ver=5.3.8' type='text/css' media='all' />
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
@@ -936,7 +920,7 @@ The network believes that investing can make the world more equitable and sustai
     </script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-content/themes/i-max/inc/responsive-menu/js/wprmenu.js?ver=2017-03-16'></script>
     <script type='text/javascript' src='https://use.fontawesome.com/30858dc40a.js?ver=4.0.7'></script>
-    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/wp-embed.min.js?ver=5.3.7'></script>
+    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/wp-embed.min.js?ver=5.3.8'></script>
     <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=3.0.25'></script>
     <script type='text/javascript'>
         WebFont.load({
@@ -962,10 +946,10 @@ The network believes that investing can make the world more equitable and sustai
 
     <div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
         <ul id="wprmenu_menu_ul">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/" aria-current="page">About Us</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
-                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://www.smart-sourcing.com/about/history/">History</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-75"><a href="https://www.smart-sourcing.com/about/who-we-are/" aria-current="page">Who we are</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>
