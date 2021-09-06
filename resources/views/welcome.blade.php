@@ -965,7 +965,7 @@
         <ul id="wprmenu_menu_ul">
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">The board</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="about">Executive Committee</a></li>
                     <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                 </ul>
             </li>

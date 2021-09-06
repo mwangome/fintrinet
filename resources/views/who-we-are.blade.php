@@ -757,7 +757,7 @@
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                         </ul>
                                     </li>
@@ -929,7 +929,7 @@ Contact Arif Neky at <a href="mailto:arif.neky@one.un.org">arif.neky@one.un.org<
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> DR. ALFRED NDEMO</strong><br /><em>Chief Executive Officer (CEO)</em> </p>
+                                                                    <p class="bodytext"><strong> DR. ALFRED NDEMO</strong><br /><em>Chief Executive Officer (CEO)/Secretary to the Board</em> </p>
                                                                     
                                                                     <p>
                                                                     Dr. Alfred Ndemo is the Current Chief Executive Officer (CEO) of Finance, Trade, and Investment Network, (FINTRINET). Prior to joining FINTRINET, Dr. Ndemo was a Lecturer at Strathmore University at the Business School. His areas of interest were in Corporate Governance, Public Policy, and International Development.

@@ -757,7 +757,7 @@
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                         </ul>
                                     </li>

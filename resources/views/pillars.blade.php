@@ -720,7 +720,7 @@
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are">The board</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are">Executive Committee</a></li>
                                         </ul>
                                     </li>
 
