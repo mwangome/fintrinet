@@ -688,7 +688,7 @@
                 </div>
                 <div class="topphone tx-topphone">
                     <i class="topbarico genericon genericon-phone"></i>
-                    Call us : <a class="top_email_link" href="tel: 0720 111117" style="color: #FFF;"> 0720 111117</a>
+                    Call us : <a class="top_email_link" href="tel: +254 202090095" style="color: #FFF;"> +254 202090095</a>
                 </div>
 
                 <div class="topphone tx-topmail">

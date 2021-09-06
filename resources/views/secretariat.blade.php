@@ -727,7 +727,7 @@
                 </div>
                 <div class="topphone tx-topphone">
                     <i class="topbarico genericon genericon-phone"></i>
-                    Call us : <a class="top_email_link" href="tel: 0720 111117" style="color: #FFF;"> 0720 111117</a>
+                    Call us : <a class="top_email_link" href="tel: +254 202090095" style="color: #FFF;"> +254 202090095</a>
                 </div>
 
                 <div class="topphone tx-topmail">
@@ -759,6 +759,7 @@
                                         <ul class="sub-menu">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
                                         </ul>
                                     </li>
 
@@ -872,7 +873,7 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
 
-                                                                <p class="bodytext"><strong>MS. LYDIA MUKHONGO</strong><br /><em>COMMUNICATIONS OFFICER</em> </p>
+                                                                <p class="bodytext"><strong>MS. LYDIA MUKHONGO</strong><br /><em>Communications Officer</em> </p>
                                                                     <p class="bodytext">Lydia Has over 12 years’ experience span in Events Management, Conferences’, meetings, and
 Corporate Social Initiatives (CSI) Management.
 Worked in formidable Secretariats of ECASSA, APTAK and Now FINTRINET working on the

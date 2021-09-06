@@ -727,7 +727,7 @@
                 </div>
                 <div class="topphone tx-topphone">
                     <i class="topbarico genericon genericon-phone"></i>
-                    Call us : <a class="top_email_link" href="tel: 0720 111117" style="color: #FFF;"> 0720 111117</a>
+                    Call us : <a class="top_email_link" href="tel: +254 202090095" style="color: #FFF;"> +254 202090095</a>
                 </div>
 
                 <div class="topphone tx-topmail">
@@ -791,7 +791,7 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">Who we are</h1>
+                <h1 class="entry-title">Executive Board</h1>
 
             </div>
         </div>
@@ -898,10 +898,7 @@ Towards Community service, Lee and his family founded Muangaza Trust 10years ago
     <p>As the former Regional CEO of the Aga Khan Foundation (AKF) East Africa for over 13 years, Arif was directly responsible for a wide portfolio of programs in health, education, rural development and civil society enhancement across Kenya, Uganda and Tanzania.</p>                                                               
                                                                
 <p>Arif was previously the Regional Representative across Eastern Africa for the French & International Bank - Société Générale where his achievements included blended financing of selected development and infrastructure projects up to 250m French Francs per annum. He was also previously the founder and CEO of the Microsoft certified Academy of Learning in Vancouver, Canada.</p>
-<p>
-Contact Arif Neky at <a href="mailto:arif.neky@one.un.org">arif.neky@one.un.org</a>
 
-</p>
                                                                    
 </div>
                                                             </div>
@@ -986,7 +983,7 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
 
-                                                                <p class="bodytext"><strong>Mr. Hosea Kili</strong><br /><em>Group Managing Director/CEO</em> </p>
+                                                                <p class="bodytext"><strong>Mr. Hosea Kili</strong><br /><em></em> </p>
                                                                     <p class="bodytext">An advocate of the High Court of Kenya, Mr. Kili holds a Masters of Business Administration from the Management College of Southern Africa (MANCOSA). He is a Fellow of the Institute of Certified Public Secretaries of Kenya (ICPSK); a Fellow Member of Kenya Institute of Management (KIM) and an active member of the Law Society of Kenya (LSK).</p>
                                                                     <p class="bodytext">Mr. Kili is a Council member and the current Chairman of the East and Central Africa Social Security Association (ECASSA). He is a Non-Executive Director at the Nairobi Securities Exchange (NSE) and the current President, Association of Pension Trustees & Administrators of Kenya (APTAK).</p>
                                                                     <p>A recipient of numerous commendations, Mr. Kili was awarded the Presidential Order of Grand Warrior of Kenya in December 2011 and the 2nd Runners up CEO of the Year at the COYA Awards 2012. He was also recognized as the Personality of the Year at the 2017 Pension Awards that sought to award excellence in innovation and service provision to improve the outcomes of both pension funds as well as members. Mr. Kili was also recognized as the 2nd Runners up in the ‘CEO of the Year’ category during the 2017 and 2018 Champions of Governance Awards.</p>
@@ -1024,7 +1021,7 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     
                                                                 <p class="bodytext"><strong>Mrs. Wambui Mbarire</strong><br />
-                                                                        <em>CEO (RETRAK).</em>
+                                                                        <em></em>
                                                                     </p>
                                                                     <p class="bodytext">Wambui Mbarire is a well-respected influencer in retail sector in the Continent. She is currently
 the Chief Executive Officer of Kenya Retail Traders Association (RETRAK). Ms. Mbarire has been
@@ -1087,7 +1084,7 @@ operations management.</p>
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong>Mr. LUKE M. KINOTI</strong><br />
-                                                                        <em>CEO of Vedman capital</em>
+                                                                        <em></em>
                                                                     </p>
                                                                     <p class="bodytext">Mr. Kinoti is a finance and investment professional, entrepreneur, business coach, trainer and author with over 30 years’ experience in establishing, leading and growing corporates and business entities.</p>
                                                                     <p>Mr. Kinoti is the Founder and CEO of Vedman capital, a private fund management and investor relations company. The company is an accredited Nominated Advisor (Nomad) at the Nairobi Securities Exchange PLC and member of Institute of certified investment and financial analysts (ICIFA). 
@@ -1124,7 +1121,7 @@ operations management.</p>
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong>Mr. Michael Kamau</strong><br />
-                                                                        <em>Agronomist</em>
+                                                                        <em></em>
                                                                     </p>
                                                                     <p class="bodytext">Michael Kamau is an Agronomist and programme management specialist. Michael has had a stint working in Kenya & beyond with a demonstrated ability to lead diverse teams of personnel to new levels of success in fast-paced business environments. Michael has over fifteen (15) years of experience in the Public, Private and development sectors. Michael is adept at designing and implementing corporate and business strategies, with expertise in programme planning and identifying interventions that can contribute to sustainable market transformation, specifically in the Agriculture sector. Michael has also worked in a multi-stakeholder approach to create an enabling environment through public-private dialogue platforms. Michael key areas of expertise are project planning, project implementation, programme monitoring and reporting, Networking with Government and non-Government Organizations, specifically in the Agriculture sector. Michael focuses on working to fully utilize his skill to ensure improved productivity and food security.</p>
                                                                     <p>Currently, Michael works as a Sector manager at Kenya Market Trust. His responsibilities include developing partnerships and managing relationships with stakeholders drawn from private, the public (both at the national and county levels) and development sectors. Michael previously worked at Kencrop Kenya Limited as their pioneer Country Manager, at Bio-Medica Laboratories as the Technical and Marketing Manager and a Divisional Agricultural and Extension Officer at the Ministry of Agriculture.</p>
@@ -1170,7 +1167,7 @@ operations management.</p>
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong>DR. HABIL OLAKA</strong><br />
-                                                                        <em>Chief Executive Officer</em>
+                                                                        <em></em>
                                                                     </p>
                                                                     
                                                                     <p>Dr. Olaka was appointed as Chief Executive Officer of the Kenya Bankers Association (KBA) in

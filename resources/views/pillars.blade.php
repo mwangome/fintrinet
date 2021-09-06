@@ -689,7 +689,7 @@
                 </div>
                 <div class="topphone tx-topphone">
                     <i class="topbarico genericon genericon-phone"></i>
-                    Call us : <a class="top_email_link" href="tel: 0720 111117" style="color: #FFF;"> 0720 111117</a>
+                    Call us : <a class="top_email_link" href="tel: +254 202090095" style="color: #FFF;"> +254 202090095</a>
                 </div>
 
                 <div class="topphone tx-topmail">
@@ -964,8 +964,9 @@ The network believes that investing can make the world more equitable and sustai
         <ul id="wprmenu_menu_ul">
             <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/" aria-current="page">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">The board</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Board</a></li>
                     <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>

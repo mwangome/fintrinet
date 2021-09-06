@@ -663,7 +663,7 @@
                 </div>
                 <div class="topphone tx-topphone">
                     <i class="topbarico genericon genericon-phone"></i>
-                    Call us : <a class="top_email_link" href="tel: 0720 111117" style="color: #FFF;"> 0720 111117</a>
+                    Call us : <a class="top_email_link" href="tel: +254 202090095" style="color: #FFF;"> +254 202090095</a>
                 </div>
 
                 <div class="topphone tx-topmail">
@@ -696,6 +696,7 @@
                                         <ul class="sub-menu">
                                             <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="secretariat">The secretariat</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
                                         </ul>
                                     </li>
                                     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Pillars</a>
