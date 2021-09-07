@@ -42,7 +42,8 @@ return [
             'username'  => "noreply@cpf.or.ke",
             'password'  => "Web@kenya2021",
             'timeout'   => null,
-            'auth_mode' => null
+            'auth_mode' => null,
+            'from' => ['address' => 'noreply@cpf.or.ke', 'name' => 'Fintrinet']
         ],
 
         'ses' => [

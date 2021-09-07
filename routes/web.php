@@ -1,6 +1,10 @@
 <?php
 
+use App\Mail\Note;
+use App\Models\User;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Mail;
+use Illuminate\Http\Request;
 
 /*
 |--------------------------------------------------------------------------
@@ -54,6 +58,10 @@ Route::get('/investment', function () {
     return view('investment');
 });
 
+Route::get('/investment-listing', function () {
+    return view('investment-listing');
+});
+
 Route::get('/nab', function () {
     return view('nab');
 });
@@ -68,6 +76,20 @@ Route::get('/our-stand', function () {
 });
 
 Route::post('/mailus', function(Request $request){
+    error_log(" -> name: " . $request->name ." -> message: " . $request->message . " -> subject: " . $request->subject . " -> email: " . $request->email);
+
+    $user = new User([
+        "email" => "dmwachinga@gmail.com"
+    ]);
+
+    $details = new stdClass();
+    $details->name = $request->name;
+    $details->message = $request->message;
+    $details->subject = $request->subject;
+    $details->email = $request->email;
+
+    Mail::to($user)->queue(new Note($details));
+
     return back()
             ->with('success', 'Your message was successfully delivered.');
            

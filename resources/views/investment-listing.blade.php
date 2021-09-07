@@ -7,13 +7,28 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>Investment Pillar &#8211; Fintrinet</title>
+    <title>Investments Listing &#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
     <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Comments Feed" href="https://www.smart-sourcing.com/comments/feed/" />
+    <style>
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            transition: 0.3s;
+            width: 40%;
+        }
+
+        .card:hover {
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        .container {
+            padding: 2px 16px;
+        }
+    </style>
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
@@ -721,7 +736,7 @@
 
     <div id="page" class="hfeed site">
 
-    <div id="utilitybar" class="utilitybar colored-bg">
+        <div id="utilitybar" class="utilitybar colored-bg">
             <div class="ubarinnerwrap">
                 <div class="socialicons">
                 </div>
@@ -740,7 +755,7 @@
         <div class="headerwrap">
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
-                <a class="home-link" href="/" title="Fintrinet" rel="home">
+                    <a class="home-link" href="/" title="Fintrinet" rel="home">
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
@@ -765,7 +780,7 @@
 
                                     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Pillars</a>
                                         <ul class="sub-menu">
-                                            
+
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
@@ -792,7 +807,7 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">Investment Pillar</h1>
+                <h1 class="entry-title">Investments Listing</h1>
 
             </div>
         </div>
@@ -800,69 +815,42 @@
         <div id="main" class="site-main">
 
             <div id="primary" class="content-area">
-                <div id="content" class="site-content" role="main">
+                <div>
 
-                    <article id="post-37" class="post-37 page type-page status-publish hentry">
 
-                        <div class="entry-content">
-                            <div id="pl-37" class="panel-layout">
 
-                                <div id="pg-37-2" class="panel-grid panel-no-style">
-                                    <div id="pgc-37-2-0" class="panel-grid-cell">
-                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
-                                            <div class="textwidget">
-                                                <div class="jsn-bootstrap3">
-                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
-                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
-                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
-                                                                <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> INVESTMENT</strong><br /><em>....</em> </p>
-                                                                    To aggregate existing deal platforms and to put together our own deal platform focusing on agriculture, health and manufacturing for the first three years. 
-
-Our aim is to have a structured deal platform that showcases pre-vetted projects organized in a sectoral basis with business plans that are investor ready in a catalogue. In addition to creating a professional match making deal platform to ensure timely closure. 
-                                                                    <p>
-                                                                    <a href="investment-listing"><button class="btn btn-primary" type="submit">Investments List</button></a>
-                                                                    </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="pgc-37-2-1" class="panel-grid-cell">
-                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
-                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
-
-                                                <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Luke Kinoti Passport Photo.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
-                                              
-                                                </div>
-                                                <br> <p >Mr. LUKE M. KINOTI
-                                                <br>
-                                                <span style="font-size: x-small;"><a href="mailto:kinotim2000@gmail.com">kinotim2000@gmail.com</a></span>
-                                                </p>
-                                                <br>
-                                            </div>
-                                        </div>
+                   
+                        <div class="row">
+                            <div class="col-sm">
+                                <div class="card">
+                                    <img src="https://cdn1.vc4a.com/media/2021/08/gmds-cover-430x154.jpg" alt="Avatar" style="width:100%">
+                                    <div class="container">
+                                        <h4><b>GeoMobile Data Solutions Co Ltd</b></h4>
+                                        <p>‘’Unlocking farmers potential through digital revolution’’</p>
                                     </div>
                                 </div>
-
-
+                            </div><br>
+                            <div class="col-sm">
+                                <div class="card">
+                                    <img src="https://cdn1.vc4a.com/media/2021/07/Artboard_2-430x154.png" alt="Avatar" style="width:100%">
+                                    <div class="container">
+                                        <h4><b>Fuelmetrics Limited</b></h4>
+                                        <p>Automation and Payment Infrastructure for Petroleum Industry in Africa</p>
+                                    </div>
+                                </div>
+                            </div><br>
+                            <div class="col-sm">
+                                <div class="card">
+                                    <img src="https://cdn1.vc4a.com/media/2021/07/photozuri-ban-430x154.jpg" alt="Avatar" style="width:100%">
+                                    <div class="container">
+                                        <h4><b>Photozuri Limited</b></h4>
+                                        <p>Reliable photo printing and merchandise at your convenience</p>
+                                    </div>
+                                </div>
                             </div>
-                        </div><!-- .entry-content -->
-
-                        <footer class="entry-meta">
-                        </footer><!-- .entry-meta -->
-                    </article><!-- #post -->
-
-
-                    <div id="comments" class="comments-area">
-
-
-
-                    </div><!-- #comments -->
-                </div><!-- #content -->
+                        </div>
+                  
+                </div>
             </div><!-- #primary -->
 
 
