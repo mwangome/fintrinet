@@ -70,6 +70,10 @@ Route::get('/si', function () {
     return view('si');
 });
 
+Route::get('/partners', function () {
+    return view('partners');
+});
+
 
 Route::get('/our-stand', function () {
     return view('our-stand');
