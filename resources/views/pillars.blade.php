@@ -718,7 +718,7 @@
                                     <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are">Executive Committee</a></li>
                                         </ul>

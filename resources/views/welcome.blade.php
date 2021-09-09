@@ -665,6 +665,13 @@
                 position: fixed;
             }
         }
+
+
+
+        .box img {
+            width: 100%;
+            height: 100px;
+        }
     </style>
     <style type="text/css" id="custom-background-css">
         body.custom-background {
@@ -730,7 +737,7 @@
                             <div class="nav-container">
                                 <ul id="menu-main_menu" class="nav-menu">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/">Home</a></li>
-                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
+                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
@@ -794,6 +801,16 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="nx-slider">
+                    <div class="da-img" style="background-image: url(images/kenya_60_2.jpg);"></div>
+                    <div class="slider-content-wrap">
+                        <div class="nx-slider-container">
+                            <h2>Kenya @ 60</h2>
+                            <p></p><a href="contact/" class="da-link">Learn More</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <div id="main" class="site-main">
@@ -815,13 +832,13 @@
                                     </h1>
 
                                     <div class="entry-meta">
-                                        <h1>Our Vision</h1>
+                                        <h1>Who We Are</h1>
                                     </div><!-- .entry-meta -->
                                 </header><!-- .entry-header -->
 
                                 <div class="entry-content">
 
-                                    <p>To be Public-Private Partnership in the recovery and transformation of Kenya’s economy powered by Finance, Trade and Investment to achieve Big 4 agenda, Vision 2030 and the SDGs.</p>
+                                    <p>Finance, Trade, and Investment Network (FINTRINET) is a partnership project between National Government, County Government, the Private Sector, and Development Partners on post-COVID-19 economic recovery and long-term growth and transformation up to 2030. It was designed to achieve our VISION 2030 DREAM.</p>
                                     <p></p><a href="/our-stand" class="da-link">Learn More</a>
 
                                 </div><!-- .entry-content -->
@@ -845,15 +862,19 @@
         <div class="container">
   <h2>Our  Partners</h2>
    <section class="customer-logos slider">
-      <div class="slide"><a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals.html"><img src="images/IDLO-SDG-CoverImage_0.png"></a></div>
-      <div class="slide"><a href="https://kepsa.or.ke"><img src="images/kepsa.png"></a></div>
-      <div class="slide"><a href="https://www.kenyachamber.or.ke"><img src="images/seo-kncci-logo-.png"></a></div>
-      <div class="slide"><a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals.html"><img src="images/IDLO-SDG-CoverImage_0.png"></a></div>
-      <div class="slide"><a href="https://kepsa.or.ke"><img src="images/kepsa.png"></a></div>
-      <div class="slide"><a href="https://www.kenyachamber.or.ke"><img src="images/seo-kncci-logo-.png"></a></div>
-      <div class="slide"><a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals.html"><img src="images/IDLO-SDG-CoverImage_0.png"></a></div>
-      <div class="slide"><a href="https://kepsa.or.ke"><img src="images/kepsa.png" height="150" width="150"></a></div>
-      <div class="slide"><a href="https://www.kenyachamber.or.ke"><img src="images/seo-kncci-logo-.png"></a></div>
+   <div class="slide box"><a href="https://cpf.or.ke"><img src="images/cpf.jpg"></a></div>
+      <div class="slide box"><a href="https://www.undp.org/content/undp/en/home/sustainable-development-goals.html"><img src="images/IDLO-SDG-CoverImage_0.png"></a></div>
+      <div class="slide box"><a href="https://kepsa.or.ke"><img src="images/kepsa.png"></a></div>
+      <div class="slide box"><a href="https://www.kenyachamber.or.ke"><img src="images/seo-kncci-logo-.png"></a></div>
+      <div class="slide box"><a href="https://regalafrica.co.ke"><img src="images/regal.PNG"></a></div>
+      <div class="slide box"><a href="https://vlafrica.com"><img src="images/venturelift.png"></a></div>
+      <div class="slide box"><a href="https://retrak.co.ke"><img src="images/retrak.png"></a></div>
+      <div class="slide box"><a href="https://www.bidcoafrica.com"><img src="images/bidco.jpg"></a></div>
+      <div class="slide box"><a href="https://www.kba.co.ke"><img src="images/kepsa.png" height="150" width="150"></a></div>
+      <div class="slide box"><a href="https://www.kenyachamber.or.ke"><img src="images/kba.jpg"></a></div>
+      <div class="slide box"><a href="https://www.pollmans.com"><img src="images/pollmans.jpg"></a></div>
+      <div class="slide box"><a href="http://eavca.org"><img src="images/eav.png"></a></div>
+      <div class="slide box"><a href="http://www.nse.co.ke"><img src="images/nse.jpg"></a></div>
    </section>
    
 </div>

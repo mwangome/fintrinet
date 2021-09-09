@@ -692,7 +692,7 @@
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
 </li>
-                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
+                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="secretariat">The secretariat</a></li>

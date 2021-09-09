@@ -7,7 +7,7 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>What we Stand for   &#8211; Fintrinet</title>
+    <title>What we Stand for &#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -721,7 +721,7 @@
 
     <div id="page" class="hfeed site">
 
-    <div id="utilitybar" class="utilitybar colored-bg">
+        <div id="utilitybar" class="utilitybar colored-bg">
             <div class="ubarinnerwrap">
                 <div class="socialicons">
                 </div>
@@ -740,7 +740,7 @@
         <div class="headerwrap">
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
-                <a class="home-link" href="/" title="Fintrinet" rel="home">
+                    <a class="home-link" href="/" title="Fintrinet" rel="home">
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
@@ -755,7 +755,7 @@
                                     <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
@@ -765,7 +765,7 @@
 
                                     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Pillars</a>
                                         <ul class="sub-menu">
-                                            
+
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
@@ -792,7 +792,7 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">What we Stand for </h1>
+                <h1 class="entry-title">Who We Are</h1>
 
             </div>
         </div>
@@ -816,32 +816,128 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> What we Stand for </strong><br /><em>....</em> </p>
-                                                                    <strong>VISION </strong><br>
+                                                                    <p class="bodytext"><strong> FINTRINET </strong><br /><em>....</em> </p>
+                                                                    <strong> </strong><br>
 
-To be Public-Private Partnership in the recovery and transformation of Kenya’s economy powered by Finance, Trade and Investment to achieve Big 4 agenda, Vision 2030 and the SDGs. 
+                                                                    <p> Finance, Trade, and Investment Network (FINTRINET) is a partnership project between National Government, County Government, the Private Sector, and Development Partners on post-COVID-19 economic recovery and long-term growth and transformation up to 2030. It was designed to achieve our VISION 2030 DREAM.</p><br>
+                                                                    <p> FINTRINET was convened by KEPSA Foundation, Kenya National Chambers of Commerce and Industry, KNCCI, and in partnership with the SDG Partnership Platform of the UN.</p>
 
-<br><strong>MISSION </strong><br>
-
-
-To build momentum for rapid economic recovery, create jobs, turn Kenya into a major export economy and deliver the Vision 2030. 
-
-<br><strong>CORE VALUES </strong><br>
-
-FINTRINET is be guided by the following core values: 
-<ul>
-    <li>Innovation</li>
-    <li>Accountability and Transparency </li>
-    <li>Leadership and Integrity </li>
-    <li>Equal opportunities.</li>
-    <li>Collaboration and Partnerships</li>
-    <li>Teamwork</li>
-</ul> 
-
- 
                                                                     <p>
+                                                                        It is a Marshall Plan to mainstream and upscale ten economic sectors around a platform of Finance, Trade, and Investment. This project will be in cycles of 10 years. Our ten-year project (2021-2030) is in two phases.
+                                                                    <ul>
+                                                                        <li><strong>Phase 1</strong> – Three years (2021-2023): post-Covid19 economic recovery.</li>
+                                                                        <li><strong>Phase 2</strong> – Seven Years (2024-2030): Accelerated Growth and Transformation.</li>
+                                                                    </ul>
+                                                                    </p>
+                                                                    <p>Phase 1 will focus mainly on three sectors; Agriculture, Manufacturing, and Health</p>
+                                                                    The ten sectors include:
+                                                                    <ul>
+                                                                        <li>Agriculture Real Estate Sector Construction</li>
+                                                                        <li>Manufacturing ICT Sector Tourism and Nature</li>
+                                                                        <li>Health Financial Services Sector Transport & Logistics</li>
+                                                                        <li>Wholesale and Retail</li>
+                                                                    </ul>
+                                                                    The network also aims to target the following segments of the economy:
+                                                                    <ul>
+                                                                        <li>People Living with Disability (PWDs)</li>
+                                                                        <li>Starts Ups</li>
+                                                                        <li>Micro, Small & Medium Enterprises (MSMEs)</li>
+                                                                        <li>Women Enterprises</li>
+                                                                        <li>Youth Enterprises</li>
+                                                                        <li>Devolution (County Governments)</li>
+                                                                        <li>Large Enterprises</li>
+                                                                    </ul>
 
-                                                                    </div>
+                                                                    <p>FINTRINET shall promote productivity,value addition,competitiveness and standards as its key success factors</p>
+
+                                                                    <p>The Network has 5 Pillars:</p>
+                                                                    <ol type="1">
+                                                                        <li><strong>1) Finance:</strong> FINTRINET aims to bring around the finance capital from various institutions and focus on capital deployment in a coordinated way.</li>
+
+                                                                        <li><strong>2) Trade:</strong>FINTRINET aims to mainstream and upscale the 10 sectors through facilitation of access to new regional, continental and global markets. To accelerate Kenya into a major export economy</li>
+                                                                        <li><strong>3) Investment:</strong>FINTRINET aims to create a professional matching deal platform to ensure timely closure on investment across the 10msectors.</li>
+                                                                        <li><strong>4) Strategic initiative: </strong>focuses on Kenya @ 60. Kenya shall be 60 years of independence in 2023. This will coincide with the end of the first phase of 3 years and the beginning of the 7-year journey to 2030.FINTRINET aims to build a transformation agenda and economic transformation and opportunities around Kenya@60 celebrations in 2023, The Year of Convergence. Bringing the World to Kenya and taking Kenya to the World.</li>
+                                                                        <li><strong>5) National advisory board (NAB): </strong>With impact investment landscape rapidly increasing in Kenya due to a young, enterprising and ambitious population, coupled with several social or environmental challenges that need investment, the need for a body to coordinate the sub-sector’s needs has been recognised.</li>
+
+                                                                    </ol>
+
+                                                                    <p>Championed by the Global Steering Group for Impact Investing (GSG) and led by the SDG Partnership Platform, The National Advisory Board for Impact Investing (NAB) in Kenya brings together key stakeholders from Kenya’s Impact Investing ecosystem to develop and strengthen the impact investment sector in Kenya for the achievement of Sustainable Development Goals (SDGs) and the national development agenda.</p>
+
+                                                                    <p>Due to the current economic state, FINTRINET has created a post covid 19 recovery road map followed by a growth and transformation plan 2021-2030. The pillars will drive the strategy over the next 3 years and over the 10 years for economic transformation.</p>
+
+
+                                                                    <br><strong>Our Vision </strong><br>
+                                                                    <p>To be a Public-Private Partnership in the recovery and transformation of Kenya’s economy powered by Finance, Trade, and Investment to achieve the Big 4 agenda, Vision 2030, and the SDGs.</p>
+
+
+                                                                    <br><strong>MISSION </strong><br>
+
+
+                                                                    To build momentum for rapid economic recovery, create jobs, turn Kenya into a major export economy and deliver the Vision 2030.
+
+                                                                    <br><strong>CORE VALUES </strong><br>
+
+                                                                    FINTRINET is be guided by the following core values:
+                                                                    <ul>
+                                                                        <li>Innovation</li>
+                                                                        <li>Accountability and Transparency </li>
+                                                                        <li>Leadership and Integrity </li>
+                                                                        <li>Equal opportunities.</li>
+                                                                        <li>Collaboration and Partnerships</li>
+                                                                        <li>Teamwork</li>
+                                                                    </ul>
+
+                                                                    <br>
+                                                                    <p>Objectives of Finance, Trade, and Investment Network (FINTRINET)</p>
+
+                                                                    <ol type="a">
+                                                                        <li>a) To create an umbrella platform for Finance, Trade, and Investment sector in Kenya.</li>
+                                                                        <li>b) To create synergy and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities.</li>
+                                                                        <li>c) To upscale trade and access to strategic markets at local, regional, continental, and global levels towards positioning Kenya as a major export economy.</li>
+                                                                        <li>d) To create a continental financial services hub in Nairobi.</li>
+                                                                        <li>e) To create an Africa Trade Centre and promote a Continental Hub for Intra Africa Trade through the Africa Continental Free Trade Area (AFCFTA)</li>
+                                                                        <li>f) To mainstream Local, regional, and international investments into Kenya.</li>
+                                                                        <li>g) To create innovation, research, and resource centre on Finance, Trade, and Investment.</li>
+
+                                                                    </ol>
+
+
+                                                                    <br>
+                                                                    <p>Expected national Outcomes</p>
+
+                                                                    <ol type="a">
+                                                                        <li>a) Economic recovery in 3 years from 2% to 6% GDP growth.</li>
+                                                                        <li>b) Inclusive prosperity and economic growth and transformation: to attain a GDP growth of 10% by year 6.</li>
+                                                                        <li>c) To create 1.5million new jobs every year over 10 years totaling 15 million. This will clear the current backlog of 5 million jobs and take care of the 1 million people entering the job market every year.</li>
+                                                                        <li>d) Increase National Government Revenue.</li>
+                                                                        <li>e) Increase Private Capital for Kenya’s development and reduce pressure on the National Treasury.</li>
+                                                                        <li>f) Establish Kenya as a strong Middle-Income Nation.</li>
+                                                                        <li>g) Establish Kenya as a major export economy.</li>
+                                                                        <li>h) Promote national savings and a savings culture.</li>
+                                                                        <li>i) Progressively reduce poverty.</li>
+
+                                                                    </ol>
+
+                                                                    <p>Expected business outcome</p>
+                                                                    <p>There shall be measurable:</p>
+
+                                                                    <ol type="a">
+                                                                        <li>amounts of local and foreign investment in the various business segments every year.</li>
+                                                                        <li>number of enterprises that have full closure on investments and growth from it.</li>
+                                                                        <li>amount of value of business created through access to markets within Kenya, the region, continent, and the world.</li>
+                                                                        <li>number of jobs created, both direct and indirect</li>
+                                                                        <li>Ways of assessing the overall impact of FINTRINET on the national economy</li>
+
+                                                                    </ol>
+
+
+                                                                    <p>FINTRINET first strategic plan is a 3-year plan (2021-2023) which will guide our work for the first phase.
+                                                                        FINTRINET shall identify all legislative and regulatory barriers that are cross-cutting or sector-based and advocate for reforms to the national and county governments as well as the legislature and the judiciary
+                                                                        Key partnerships include the National Treasury, Ministry of Interior and Coordination of National Government, Ministry of Trade and Industrialisation, Ministry of ICT and Youth, Nairobi metropolitan, Ministry of Agriculture, Livestock, Fisheries, and Cooperatives and development partners.
+                                                                    </p>
+
+                                                                </div>
+
                                                             </div>
                                                         </div>
                                                     </div>
@@ -854,10 +950,10 @@ FINTRINET is be guided by the following core values:
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                   
-                                              
+
+
                                                 </div>
-                                              
+
                                             </div>
                                         </div>
                                     </div>
