@@ -83,7 +83,7 @@ Route::post('/mailus', function(Request $request){
     error_log(" -> name: " . $request->name ." -> message: " . $request->message . " -> subject: " . $request->subject . " -> email: " . $request->email);
 
     $user = new User([
-        "email" => "dmwachinga@gmail.com"
+        "email" => "info@fintrinet.or.ke"
     ]);
 
     $details = new stdClass();

@@ -980,7 +980,41 @@ European Business University.</p>
                                 </div>
 
 
+                                 <div id="pg-37-2" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-2-0" class="panel-grid-cell">
+                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    
+                                                                <p class="bodytext"><strong>Cynthia M Atieno</strong><br />
+                                                                        <em>Volunteer</em>
+                                                                    </p>
+                                                                    <p class="bodytext">Cynthia is a volunteer at FINTRINET. She serves as a documentation assistant and is involved in the research and formulation of company policies and procedures, strategic planning and development, and their documentation. She works closely with and provides support to the FINTRINET secretariat.</p>
+                                                                    <p>Cynthia is a trained and registered pharmacist. She holds a Bachelors Degree in Pharmacy from Jomo Kenyatta University of Agriculture and Technology</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-2-1" class="panel-grid-cell">
+                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
+                                                <div class="sow-image-container">
+                                                    <img src="images/cynthia.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> 
 
 
                             </div>
