@@ -711,7 +711,7 @@
                                         </ul>
                                     </li>
                                     
-                                   
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-14  menu-item-78"><a href="resources" aria-current="page">Resources</a></li>
                                     <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-78"><a href="contact/" aria-current="page">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -917,7 +917,7 @@
                     <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                 </ul>
             </li>        
-            
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-78"><a href="resources" aria-current="page">Resources</a></li>  
            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-78"><a href="contact/" aria-current="page">Contact Us</a></li>
         </ul>
 

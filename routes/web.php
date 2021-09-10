@@ -79,6 +79,14 @@ Route::get('/our-stand', function () {
     return view('our-stand');
 });
 
+Route::get('/test', function () {
+    return view('test');
+});
+
+Route::get('/resources', function () {
+    return view('resources');
+});
+
 Route::post('/mailus', function(Request $request){
     error_log(" -> name: " . $request->name ." -> message: " . $request->message . " -> subject: " . $request->subject . " -> email: " . $request->email);
 
@@ -98,3 +106,6 @@ Route::post('/mailus', function(Request $request){
             ->with('success', 'Your message was successfully delivered.');
            
 });
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

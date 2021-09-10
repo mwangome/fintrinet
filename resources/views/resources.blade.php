@@ -7,13 +7,13 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>NAB  &#8211; Fintrinet</title>
+    <title>Resources &#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Comments Feed" href="https://www.smart-sourcing.com/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Feed" href="/" />
+    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Comments Feed" href="/" />
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
@@ -21,7 +21,7 @@
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/",
             "svgExt": ".svg",
             "source": {
-                "concatemoji": "https:\/\/www.smart-sourcing.com\/ss\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.8"
+                "concatemoji": "https:\/\/www.smart-sourcing.com\/ss\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.7"
             }
         };
         ! function(e, a, t) {
@@ -75,8 +75,10 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.7' type='text/css' media='all' />
     <link rel='stylesheet' id='siteorigin-panels-front-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='sow-contact-form-default-29e8396e8f06-css' href='https://www.smart-sourcing.com/ss/wp-content/uploads/siteorigin-widgets/sow-contact-form-default-29e8396e8f06.css?ver=5.3.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='sow-image-default-d6014b76747a-css' href='https://www.smart-sourcing.com/ss/wp-content/uploads/siteorigin-widgets/sow-image-default-d6014b76747a.css?ver=5.3.7' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css' href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
     <link rel='stylesheet' id='owl-carousel-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1' type='text/css' media='all' />
     <link rel='stylesheet' id='owl-carousel-transitions-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/templatesnext-toolkit/css/owl.transitions.css?ver=1.3.2' type='text/css' media='all' />
@@ -127,15 +129,16 @@
     </style>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-content/plugins/so-widgets-bundle/widgets/contact/js/contact.min.js?ver=1.15.8'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-content/plugins/tabs-widget-for-page-builder/assets/js/main.min.js?ver=1.2.1'></script>
     <link rel='https://api.w.org/' href='https://www.smart-sourcing.com/wp-json/' />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.smart-sourcing.com/ss/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.smart-sourcing.com/ss/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 5.3.8" />
-    <link rel="canonical" href="https://www.smart-sourcing.com/about/who-we-are/" />
-    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=37' />
-    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2Fwho-we-are%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2Fwho-we-are%2F&#038;format=xml" />
+    <meta name="generator" content="WordPress 5.3.7" />
+    <link rel="canonical" href="https://www.smart-sourcing.com/contact/" />
+    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=14' />
+    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fcontact%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fcontact%2F&#038;format=xml" />
     <style type="text/css">
         body {
             font-family: "Open Sans", Helvetica, sans-serif;
@@ -560,142 +563,75 @@
         }
     </style>
     <style type="text/css" media="all" id="siteorigin-panels-layouts-head">
-        /* Layout 37 */
-        #pgc-37-0-0 {
-            width: 25%;
-            width: calc(25% - (0.75 * 30px))
+        /* Layout 14 */
+        #pgc-14-0-0,
+        #pgc-14-0-1,
+        #pgc-14-0-2 {
+            width: 33.3333%;
+            width: calc(33.3333% - (0.66666666666667 * 30px))
         }
 
-        #pl-37 #panel-37-0-0-0,
-        #pl-37 #panel-37-0-1-0,
-        #pl-37 #panel-37-1-0-0,
-        #pl-37 #panel-37-2-0-0,
-        #pl-37 #panel-37-2-1-0,
-        #pl-37 #panel-37-3-0-0,
-        #pl-37 #panel-37-3-1-0,
-        #pl-37 #panel-37-4-0-0,
-        #pl-37 #panel-37-4-1-0,
-        #pl-37 #panel-37-5-0-0,
-        #pl-37 #panel-37-5-1-0,
-        #pl-37 #panel-37-6-0-0,
-        #pl-37 #panel-37-7-0-0,
-        #pl-37 #panel-37-7-1-0,
-        #pl-37 #panel-37-8-0-0,
-        #pl-37 #panel-37-8-1-0 {}
+        #pl-14 #panel-14-0-0-0,
+        #pl-14 #panel-14-0-1-0,
+        #pl-14 #panel-14-0-2-0,
+        #pl-14 #panel-14-1-0-0,
+        #pl-14 #panel-14-1-1-0 {}
 
-        #pgc-37-0-1 {
-            width: 75%;
-            width: calc(75% - (0.25 * 30px))
-        }
-
-        #pg-37-0,
-        #pg-37-1,
-        #pg-37-2,
-        #pg-37-3,
-        #pg-37-4,
-        #pg-37-5,
-        #pg-37-6,
-        #pg-37-7,
-        #pl-37 .so-panel {
+        #pg-14-0,
+        #pl-14 .so-panel {
             margin-bottom: 30px
         }
 
-        #pgc-37-1-0,
-        #pgc-37-6-0 {
-            width: 100%;
-            width: calc(100% - (0 * 30px))
+        #pgc-14-1-0,
+        #pgc-14-1-1 {
+            width: 50%;
+            width: calc(50% - (0.5 * 30px))
         }
 
-        #pgc-37-2-0,
-        #pgc-37-3-1,
-        #pgc-37-4-0,
-        #pgc-37-5-1,
-        #pgc-37-7-1,
-        #pgc-37-8-0 {
-            width: 75%;
-            width: calc(75% - (0.249999998125 * 30px))
-        }
-
-        #pgc-37-2-1,
-        #pgc-37-3-0,
-        #pgc-37-4-1,
-        #pgc-37-5-0,
-        #pgc-37-7-0,
-        #pgc-37-8-1 {
-            width: 25%;
-            width: calc(25% - (0.750000001875 * 30px))
-        }
-
-        #pl-37 .so-panel:last-child {
+        #pl-14 .so-panel:last-child {
             margin-bottom: 0px
+        }
+
+        #pg-14-0.panel-no-style,
+        #pg-14-0.panel-has-style>.panel-row-style {
+            -webkit-align-items: flex-start;
+            align-items: flex-start
         }
 
         @media (max-width:780px) {
 
-            #pg-37-0.panel-no-style,
-            #pg-37-0.panel-has-style>.panel-row-style,
-            #pg-37-1.panel-no-style,
-            #pg-37-1.panel-has-style>.panel-row-style,
-            #pg-37-2.panel-no-style,
-            #pg-37-2.panel-has-style>.panel-row-style,
-            #pg-37-3.panel-no-style,
-            #pg-37-3.panel-has-style>.panel-row-style,
-            #pg-37-4.panel-no-style,
-            #pg-37-4.panel-has-style>.panel-row-style,
-            #pg-37-5.panel-no-style,
-            #pg-37-5.panel-has-style>.panel-row-style,
-            #pg-37-6.panel-no-style,
-            #pg-37-6.panel-has-style>.panel-row-style,
-            #pg-37-7.panel-no-style,
-            #pg-37-7.panel-has-style>.panel-row-style,
-            #pg-37-8.panel-no-style,
-            #pg-37-8.panel-has-style>.panel-row-style {
+            #pg-14-0.panel-no-style,
+            #pg-14-0.panel-has-style>.panel-row-style,
+            #pg-14-1.panel-no-style,
+            #pg-14-1.panel-has-style>.panel-row-style {
                 -webkit-flex-direction: column;
                 -ms-flex-direction: column;
                 flex-direction: column
             }
 
-            #pg-37-0>.panel-grid-cell,
-            #pg-37-0>.panel-row-style>.panel-grid-cell,
-            #pg-37-1>.panel-grid-cell,
-            #pg-37-1>.panel-row-style>.panel-grid-cell,
-            #pg-37-2>.panel-grid-cell,
-            #pg-37-2>.panel-row-style>.panel-grid-cell,
-            #pg-37-3>.panel-grid-cell,
-            #pg-37-3>.panel-row-style>.panel-grid-cell,
-            #pg-37-4>.panel-grid-cell,
-            #pg-37-4>.panel-row-style>.panel-grid-cell,
-            #pg-37-5>.panel-grid-cell,
-            #pg-37-5>.panel-row-style>.panel-grid-cell,
-            #pg-37-6>.panel-grid-cell,
-            #pg-37-6>.panel-row-style>.panel-grid-cell,
-            #pg-37-7>.panel-grid-cell,
-            #pg-37-7>.panel-row-style>.panel-grid-cell,
-            #pg-37-8>.panel-grid-cell,
-            #pg-37-8>.panel-row-style>.panel-grid-cell {
+            #pg-14-0>.panel-grid-cell,
+            #pg-14-0>.panel-row-style>.panel-grid-cell,
+            #pg-14-1>.panel-grid-cell,
+            #pg-14-1>.panel-row-style>.panel-grid-cell {
                 width: 100%;
                 margin-right: 0
             }
 
-            #pgc-37-0-0,
-            #pgc-37-2-0,
-            #pgc-37-3-0,
-            #pgc-37-4-0,
-            #pgc-37-5-0,
-            #pgc-37-7-0,
-            #pgc-37-8-0 {
+            #pgc-14-0-0,
+            #pgc-14-0-1,
+            #pgc-14-1-0 {
                 margin-bottom: 30px
             }
 
-            #pl-37 .panel-grid-cell {
+            #pl-14 .panel-grid-cell {
                 padding: 0
             }
 
-            #pl-37 .panel-grid .panel-grid-cell-empty {
+            #pl-14 .panel-grid .panel-grid-cell-empty {
                 display: none
             }
 
-            #pl-37 .panel-grid .panel-grid-cell-mobile-last {
+            #pl-14 .panel-grid .panel-grid-cell-mobile-last {
                 margin-bottom: 0px
             }
         }
@@ -706,7 +642,7 @@
     <meta name="msapplication-TileImage" content="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-270x270.png" />
 </head>
 
-<body class="page-template-default page page-id-37 page-child parent-pageid-4 custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
+<body class="page-template-default page page-id-14 custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
 
     <div class="nx-ispload">
         <div class="nx-ispload-wrap">
@@ -721,7 +657,7 @@
 
     <div id="page" class="hfeed site">
 
-    <div id="utilitybar" class="utilitybar colored-bg">
+        <div id="utilitybar" class="utilitybar colored-bg">
             <div class="ubarinnerwrap">
                 <div class="socialicons">
                 </div>
@@ -734,16 +670,18 @@
                     <i class="topbarico genericon genericon-mail"></i>
                     Mail us : <a class="top_email_link" href="mailto:info@fintrinet.or.ke" style="color: #FFF;"> info@fintrinet.or.ke</a>
                 </div>
+
             </div>
         </div>
 
         <div class="headerwrap">
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
-                <a class="home-link" href="/" title="Fintrinet" rel="home">
+                    <a class="home-link" href="/" title="Fintrinet" rel="home">
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
+
 
                     <div id="navbar" class="navbar colored-drop">
                         <nav id="site-navigation" class="navigation main-navigation" role="navigation">
@@ -751,18 +689,16 @@
                             <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
                             <div class="nav-container">
                                 <ul id="menu-main_menu" class="nav-menu">
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
-                                    <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
-
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
+</li>
+                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
-                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
+                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
+                                            <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="secretariat">The secretariat</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
                                         </ul>
                                     </li>
-
                                     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Pillars</a>
                                         <ul class="sub-menu">
                                             
@@ -771,10 +707,12 @@
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="si">Strategic Initiatives</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="nab">SDG Platform – NAB</a></li>
+                                            
                                         </ul>
                                     </li>
-                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-14  menu-item-78"><a href="resources" aria-current="page">Resources</a></li>
-                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
+                                    
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item  page_item page-item-14  menu-item-78"><a href="resources" aria-current="page">Resources</a></li>
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-14  menu-item-78"><a href="contact/" aria-current="page">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav><!-- #site-navigation -->
@@ -793,71 +731,39 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">The National Advisory Board for Impact Investing</h1>
+                <h1 class="entry-title">Resources</h1>
+                <div class="nx-breadcrumb">
+                    <!-- Breadcrumb NavXT 6.3.0 -->
+                    <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to Fintrinet." href="/" class="home">Fintrinet</a></span> &gt; <span typeof="v:Breadcrumb"><span property="v:title">Resources</span></span>
+                </div>
 
             </div>
         </div>
 
         <div id="main" class="site-main">
 
+
+
             <div id="primary" class="content-area">
                 <div id="content" class="site-content" role="main">
 
-                    <article id="post-37" class="post-37 page type-page status-publish hentry">
 
-                        <div class="entry-content">
-                            <div id="pl-37" class="panel-layout">
+                <ol>
 
-                                <div id="pg-37-2" class="panel-grid panel-no-style">
-                                    <div id="pgc-37-2-0" class="panel-grid-cell">
-                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
-                                            <div class="textwidget">
-                                                <div class="jsn-bootstrap3">
-                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
-                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
-                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
-                                                                <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> NAB</strong><br /><em>....</em> </p>
-                                                                    Championed by the Global Steering Group for Impact Investing (GSG) and led by the SDG Partnership Platform, The National Advisory Board for Impact Investing (NAB) in Kenya brings together key stakeholders from Kenya’s Impact Investing ecosystem to develop and strengthen impact investment sector in Kenya for the achievement of Sustainable Development Goals (SDGs) and the national development agenda. 
-                                                                    <p>
+                <li><p><a href="documents/Chairman Speaking Notes 14May2020.docx">Chairman Speaking Notes 14 May 2020 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/256/MS-Word-2-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
-                                                                    </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="pgc-37-2-1" class="panel-grid-cell">
-                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
-                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+                    <li><p><a href="documents/Deputy CEO Speaking Notes 14May2020.docx">Deputy CEO Speaking Notes 14 May 2020 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/256/MS-Word-2-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                   
+                    <li><p><a href="documents/Carole Karuga Guiding Notes 18June2020.docx">Carole Karuga Guiding Notes 18 June 2020  <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/256/MS-Word-2-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
-                                                <div class="sow-image-container">
-                                                    <img src="images/arif_neky.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
-                                              
-                                                </div>
-                                                <br> <p >Mr. ARIF NEKY<br>
-                                                <span style="font-size: x-small;"><a href="mailto:arif.neky@one.un.org">arif.neky@one.un.org</a></span></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                    <li><p><a href="documents/Presentation 29May2020.pdf">Presentation 29 May 2020 <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p> </li>
+                </ol>
+                   
+<div style="height: 200px;">
+
+</div>
 
 
-                            </div>
-                        </div><!-- .entry-content -->
-
-                        <footer class="entry-meta">
-                        </footer><!-- .entry-meta -->
-                    </article><!-- #post -->
-
-
-                    <div id="comments" class="comments-area">
-
-
-
-                    </div><!-- #comments -->
                 </div><!-- #content -->
             </div><!-- #primary -->
 
@@ -873,9 +779,9 @@
                                 <div class="menu-footer_menu-container">
                                     <ul id="menu-footer_menu" class="menu">
                                         <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
-                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-333"><a href="about/" aria-current="page">About Us</a></li>
+                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="about/">About Us</a></li>
                                         <li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="services/">Services</a></li>
-                                        <li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="contact/">Contact Us</a></li>
+                                        <li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="contact">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </aside>
@@ -886,17 +792,16 @@
 
             <div class="site-info">
                 <div class="copyright">
-                    Copyright &copy; Fintrinet </div>
+                    Copyright &copy; LITES </div>
                 <div class="credit-info">
+                   
                     Designed and Developed by LITES
-
                 </div>
 
             </div><!-- .site-info -->
         </footer><!-- #colophon -->
     </div><!-- #page -->
 
-    <link rel='stylesheet' id='sow-image-default-d6014b76747a-css' href='https://www.smart-sourcing.com/ss/wp-content/uploads/siteorigin-widgets/sow-image-default-d6014b76747a.css?ver=5.3.8' type='text/css' media='all' />
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
@@ -920,7 +825,7 @@
     </script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-content/themes/i-max/inc/responsive-menu/js/wprmenu.js?ver=2017-03-16'></script>
     <script type='text/javascript' src='https://use.fontawesome.com/30858dc40a.js?ver=4.0.7'></script>
-    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/wp-embed.min.js?ver=5.3.8'></script>
+    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/wp-embed.min.js?ver=5.3.7'></script>
     <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=3.0.25'></script>
     <script type='text/javascript'>
         WebFont.load({
@@ -946,35 +851,14 @@
 
     <div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
         <ul id="wprmenu_menu_ul">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://www.smart-sourcing.com/about/history/">History</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-75"><a href="https://www.smart-sourcing.com/about/who-we-are/" aria-current="page">Who we are</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                 </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.smart-sourcing.com/manufacturing/apparel/">Apparel</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://www.smart-sourcing.com/manufacturing/vendor-network/">Vendor Network</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://www.smart-sourcing.com/manufacturing/industrial/">Industrial</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.smart-sourcing.com/manufacturing/consumer/">Consumer</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.smart-sourcing.com/manufacturing/medical/">Medical</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a href="https://www.smart-sourcing.com/consulting/">Consulting</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://www.smart-sourcing.com/consulting/quality-assurance/">Quality Assurance</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://www.smart-sourcing.com/consulting/logistics/">Logistics</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="https://www.smart-sourcing.com/smart-sourcing-process/">Product Design &#038; Development</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://www.smart-sourcing.com/smart-sourcing-process/case-studies/">Case Studies</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.smart-sourcing.com/smart-sourcing-process/faqs/">FAQs</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.smart-sourcing.com/request-quote/">Request Quote</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://www.smart-sourcing.com/contact/">Contact Us</a></li>
+            </li>        
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-78"><a href="resources" aria-current="page">Resources</a></li>  
+           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-78"><a href="contact/" aria-current="page">Contact Us</a></li>
         </ul>
 
         <div class="wpr_search">

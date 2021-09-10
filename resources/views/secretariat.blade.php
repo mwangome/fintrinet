@@ -773,6 +773,7 @@
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="nab">SDG Platform – NAB</a></li>
                                         </ul>
                                     </li>
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-14  menu-item-78"><a href="resources" aria-current="page">Resources</a></li>
                                     <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
                                 </ul>
                             </div>
