@@ -817,10 +817,32 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> FINANCE</strong><br /><em>....</em> </p>
-                                                                    To bring around the various finance capital institutions around FINTRINET platform and focus on deployment of capital in a coordinated way. Our sectors of focus for the first three years, Phase 1, is agriculture, manufacturing and health
-                                                                    <p>
+                                                                <h2>FINANCE PILLAR </h2> <br>
+                                                    Over the next three years, the network will work to create synergies and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities. Currently, there are several organised or independent finance institutions deploying capital for various projects and programmes. Majority of the institutions work in silos with no structured deployment and engagement on development priorities. Thus, it is essential that efforts be coordinated to maximize cross-organizational effectiveness, identify gaps and redundancies, and maintain a centralised custody of finance capital in Kenya.
+                                                    It is important to understand where the finances for various projects and programmes in Kenya originate from. Other than the banks, Saccos, Insurance agencies among others, several independent institutions also provide capital for development programmes. The network will work to not only centralise these funds but also understand where Kenya is in Financing, what are the key gaps and what are the key policy interventions to be used in unlocking financial resources. A key function of FINTRINET will be also to identify and mobilise sufficient funding for the Recovery strategy.
+                                                    Further, the network will work to increase Kenya’s savings. The current savings to GDP ratio is very low and institutions need to be encouraged to create a savings culture for both public and private institutions.
 
+
+                                                    <br><strong>Objective One</strong><br>
+                                                    To map out and centralize finance capital in Kenya
+                                                    <br><strong>Strategies</strong>
+                                                    <ul>
+                                                        <li>Identify the Key Financial Sources and create operational synergies</li>
+                                                        <li>Engage in continual funds mobilization activities for the key sectors </li>
+                                                        <li>Reduce capital raising costs/complexities for businesses and projects</li>
+                                                        <li>Create a saving culture and enhance market liquidity </li>
+                                                        <li>Create a continental financial services hub in Nairobi.</li>
+
+                                                    </ul>
+                                                    <br><strong>Objective Two</strong><br>
+                                                    To coordinate deployment of capital 
+                                                    <br><strong>Strategies</strong>
+                                                    <ul>
+                                                        <li>Develop a Finance deployment criterion to guide prioritization of financial capital</li>
+                                                        <li>Increase Financial access for institutions </li>
+                                                        <li>Increasingly provide simplified and targeted financial solutions to projected recovery and accelerated criterion</li>
+                                                       
+                                                    </ul>
                                                                     </div>
                                                             </div>
                                                         </div>
@@ -871,10 +893,9 @@
                             <aside id="nav_menu-2" class="widget widget_nav_menu">
                                 <div class="menu-footer_menu-container">
                                     <ul id="menu-footer_menu" class="menu">
-                                        <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
-                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-333"><a href="about/" aria-current="page">About Us</a></li>
-                                        <li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="services/">Services</a></li>
-                                        <li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="contact/">Contact Us</a></li>
+                                    <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
+                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="resources">Resources</a></li>
+                                        <li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="contact">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </aside>

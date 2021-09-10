@@ -817,10 +817,33 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> TRADE</strong><br /><em>....</em> </p>
-                                                                    To mainstream and upscale agriculture, manufacturing and health, our sectors of focus of the first phase of 3 years, through the facilitation of access to new regional, continental and global markets through our Export Supply Hub. The We aim to accelerate Kenya into a major export economy. 
-                                                                    <p>
+                                                                <h2>TRADE PILLAR </h2> <br>
+                                                    The network envisages accelerating recovery and growth through upscaling trade and strategic markets at local, regional, continental, and global levels. Trade will leverage on a public private sector partnership model towards positioning Kenya as a major export economy. The Trade pillar will focus on implementation of the national integrated export strategy across the 10 sectors of the economy.
 
+                                                    <br><strong>Objective One</strong><br>
+                                                    To sustain the export supply base operationalization 
+                                                    <br><strong>Strategies</strong>
+                                                    <ul>
+                                                        <li>Operationalize the National integrated export strategy </li>
+                                                        <li>Identify and prioritize on destination markets</li>
+                                                        <li>Productive capacity specification.</li>
+                                                        <li>Identify specific products that will respond to opportunities in specific markets.</li>
+                                                        <li>Coordinate with the private sector to facilitate production</li>
+                                                        <li>Invest in value addition productive infrastructure and technology</li>
+                                                        <li>Increase production in collaboration with County Governments.</li>
+
+                                                    </ul>
+
+                                                    <br><strong>Objective Two</strong><br>
+                                                    To sustain the export supply base operationalization 
+                                                    <br><strong>Strategies</strong>
+                                                    <ul>
+                                                        <li>Promote a Continental Hub for Intra Africa Trade through the Africa Continental Free Trade Area (AfCFTA) </li>
+                                                        <li>Promote customs cooperation and tariff concessions to facilitate trade</li>
+                                                        <li>Create a framework and Institutionalize Public-Private partnerships</li>
+                                                       
+
+                                                    </ul>
                                                                     </div>
                                                             </div>
                                                         </div>
@@ -865,10 +888,9 @@
                             <aside id="nav_menu-2" class="widget widget_nav_menu">
                                 <div class="menu-footer_menu-container">
                                     <ul id="menu-footer_menu" class="menu">
-                                        <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
-                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-333"><a href="about/" aria-current="page">About Us</a></li>
-                                        <li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="services/">Services</a></li>
-                                        <li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="contact/">Contact Us</a></li>
+                                    <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
+                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="resources">Resources</a></li>
+                                        <li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="contact">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </aside>

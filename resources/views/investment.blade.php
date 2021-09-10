@@ -817,11 +817,34 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> INVESTMENT</strong><br /><em>....</em> </p>
-                                                                    To aggregate existing deal platforms and to put together our own deal platform focusing on agriculture, health and manufacturing for the first three years. 
+                                                                <h2>INVESTMENT PILLAR </h2> <br>
+                                                    FINTRINET seeks to leverage on the various financial assets to implement the Post COVID recovery and accelerated growth. Kenya is a prime investment hub with a lot of local and foreign interests yet there are insufficient structured platform offering pre-vetted investments options. In the brink of great economic transformation in Africa with unprecedented opportunities, there is need to tap into the capital markets and provide an investor ready catalogue to address the most important projects in achieving the projected growth.
 
-Our aim is to have a structured deal platform that showcases pre-vetted projects organized in a sectoral basis with business plans that are investor ready in a catalogue. In addition to creating a professional match making deal platform to ensure timely closure. 
-                                                                    <p>
+The network believes that investing can make the world more equitable and sustainable and will seek to provide a financial infrastructure to execute on this potential. The platform should engage the different actors and leverage different types of capital that have varying expectations, tax implications, legal obligations, and regulatory oversight among others and provide the required different infrastructure to succeed.
+
+                                                    <br><strong>Objective One</strong><br>
+                                                    To create synergy of all sources of investment funds both local and foreign
+                                                    <br><strong>Strategies</strong>
+                                                    <ul>
+                                                        <li>Create an investment management platform </li>
+                                                        <li>Expand existing investments and generate new investment </li>
+                                                        <li>Identify and promote potential investor ready business and entrepreneurs </li>
+                                                        <li>Provide an advisory and technical expertise platform to support businesses </li>
+                                                        <li>Promote growth through investments in innovative product and platform offerings</li>
+                                                        <li>Create monetary targets for investment capital origination</li>
+                                                        <li>Create investment profiles to create awareness of investment opportunities, incentives.</li>
+
+                                                    </ul>
+
+                                                    <br><strong>Objective Two</strong><br>
+                                                    Increase Investment Portfolio
+                                                    <br><strong>Strategies</strong>
+                                                    <ul>
+                                                        <li>Introduce demand driven investments. </li>
+                                                        <li>Promote innovative business ideas.</li>
+                                                        <li>Introduce new investments.</li>
+                                                        <li>Increase and strengthen members engagement.</li>
+                                                    </ul>
                                                                     <a href="investment-listing"><button class="btn btn-primary" type="submit">Investments List</button></a>
                                                                     </div>
                                                             </div>
@@ -877,10 +900,9 @@ Our aim is to have a structured deal platform that showcases pre-vetted projects
                             <aside id="nav_menu-2" class="widget widget_nav_menu">
                                 <div class="menu-footer_menu-container">
                                     <ul id="menu-footer_menu" class="menu">
-                                        <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
-                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-333"><a href="about/" aria-current="page">About Us</a></li>
-                                        <li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="services/">Services</a></li>
-                                        <li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="contact/">Contact Us</a></li>
+                                    <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
+                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="resources">Resources</a></li>
+                                        <li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="contact">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </aside>
