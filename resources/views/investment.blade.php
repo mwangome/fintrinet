@@ -817,7 +817,7 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                <h2>INVESTMENT PILLAR </h2> <br>
+                                                                <h2>INVESTMENT PILLAR - Investment Deal Hub</h2> <br>
                                                     FINTRINET seeks to leverage on the various financial assets to implement the Post COVID recovery and accelerated growth. Kenya is a prime investment hub with a lot of local and foreign interests yet there are insufficient structured platform offering pre-vetted investments options. In the brink of great economic transformation in Africa with unprecedented opportunities, there is need to tap into the capital markets and provide an investor ready catalogue to address the most important projects in achieving the projected growth.
 
 The network believes that investing can make the world more equitable and sustainable and will seek to provide a financial infrastructure to execute on this potential. The platform should engage the different actors and leverage different types of capital that have varying expectations, tax implications, legal obligations, and regulatory oversight among others and provide the required different infrastructure to succeed.

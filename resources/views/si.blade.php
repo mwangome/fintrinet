@@ -793,7 +793,7 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">Strategic Initiatives </h1>
+                <h1 class="entry-title">Strategic Initiatives</h1>
 
             </div>
         </div>
@@ -817,7 +817,7 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> Strategic Initiatives</strong><br /><em>....</em> </p>
+                                                                    <p class="bodytext"><strong> Strategic Initiatives - Kenya@60 Hub</strong><br /><em>....</em> </p>
                                                                     To create a huge brand around Kenya@60. The celebration will coincide with the end of our first phase of 3 years. Our aim is to create an entire year of economic launching pad, to build a strong foundation to leapfrog our second phase, 7-year journey to 2030. 
 
 Kenya@60 celebrations, The Year of Convergence, is to bring the World to Kenya, and take Kenya to the World. 

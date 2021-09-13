@@ -721,7 +721,7 @@
 
     <div id="page" class="hfeed site">
 
-    <div id="utilitybar" class="utilitybar colored-bg">
+        <div id="utilitybar" class="utilitybar colored-bg">
             <div class="ubarinnerwrap">
                 <div class="socialicons">
                 </div>
@@ -740,7 +740,7 @@
         <div class="headerwrap">
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
-                <a class="home-link" href="/" title="Fintrinet" rel="home">
+                    <a class="home-link" href="/" title="Fintrinet" rel="home">
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
@@ -764,7 +764,7 @@
 
                                     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Pillars</a>
                                         <ul class="sub-menu">
-                                            
+
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
@@ -820,7 +820,7 @@
 
 
 
-                            <div id="pg-37-2" class="panel-grid panel-no-style">
+                                <div id="pg-37-2" class="panel-grid panel-no-style">
                                     <div id="pgc-37-2-0" class="panel-grid-cell">
                                         <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
                                             <div class="textwidget">
@@ -830,13 +830,13 @@
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong>Mr. LEE KARURI </strong><br /><em>Chairman</em> </p>
-                                                                    
+
                                                                     <p>Lee is a leading architect, business leader and entrepreneur with passion for Kenya and Africa’s socioeconomic development. He has served as Chairman of the Kenya Private Sector Alliance (KEPSA), Chairman of KEPSA Immediate Foundation, Member of the Inaugural Council of Vision 2030 and Senior Advisor to President Kibaki. Currently he is the Deputy Chairman of the Africa Venture Philanthropy Alliance (AVPA), Chairman of the Multi-Sectoral Forum (MSF) and Chairman of Finance, Trade and Investment Network (FINTRINET).
-Lee is an entrepreneur and serves as executive Chairman of resorts and cities, a real estate and hospitality development company.
-Towards Community service, Lee and his family founded Muangaza Trust 10years ago. Muangaza Trust empowers vulnerable members of the Community through education scholarships and economic empowerment programmes.
-</p>
-                                                                    
-                                                                   
+                                                                        Lee is an entrepreneur and serves as executive Chairman of resorts and cities, a real estate and hospitality development company.
+                                                                        Towards Community service, Lee and his family founded Muangaza Trust 10years ago. Muangaza Trust empowers vulnerable members of the Community through education scholarships and economic empowerment programmes.
+                                                                    </p>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -860,7 +860,6 @@ Towards Community service, Lee and his family founded Muangaza Trust 10years ago
 
 
 
-                               
 
 
 
@@ -868,7 +867,8 @@ Towards Community service, Lee and his family founded Muangaza Trust 10years ago
 
 
 
-                            <div id="pg-37-5" class="panel-grid panel-no-style">
+
+                                <div id="pg-37-5" class="panel-grid panel-no-style">
                                     <div id="pgc-37-5-0" class="panel-grid-cell">
                                         <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
@@ -892,16 +892,16 @@ Towards Community service, Lee and his family founded Muangaza Trust 10years ago
                                                                         <em>Vice Chairman</em>
                                                                     </p>
                                                                     <p class="bodytext">
-                                                                    Arif Neky is the Senior Advisor for UN Strategic Partnerships at the Resident Coordinator’s Office and the National Coordinator of the SDG Partnership Platform in Kenya - co-created by the UN system and the Government of Kenya. He is also Chairman of the Task Force for the National Advisory Board (NAB) for Impact Finance in Kenya and a member of the Africa Venture Philanthropy Alliance SAG (AVPA). He is Deputy Chairman of the Finance, Trade & Investment Network FINTRINET and a Trustee of the Agriculture Sector Network ASNET of Kenya, and an active Board member of the National Business Compact on Coronavirus NBCC.
-</p>
-<p>He was the founding Coordinator of the first SDG Philanthropy Platform globally in Kenya, Founding Co-Chair of the EA Philanthropy Network and helped create the Kenya Philanthropy Forum. Arif is currently active in broadening the SDG Partnership Platform in Kenya to unlock significant private, philanthropic, intellectual and blended finance capital and collaborations to accelerate high priority SDG impacts.</p>
-                                                                    
-    <p>As the former Regional CEO of the Aga Khan Foundation (AKF) East Africa for over 13 years, Arif was directly responsible for a wide portfolio of programs in health, education, rural development and civil society enhancement across Kenya, Uganda and Tanzania.</p>                                                               
-                                                               
-<p>Arif was previously the Regional Representative across Eastern Africa for the French & International Bank - Société Générale where his achievements included blended financing of selected development and infrastructure projects up to 250m French Francs per annum. He was also previously the founder and CEO of the Microsoft certified Academy of Learning in Vancouver, Canada.</p>
+                                                                        Arif Neky is the Senior Advisor for UN Strategic Partnerships at the Resident Coordinator’s Office and the National Coordinator of the SDG Partnership Platform in Kenya - co-created by the UN system and the Government of Kenya. He is also Chairman of the Task Force for the National Advisory Board (NAB) for Impact Finance in Kenya and a member of the Africa Venture Philanthropy Alliance SAG (AVPA). He is Deputy Chairman of the Finance, Trade & Investment Network FINTRINET and a Trustee of the Agriculture Sector Network ASNET of Kenya, and an active Board member of the National Business Compact on Coronavirus NBCC.
+                                                                    </p>
+                                                                    <p>He was the founding Coordinator of the first SDG Philanthropy Platform globally in Kenya, Founding Co-Chair of the EA Philanthropy Network and helped create the Kenya Philanthropy Forum. Arif is currently active in broadening the SDG Partnership Platform in Kenya to unlock significant private, philanthropic, intellectual and blended finance capital and collaborations to accelerate high priority SDG impacts.</p>
 
-                                                                   
-</div>
+                                                                    <p>As the former Regional CEO of the Aga Khan Foundation (AKF) East Africa for over 13 years, Arif was directly responsible for a wide portfolio of programs in health, education, rural development and civil society enhancement across Kenya, Uganda and Tanzania.</p>
+
+                                                                    <p>Arif was previously the Regional Representative across Eastern Africa for the French & International Bank - Société Générale where his achievements included blended financing of selected development and infrastructure projects up to 250m French Francs per annum. He was also previously the founder and CEO of the Microsoft certified Academy of Learning in Vancouver, Canada.</p>
+
+
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -928,15 +928,15 @@ Towards Community service, Lee and his family founded Muangaza Trust 10years ago
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong> DR. ALFRED NDEMO</strong><br /><em>Chief Executive Officer (CEO)/Secretary to the Board</em> </p>
-                                                                    
+
                                                                     <p>
-                                                                    Dr. Alfred Ndemo is the Current Chief Executive Officer (CEO) of Finance, Trade, and Investment Network, (FINTRINET). Prior to joining FINTRINET, Dr. Ndemo was a Lecturer at Strathmore University at the Business School. His areas of interest were in Corporate Governance, Public Policy, and International Development.
-He previously has a chequered career as a Public Administrator, having worked with Government of Kenya as a civil servant for many years. He is a researcher and trainer in Governance matters, particularly in Public Finance, Public Policy, and International Development.
-He is an experienced Resource Person in Public Management and Devolution. Dr. Ndemo has previously worked as a technical expert and consultant in many institutions such as the World Bank (Governance Division), Centre for Parliamentary Studies and Training (CPST), DFID, USAID, GiZ, Transparency International Kenya and Kenya Institute of Public Policy Research and Analysis (KIPPRA). He has also previously worked as a General Assembly Council member for Action Aid International (AAIK), Kenya Chapter. 
-Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree from the University of Leicester in the UK. He is a member of African Association of Political Science-Kenya Chapter (AAPS-K), an affiliate member of the Centre for Law and Research International (CLARION) and a member of Chartered Institute of Arbitrators.
-                                                                    
-                                                                    
-</div>
+                                                                        Dr. Alfred Ndemo is the Current Chief Executive Officer (CEO) of Finance, Trade, and Investment Network, (FINTRINET). Prior to joining FINTRINET, Dr. Ndemo was a Lecturer at Strathmore University at the Business School. His areas of interest were in Corporate Governance, Public Policy, and International Development.
+                                                                        He previously has a chequered career as a Public Administrator, having worked with Government of Kenya as a civil servant for many years. He is a researcher and trainer in Governance matters, particularly in Public Finance, Public Policy, and International Development.
+                                                                        He is an experienced Resource Person in Public Management and Devolution. Dr. Ndemo has previously worked as a technical expert and consultant in many institutions such as the World Bank (Governance Division), Centre for Parliamentary Studies and Training (CPST), DFID, USAID, GiZ, Transparency International Kenya and Kenya Institute of Public Policy Research and Analysis (KIPPRA). He has also previously worked as a General Assembly Council member for Action Aid International (AAIK), Kenya Chapter.
+                                                                        Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree from the University of Leicester in the UK. He is a member of African Association of Political Science-Kenya Chapter (AAPS-K), an affiliate member of the Centre for Law and Research International (CLARION) and a member of Chartered Institute of Arbitrators.
+
+
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -984,16 +984,16 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
 
-                                                                <p class="bodytext"><strong>Mr. Hosea Kili</strong><br /><em></em> </p>
+                                                                    <p class="bodytext"><strong>Mr. Hosea Kili</strong><br /><em></em> </p>
                                                                     <p class="bodytext">An advocate of the High Court of Kenya, Mr. Kili holds a Masters of Business Administration from the Management College of Southern Africa (MANCOSA). He is a Fellow of the Institute of Certified Public Secretaries of Kenya (ICPSK); a Fellow Member of Kenya Institute of Management (KIM) and an active member of the Law Society of Kenya (LSK).</p>
                                                                     <p class="bodytext">Mr. Kili is a Council member and the current Chairman of the East and Central Africa Social Security Association (ECASSA). He is a Non-Executive Director at the Nairobi Securities Exchange (NSE) and the current President, Association of Pension Trustees & Administrators of Kenya (APTAK).</p>
                                                                     <p>A recipient of numerous commendations, Mr. Kili was awarded the Presidential Order of Grand Warrior of Kenya in December 2011 and the 2nd Runners up CEO of the Year at the COYA Awards 2012. He was also recognized as the Personality of the Year at the 2017 Pension Awards that sought to award excellence in innovation and service provision to improve the outcomes of both pension funds as well as members. Mr. Kili was also recognized as the 2nd Runners up in the ‘CEO of the Year’ category during the 2017 and 2018 Champions of Governance Awards.</p>
                                                                     <p>Mr. Kili currently serves as a member of the International Social Security Association (ISSA) bureau and a member of the Finance Committee of the ISSA, following his election to this post in 2019.</p>
-                                                                
 
 
-                                                                    
-                                                                   
+
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1010,7 +1010,7 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
 
 
 
-                               
+
                                 <div id="pg-37-2" class="panel-grid panel-no-style">
                                     <div id="pgc-37-2-0" class="panel-grid-cell">
                                         <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
@@ -1020,30 +1020,30 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    
-                                                                <p class="bodytext"><strong>Mrs. Wambui Mbarire</strong><br />
+
+                                                                    <p class="bodytext"><strong>Mrs. Wambui Mbarire</strong><br />
                                                                         <em></em>
                                                                     </p>
                                                                     <p class="bodytext">Wambui Mbarire is a well-respected influencer in retail sector in the Continent. She is currently
-the Chief Executive Officer of Kenya Retail Traders Association (RETRAK). Ms. Mbarire has been
-with the association since its inception and has built it up to be The Voice of retailers, sort by
-both Government and Private Sector. She has been instrumental in defining policy and regulatory
-framework for the Sectors positioning and exponential growth.</p>
-<p>Wambui champions responsible development and stewardship of various social sectors including
-sitting in the Impala club Board. She has been serving as the Sergeant at Arms of the Rotary Club
-of Lavington Eco and also served temporary as the President Elect. Wambui is also Board Member,
-Kenya Producer Responsibility (KEPRO), Tourism taskforce member.</p>
-<p>Wambui is an accomplished administrator with over eighteen years’ all-round experience. Wambui
-is the holder of a Bachelor of Education Degree, from Kenyatta University, and a Certified Public
-Accountants CPA from Strathmore University.</p>
-<p>She has worked in personnel and human capital management, finance, administration field and
-operations management.</p>
-<p>Ms. Mbarire has been with the association since its formation and has helped build it up to be
-The Voice of retailers, sort by both Government and Private Sector for dialogue and various
-partnerships. She passionately champions best practices in the retail sector.
-She has worked in personnel and human capital management, finance, administration field and
-operations management.</p>
-                                                                
+                                                                        the Chief Executive Officer of Kenya Retail Traders Association (RETRAK). Ms. Mbarire has been
+                                                                        with the association since its inception and has built it up to be The Voice of retailers, sort by
+                                                                        both Government and Private Sector. She has been instrumental in defining policy and regulatory
+                                                                        framework for the Sectors positioning and exponential growth.</p>
+                                                                    <p>Wambui champions responsible development and stewardship of various social sectors including
+                                                                        sitting in the Impala club Board. She has been serving as the Sergeant at Arms of the Rotary Club
+                                                                        of Lavington Eco and also served temporary as the President Elect. Wambui is also Board Member,
+                                                                        Kenya Producer Responsibility (KEPRO), Tourism taskforce member.</p>
+                                                                    <p>Wambui is an accomplished administrator with over eighteen years’ all-round experience. Wambui
+                                                                        is the holder of a Bachelor of Education Degree, from Kenyatta University, and a Certified Public
+                                                                        Accountants CPA from Strathmore University.</p>
+                                                                    <p>She has worked in personnel and human capital management, finance, administration field and
+                                                                        operations management.</p>
+                                                                    <p>Ms. Mbarire has been with the association since its formation and has helped build it up to be
+                                                                        The Voice of retailers, sort by both Government and Private Sector for dialogue and various
+                                                                        partnerships. She passionately champions best practices in the retail sector.
+                                                                        She has worked in personnel and human capital management, finance, administration field and
+                                                                        operations management.</p>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1063,7 +1063,7 @@ operations management.</p>
                                             </div>
                                         </div>
                                     </div>
-                                </div>                                
+                                </div>
                                 <div id="pg-37-5" class="panel-grid panel-no-style">
                                     <div id="pgc-37-5-0" class="panel-grid-cell">
                                         <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
@@ -1088,15 +1088,15 @@ operations management.</p>
                                                                         <em></em>
                                                                     </p>
                                                                     <p class="bodytext">Mr. Kinoti is a finance and investment professional, entrepreneur, business coach, trainer and author with over 30 years’ experience in establishing, leading and growing corporates and business entities.</p>
-                                                                    <p>Mr. Kinoti is the Founder and CEO of Vedman capital, a private fund management and investor relations company. The company is an accredited Nominated Advisor (Nomad) at the Nairobi Securities Exchange PLC and member of Institute of certified investment and financial analysts (ICIFA). 
-</p>
-<p>He is the former Managing Director & CEO of Suntra Investment Bank, a leading Stockbrokerage company in Kenya. Before joining Suntra Investment Bank, Mr. Kinoti was Group Chief Executive, of Fusion Group, a Private Equity and Real Estate company that he co-founded with presence across East Africa. In 2016, he pioneered the launch of the first Development Real Estate Investment Trust (D-REITS) in the continent. The company also successfully sponsored the building of Kigali Heights, a modern Mix-use complex in Kigali City, Rwanda among other notable ventures in East Africa. He voluntary retired in March 2017 to join Suntra Investment Bank. Mr. Kinoti was the Founding CEO of ECLOF Kenya, a private financial institution, with Headquarters in Geneva, Switzerland. </p>
-                                                                
-<p>He is the Chairman of Key Microfinance Bank PLC, Director of Home Africa Limited, a listed real estate company at NSE, Director at Kenya Association of Stockbrokers and Investment Banks (KASIB), a Member of Kenya Institute of Management (MKIM), Institute of Directors (IOD) Kenya, and Project Management Institute (PMI).</p>
+                                                                    <p>Mr. Kinoti is the Founder and CEO of Vedman capital, a private fund management and investor relations company. The company is an accredited Nominated Advisor (Nomad) at the Nairobi Securities Exchange PLC and member of Institute of certified investment and financial analysts (ICIFA).
+                                                                    </p>
+                                                                    <p>He is the former Managing Director & CEO of Suntra Investment Bank, a leading Stockbrokerage company in Kenya. Before joining Suntra Investment Bank, Mr. Kinoti was Group Chief Executive, of Fusion Group, a Private Equity and Real Estate company that he co-founded with presence across East Africa. In 2016, he pioneered the launch of the first Development Real Estate Investment Trust (D-REITS) in the continent. The company also successfully sponsored the building of Kigali Heights, a modern Mix-use complex in Kigali City, Rwanda among other notable ventures in East Africa. He voluntary retired in March 2017 to join Suntra Investment Bank. Mr. Kinoti was the Founding CEO of ECLOF Kenya, a private financial institution, with Headquarters in Geneva, Switzerland. </p>
 
-<p>Mr. Kinoti holds Masters of Arts (University of Nairobi) and Bachelor of Science (University of Nairobi), Diploma in Management (Kenya Institute of Management).</p>
-<p>Luke is the author of two acclaimed publications; (1) The Merchant’s Pearl (2018), and (2) The Agile Investor (2020).</p>
-</div>
+                                                                    <p>He is the Chairman of Key Microfinance Bank PLC, Director of Home Africa Limited, a listed real estate company at NSE, Director at Kenya Association of Stockbrokers and Investment Banks (KASIB), a Member of Kenya Institute of Management (MKIM), Institute of Directors (IOD) Kenya, and Project Management Institute (PMI).</p>
+
+                                                                    <p>Mr. Kinoti holds Masters of Arts (University of Nairobi) and Bachelor of Science (University of Nairobi), Diploma in Management (Kenya Institute of Management).</p>
+                                                                    <p>Luke is the author of two acclaimed publications; (1) The Merchant’s Pearl (2018), and (2) The Agile Investor (2020).</p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1146,7 +1146,7 @@ operations management.</p>
                                         </div>
                                     </div>
                                 </div>
-                               
+
                                 <div id="pg-37-5" class="panel-grid panel-no-style">
                                     <div id="pgc-37-5-0" class="panel-grid-cell">
                                         <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
@@ -1170,30 +1170,32 @@ operations management.</p>
                                                                     <p class="bodytext"><strong>DR. HABIL OLAKA</strong><br />
                                                                         <em></em>
                                                                     </p>
-                                                                    
+
                                                                     <p>Dr. Olaka was appointed as Chief Executive Officer of the Kenya Bankers Association (KBA) in
-October 2010. He is responsible for the strategic direction of the Association, covering
-industry advocacy, development, and sustainability. Previously he was the Director of
-Operations of the East African Development Bank (EADB) based in Kampala after serving as
-the Resident Manager in Kenya. He earlier served the bank as the Head of Risk Management
-and as the Chief Internal Auditor.</p><p>
-Before joining the Bank, he had been with Banque Indosuez (now Bank of Africa) as the
-Internal Auditor. He started his career at the PricewaterhouseCoopers, Nairobi in the Audit
-and Business Advisory Services Division. He sits on a number of boards representing the KBA.
-These are Kenya Deposit Insurance Corporation (KDIC), Higher Education Loans Board (HELB),
-National Research Fund (NRF), Federation of Kenya Employers (FKE), and the Anti-Money
-Laundering Advisory Board (AMLAB) as alternate to KBA Chairman. He is the National
-President of the Federation of Kenya Employers and the Chairman of the board of the Centre
-for Corporate Governance (CCG). He also sits on the board of the National Housing
-Corporation (NHC).</p><p>
-He holds a Doctor of Business Administration from USIU-Africa, a First-Class Honours BSc
-degree in Electrical Engineering from the University of Nairobi, and an MBA in Finance from
-the Manchester Business School in the UK. His DBA dissertation was on the influence of
-strategic leadership on the implementation of strategy in the commercial banks in Kenya.
-He is a member of the Institute of the Certified Public Accountants of Kenya (ICPAK). He is an
-alumnus of the Strathmore School of Accountancy, a Certified Executive Coach and has a good
-command of the French language.</p>
-</div>
+                                                                        October 2010. He is responsible for the strategic direction of the Association, covering
+                                                                        industry advocacy, development, and sustainability. Previously he was the Director of
+                                                                        Operations of the East African Development Bank (EADB) based in Kampala after serving as
+                                                                        the Resident Manager in Kenya. He earlier served the bank as the Head of Risk Management
+                                                                        and as the Chief Internal Auditor.</p>
+                                                                    <p>
+                                                                        Before joining the Bank, he had been with Banque Indosuez (now Bank of Africa) as the
+                                                                        Internal Auditor. He started his career at the PricewaterhouseCoopers, Nairobi in the Audit
+                                                                        and Business Advisory Services Division. He sits on a number of boards representing the KBA.
+                                                                        These are Kenya Deposit Insurance Corporation (KDIC), Higher Education Loans Board (HELB),
+                                                                        National Research Fund (NRF), Federation of Kenya Employers (FKE), and the Anti-Money
+                                                                        Laundering Advisory Board (AMLAB) as alternate to KBA Chairman. He is the National
+                                                                        President of the Federation of Kenya Employers and the Chairman of the board of the Centre
+                                                                        for Corporate Governance (CCG). He also sits on the board of the National Housing
+                                                                        Corporation (NHC).</p>
+                                                                    <p>
+                                                                        He holds a Doctor of Business Administration from USIU-Africa, a First-Class Honours BSc
+                                                                        degree in Electrical Engineering from the University of Nairobi, and an MBA in Finance from
+                                                                        the Manchester Business School in the UK. His DBA dissertation was on the influence of
+                                                                        strategic leadership on the implementation of strategy in the commercial banks in Kenya.
+                                                                        He is a member of the Institute of the Certified Public Accountants of Kenya (ICPAK). He is an
+                                                                        alumnus of the Strathmore School of Accountancy, a Certified Executive Coach and has a good
+                                                                        command of the French language.</p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1202,6 +1204,53 @@ command of the French language.</p>
                                         </div>
                                     </div>
                                 </div>
+
+
+                                <div id="pg-37-4" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-4-0" class="panel-grid-cell">
+                                        <div id="panel-37-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>Ms. Nemaisa Kiereini</strong><br />
+                                                                        <em></em>
+                                                                    </p>
+                                                                    <p class="bodytext"></p>
+                                                                    <p>Nemaisa Kiereini has been working for the last 16 years, 8 of which have been focused on creating a Business Enabling Environment, playing leadership role in various business membership organizations. She currently serves on the board of Kenya Yearbook Editorial Board and is a resource person for AMREF Kenya. She has previously sat on various committees and councils involved in improving the business environment. She has considerable experience in advocacy for regulatory reform, private public dialogue and private sector development.</p>
+
+<p>Prior to joining KNCCI she was the CEO of KNCCI-Nairobi County, the Advisor on trade and investment for the Kenya Private Sector Alliance (KEPSA) and Advocacy Consultant for the Business Advocacy Fund (BAF), she coordinated a successful engagement for Jack Ma of Alibaba with Kenyan Private Sector.</p>
+
+<p>Previously, she served as Deputy Chief Executive Officer of the Kenya National Chamber and Industries where she successfully led the meetings, incentives and exhibitions initiatives that led to the successful hosting and participation of the private sector in the United Nations Conference on Trade and Development (UNCTAD), Tenth World Trade Organization (WTO) Conference and the Tokyo International Conference on Africa’s Development (TICAD) in Kenya.</p>
+
+<p>Ms. Nemaisa spent the prior 8 years in the Telecom industry, holding several executive positions in Telkom Kenya and Airtel.  She currently sits on the open government steering committee and previously served in the Vice Governor in the KEPSA Industrialization Sector Board. </p>
+
+<p>She earned her Bachelor of Science Degree in Information Systems and Technology from the United States International University (USIU) and an MBA in Strategic Management at Strathmore Business School.
+</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-4-1" class="panel-grid-cell">
+                                        <div id="panel-37-4-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="8">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/nemaisa.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Richard Trendley" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
                             </div>
                         </div><!-- .entry-content -->
 
@@ -1229,7 +1278,7 @@ command of the French language.</p>
                             <aside id="nav_menu-2" class="widget widget_nav_menu">
                                 <div class="menu-footer_menu-container">
                                     <ul id="menu-footer_menu" class="menu">
-                                    <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
+                                        <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
                                         <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="resources">Resources</a></li>
                                         <li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="contact">Contact Us</a></li>
                                     </ul>

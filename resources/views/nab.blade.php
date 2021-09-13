@@ -817,7 +817,7 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong> NAB</strong><br /><em>....</em> </p>
+                                                                    <p class="bodytext"><strong> NAB - NAB Hub</strong><br /><em>....</em> </p>
                                                                     Championed by the Global Steering Group for Impact Investing (GSG) and led by the SDG Partnership Platform, The National Advisory Board for Impact Investing (NAB) in Kenya brings together key stakeholders from Kenya’s Impact Investing ecosystem to develop and strengthen impact investment sector in Kenya for the achievement of Sustainable Development Goals (SDGs) and the national development agenda. 
                                                                     <p>
 

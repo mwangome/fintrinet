@@ -817,7 +817,7 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                <h2>TRADE PILLAR </h2> <br>
+                                                                <h2>TRADE PILLAR - Export Supply Hub</h2> <br>
                                                     The network envisages accelerating recovery and growth through upscaling trade and strategic markets at local, regional, continental, and global levels. Trade will leverage on a public private sector partnership model towards positioning Kenya as a major export economy. The Trade pillar will focus on implementation of the national integrated export strategy across the 10 sectors of the economy.
 
                                                     <br><strong>Objective One</strong><br>
