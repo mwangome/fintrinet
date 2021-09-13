@@ -810,16 +810,6 @@
                         <div class="entry-content">
                             <div id="pl-37" class="panel-layout">
 
-
-
-
-
-
-
-
-
-
-
                                 <div id="pg-37-2" class="panel-grid panel-no-style">
                                     <div id="pgc-37-2-0" class="panel-grid-cell">
                                         <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
@@ -850,7 +840,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/lee_karuri.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
+                                                    <img src="images/lee_karuri.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. LEE KARURI" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -858,23 +848,13 @@
                                     </div>
                                 </div>
 
-
-
-
-
-
-
-
-
-
-
                                 <div id="pg-37-5" class="panel-grid panel-no-style">
                                     <div id="pgc-37-5-0" class="panel-grid-cell">
                                         <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/arif_neky.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Bob Tilton" alt="" class="so-widget-image" />
+                                                    <img src="images/arif_neky.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. ARIF NEKY" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -949,7 +929,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/alfred_ndemo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
+                                                    <img src="images/alfred_ndemo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. Alfred Ndemo" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -969,7 +949,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Hosea Kili Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mrs. Wamboi Mbarire" alt="" class="so-widget-image" />
+                                                    <img src="images/thumbnail_Hosea Kili Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -1057,7 +1037,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/Wamboi Mbarire Passport Photo.jpeg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
+                                                    <img src="images/Wamboi Mbarire Passport Photo.jpeg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mrs. Wambui Mbarire" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -1070,7 +1050,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Luke Kinoti Passport Photo.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Bob Tilton" alt="" class="so-widget-image" />
+                                                    <img src="images/thumbnail_Luke Kinoti Passport Photo.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. LUKE M. KINOTI" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -1139,7 +1119,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Michael Kamau Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Richard Trendley" alt="" class="so-widget-image" />
+                                                    <img src="images/thumbnail_Michael Kamau Passport Photo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Michael Kamau" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -1153,7 +1133,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Dr. Olaka Passport.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Bob Tilton" alt="" class="so-widget-image" />
+                                                    <img src="images/thumbnail_Dr. Olaka Passport.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="DR. HABIL OLAKA" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -1242,7 +1222,7 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/nemaisa.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Richard Trendley" alt="" class="so-widget-image" />
+                                                    <img src="images/nemaisa.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Ms. Nemaisa Kiereini" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>

@@ -839,7 +839,7 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/alfred_ndemo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
+                                                    <img src="images/alfred_ndemo.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="DR. ALFRED NDEMO" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -859,7 +859,7 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/lydia.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mrs. Wamboi Mbarire" alt="" class="so-widget-image" />
+                                                    <img src="images/lydia.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="MS. LYDIA MUKHONGO" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -932,7 +932,7 @@ Kimathi holds a Master’s degree in Business Administration (finance) from the 
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/kimathi.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
+                                                    <img src="images/kimathi.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Kimathi Ikiao" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -945,7 +945,7 @@ Kimathi holds a Master’s degree in Business Administration (finance) from the 
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/juliet.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Bob Tilton" alt="" class="so-widget-image" />
+                                                    <img src="images/juliet.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="JULIET MDALI" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
@@ -1009,7 +1009,7 @@ European Business University.</p>
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/cynthia.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Hosea Kili" alt="" class="so-widget-image" />
+                                                    <img src="images/cynthia.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Cynthia M Atieno" alt="" class="so-widget-image" />
                                                 </div>
 
                                             </div>
