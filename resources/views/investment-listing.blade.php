@@ -10,6 +10,7 @@
     <title>Investments Listing &#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
     <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
@@ -782,7 +783,7 @@
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
-                                        <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
+                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
@@ -826,44 +827,47 @@
 
         <div id="main" class="site-main">
 
-
+        <div class="row">
+            <div class="col-sm" style="text-align: right;"><img src="images/chicken.png" alt="" width="100px;" height="100px;"></div><div class="col-sm"><img src="images/feeds.jpg" alt=""  width="100px;" height="100px;"></div>
+        </div>
+            
 
             <table>
-  <tr>
-    <th class="twenty">Entity Code</th>
-    <th class="eigthy">AGRO (KES153)</th>
-  </tr>
-  <tr>
-    <td class="twenty">Business Overview</td>
-    <td>Based in Muranga County, this entity is a leading animal feed manufacturing company with a core focus of improving agricultural production in Kenya. It provides a wide range of feeds and licks specially formulated to boost growth and improve production for farm animals. Amongst its many accolades, the company was recognised as one of the Top100 SME’s in Kenya in 2019.</td>
-  </tr>
-  <tr>
-    <td class="twenty">Investment Opportunity: </td>
-    <td><strong>Business Stage:</strong>  <input type="checkbox" id="early-stage" name="early_stage" value="Early Stage"><label for="early-stage"> Early Stage</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="sme-stage" name="sme_stage" value="SME" checked><label for="sme-stage"> SME</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="large-stage" name="large_stage" value="Large">&nbsp;&nbsp;&nbsp;<label for="large-stage">Large</label><br>
-    <strong>Preferred Instrument:</strong>  <input type="checkbox" id="grant" name="grant" value="Grant"><label for="grant"> Grant</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="debt" name="debt" value="Debt" checked><label for="debt"> Debt</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="quasi-equity" name="quasi_equity" value="Quasi Equity">&nbsp;&nbsp;&nbsp;<label for="quasi-equity">Quasi Equity</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="equity" name="equity" value="Equity">&nbsp;&nbsp;&nbsp;<label for="equity">Equity</label><br>
-    <strong>Amount sought (USD):</strong>2,000,000<br>
-    <strong>Use of funds:</strong>Capex, Working capital<br>
-    </td>
-  </tr>
-  <tr>
-  <td class="twenty">Impact: </td>
-  <td >By providing animal feeds, this entity contributes to improving the productivity and nutrients of livestock production, which in turn enhances the country’s food and nutritional situation.  </td>
-  </tr>
-  <tr>
-  <td class="twenty">Team: </td>
-  <td >The company is governed by a Board of directors and run by a CEO holding a BSc and Msc in Animal Nutrition. </td>
-  </tr>
-  <tr>
-  <td class="twenty">Financial Snapshot: </td>
-  <td ><strong>Revenues (USD):</strong> 2,800,000 (June 2021)<br>
-<strong>Balance sheet size (USD):</strong> 2,740,000<br>
-<strong>Profitable:</strong> Yes<br>
- </td>
-  </tr>
-</table>
+                <tr>
+                    <th class="twenty">Entity Code</th>
+                    <th class="eigthy">AGRO (KES153)</th>
+                </tr>
+                <tr>
+                    <td class="twenty">Business Overview</td>
+                    <td>Based in Muranga County, this entity is a leading animal feed manufacturing company with a core focus of improving agricultural production in Kenya. It provides a wide range of feeds and licks specially formulated to boost growth and improve production for farm animals. Amongst its many accolades, the company was recognised as one of the Top100 SME’s in Kenya in 2019.</td>
+                </tr>
+                <tr>
+                    <td class="twenty">Investment Opportunity: </td>
+                    <td><strong>Business Stage:</strong> <input type="checkbox" id="early-stage" name="early_stage" value="Early Stage"><label for="early-stage"> Early Stage</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="sme-stage" name="sme_stage" value="SME" checked><label for="sme-stage"> SME</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="large-stage" name="large_stage" value="Large">&nbsp;&nbsp;&nbsp;<label for="large-stage">Large</label><br>
+                        <strong>Preferred Instrument:</strong> <input type="checkbox" id="grant" name="grant" value="Grant"><label for="grant"> Grant</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="debt" name="debt" value="Debt" checked><label for="debt"> Debt</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="quasi-equity" name="quasi_equity" value="Quasi Equity">&nbsp;&nbsp;&nbsp;<label for="quasi-equity">Quasi Equity</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="equity" name="equity" value="Equity">&nbsp;&nbsp;&nbsp;<label for="equity">Equity</label><br>
+                        <strong>Amount sought (USD):</strong>2,000,000<br>
+                        <strong>Use of funds:</strong>Capex, Working capital<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="twenty">Impact: </td>
+                    <td><div class="row"><div class="col-sm-3" style="text-align: center;"><img src="images/hunger.png" alt="" width="100px;" height="100px;"></div><div class="col-sm-9">By providing animal feeds, this entity contributes to improving the productivity and nutrients of livestock production, which in turn enhances the country’s food and nutritional situation. </div></div></td>
+                </tr>
+                <tr>
+                    <td class="twenty">Team: </td>
+                    <td>The company is governed by a Board of directors and run by a CEO holding a BSc and Msc in Animal Nutrition. </td>
+                </tr>
+                <tr>
+                    <td class="twenty">Financial Snapshot: </td>
+                    <td><strong>Revenues (USD):</strong> 2,800,000 (June 2021)<br>
+                        <strong>Balance sheet size (USD):</strong> 2,740,000<br>
+                        <strong>Profitable:</strong> Yes<br>
+                    </td>
+                </tr>
+            </table>
 
             <div id="primary" class="content-area">
-               
+
             </div><!-- #primary -->
 
 
@@ -927,6 +931,7 @@
     <script type='text/javascript' src='https://use.fontawesome.com/30858dc40a.js?ver=4.0.7'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/wp-embed.min.js?ver=5.3.8'></script>
     <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=3.0.25'></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
     <script type='text/javascript'>
         WebFont.load({
             google: {
@@ -974,7 +979,7 @@
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="resources">Resources</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
         </ul>
-        
+
     </div>
 </body>
 
