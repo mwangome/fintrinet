@@ -714,6 +714,16 @@
                 margin-bottom: 0px
             }
         }
+
+        .twenty {
+            width: 20%;
+            background-color: #2596be;
+            color: #F2F2F2;
+        }
+
+        .eighty {
+            width: 80%
+        }
     </style>
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-32x32.png" sizes="32x32" />
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-192x192.png" sizes="192x192" />
@@ -816,43 +826,44 @@
 
         <div id="main" class="site-main">
 
+
+
+            <table>
+  <tr>
+    <th class="twenty">Entity Code</th>
+    <th class="eigthy">AGRO (KES153)</th>
+  </tr>
+  <tr>
+    <td class="twenty">Business Overview</td>
+    <td>Based in Muranga County, this entity is a leading animal feed manufacturing company with a core focus of improving agricultural production in Kenya. It provides a wide range of feeds and licks specially formulated to boost growth and improve production for farm animals. Amongst its many accolades, the company was recognised as one of the Top100 SME’s in Kenya in 2019.</td>
+  </tr>
+  <tr>
+    <td class="twenty">Investment Opportunity: </td>
+    <td><strong>Business Stage:</strong>  <input type="checkbox" id="early-stage" name="early_stage" value="Early Stage"><label for="early-stage"> Early Stage</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="sme-stage" name="sme_stage" value="SME" checked><label for="sme-stage"> SME</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="large-stage" name="large_stage" value="Large">&nbsp;&nbsp;&nbsp;<label for="large-stage">Large</label><br>
+    <strong>Preferred Instrument:</strong>  <input type="checkbox" id="grant" name="grant" value="Grant"><label for="grant"> Grant</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="debt" name="debt" value="Debt" checked><label for="debt"> Debt</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="quasi-equity" name="quasi_equity" value="Quasi Equity">&nbsp;&nbsp;&nbsp;<label for="quasi-equity">Quasi Equity</label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="equity" name="equity" value="Equity">&nbsp;&nbsp;&nbsp;<label for="equity">Equity</label><br>
+    <strong>Amount sought (USD):</strong>2,000,000<br>
+    <strong>Use of funds:</strong>Capex, Working capital<br>
+    </td>
+  </tr>
+  <tr>
+  <td class="twenty">Impact: </td>
+  <td >By providing animal feeds, this entity contributes to improving the productivity and nutrients of livestock production, which in turn enhances the country’s food and nutritional situation.  </td>
+  </tr>
+  <tr>
+  <td class="twenty">Team: </td>
+  <td >The company is governed by a Board of directors and run by a CEO holding a BSc and Msc in Animal Nutrition. </td>
+  </tr>
+  <tr>
+  <td class="twenty">Financial Snapshot: </td>
+  <td ><strong>Revenues (USD):</strong> 2,800,000 (June 2021)<br>
+<strong>Balance sheet size (USD):</strong> 2,740,000<br>
+<strong>Profitable:</strong> Yes<br>
+ </td>
+  </tr>
+</table>
+
             <div id="primary" class="content-area">
-                <div>
-
-
-
-                   
-                        <div class="row">
-                            <div class="col-sm">
-                                <div class="card">
-                                    <img src="https://cdn1.vc4a.com/media/2021/08/gmds-cover-430x154.jpg" alt="Avatar" style="width:100%">
-                                    <div class="container">
-                                        <h4><b>GeoMobile Data Solutions Co Ltd</b></h4>
-                                        <p>‘’Unlocking farmers potential through digital revolution’’</p>
-                                    </div>
-                                </div>
-                            </div><br>
-                            <div class="col-sm">
-                                <div class="card">
-                                    <img src="https://cdn1.vc4a.com/media/2021/07/Artboard_2-430x154.png" alt="Avatar" style="width:100%">
-                                    <div class="container">
-                                        <h4><b>Fuelmetrics Limited</b></h4>
-                                        <p>Automation and Payment Infrastructure for Petroleum Industry in Africa</p>
-                                    </div>
-                                </div>
-                            </div><br>
-                            <div class="col-sm">
-                                <div class="card">
-                                    <img src="https://cdn1.vc4a.com/media/2021/07/photozuri-ban-430x154.jpg" alt="Avatar" style="width:100%">
-                                    <div class="container">
-                                        <h4><b>Photozuri Limited</b></h4>
-                                        <p>Reliable photo printing and merchandise at your convenience</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                  
-                </div>
+               
             </div><!-- #primary -->
 
 
