@@ -7,7 +7,7 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>Finance Pillar &#8211; Fintrinet</title>
+    <title>Technical Experts&#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -795,7 +795,7 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">Finance Pillar</h1>
+                <h1 class="entry-title">Technical Experts</h1>
 
             </div>
         </div>
@@ -819,32 +819,28 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                <h2>FINANCE PILLAR - Finance Capital Hub</h2> <br>
-                                                    Over the next three years, the network will work to create synergies and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities. Currently, there are several organised or independent finance institutions deploying capital for various projects and programmes. Majority of the institutions work in silos with no structured deployment and engagement on development priorities. Thus, it is essential that efforts be coordinated to maximize cross-organizational effectiveness, identify gaps and redundancies, and maintain a centralised custody of finance capital in Kenya.
-                                                    It is important to understand where the finances for various projects and programmes in Kenya originate from. Other than the banks, Saccos, Insurance agencies among others, several independent institutions also provide capital for development programmes. The network will work to not only centralise these funds but also understand where Kenya is in Financing, what are the key gaps and what are the key policy interventions to be used in unlocking financial resources. A key function of FINTRINET will be also to identify and mobilise sufficient funding for the Recovery strategy.
-                                                    Further, the network will work to increase Kenya’s savings. The current savings to GDP ratio is very low and institutions need to be encouraged to create a savings culture for both public and private institutions.
+                                                                <h2></h2> <br>
+                                                                Kiringai, is the Lead for the Global Open Data for Agriculture Nutrition (GODAN)’s South-South
+Secretariat that is hosted at the Programme for Capacity Development in Africa (P4CDA)’s Center for
+Agriculture and Nutrition, Data Analytics and Innovation for Policy Impact (CANDAI). CANDAI is
+domiciled at the University of Nairobi’s Department of Food Science, Nutrition and Technology.
+Kiringai is a practicing Farmer, Agripreneur and Lecturer in Agribusiness and Agricultural Policy in the
+Department of Agricultural Economics. He is an Advisor to the Agricultural Transformation Office (ATO)
+of the Ministry of Agriculture, Livestock, Fisheries and Cooperatives, responsible for Data Sourcing and
+Agricultural SME Development. He has formulated localized FarmHubs for farmers to aggregate their
+resources for investment in cooperative driven food stores, extension, and standards enforcement in
+production linked to FoodHubs at the consumer-end to help aggregate resources for investment in
+food-stores and for consumer orders to trigger FarmHub supplies.<br>
+His work has been responsible for the success of the dairy subsector starting with the Transformation
+of Githunguri Dairy to an efficient and effective smallholder investment in Fresher Dairy Processors. He
+is currently championing the cause for One Ward, One Value Added Product (OWOVAP) for which he
+has guided counties to evolve an Agribusiness and Agroindustry Development Policy. His research
+interest is in de-risking agriculture which has advised his work in creating a Social Impact Investment
+Bond Concept which FINTRINET and CANDAI, will domicile to promote smallholder farmers’ inclusion
+in the mainline economic landscape.
 
 
-                                                    <br><strong>Objective One</strong><br>
-                                                    To map out and centralize finance capital in Kenya
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Identify the Key Financial Sources and create operational synergies</li>
-                                                        <li>Engage in continual funds mobilization activities for the key sectors </li>
-                                                        <li>Reduce capital raising costs/complexities for businesses and projects</li>
-                                                        <li>Create a saving culture and enhance market liquidity </li>
-                                                        <li>Create a continental financial services hub in Nairobi.</li>
-
-                                                    </ul>
-                                                    <br><strong>Objective Two</strong><br>
-                                                    To coordinate deployment of capital 
-                                                    <br><strong>Strategies</strong>
-                                                    <ul>
-                                                        <li>Develop a Finance deployment criterion to guide prioritization of financial capital</li>
-                                                        <li>Increase Financial access for institutions </li>
-                                                        <li>Increasingly provide simplified and targeted financial solutions to projected recovery and accelerated criterion</li>
-                                                       
-                                                    </ul>
+                                                    
                                                                     </div>
                                                             </div>
                                                         </div>
@@ -858,49 +854,16 @@
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Dr. Olaka Passport.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. Habil Olaka" alt="" class="so-widget-image" />
+                                                    <img src="images/kiringai.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. Kiringai" alt="" class="so-widget-image" />
                                               
                                                 </div>
-                                                <br> <p >Dr. Habil Olaka, <strong>Chair Finance Pillar</strong></p>
+                                                <br> <p >Dr. Kiringai, <strong>Technical Expert</strong></p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div id="pg-37-3" class="panel-grid panel-no-style">
-                                    <div id="pgc-37-3-0" class="panel-grid-cell">
-                                        <div id="panel-37-3-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="5">
-                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
-
-                                                <div class="sow-image-container">
-                                                    <img src="images/lydia.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="MS. LYDIA MUKHONGO" alt="" class="so-widget-image" />
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="pgc-37-3-1" class="panel-grid-cell">
-                                        <div id="panel-37-3-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="6">
-                                            <div class="textwidget">
-                                                <div class="jsn-bootstrap3">
-                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
-                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
-                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
-                                                                <div id="VV5SDi" class="wr_text">
-
-                                                                <p class="bodytext"><strong>MS. LYDIA MUKHONGO</strong><br /><em>Secretariat member supporting the pillar</em> </p>
-                                          
-                                                                                                                                       
-                                                                   
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                              
                             </div>
                         </div><!-- .entry-content -->
 

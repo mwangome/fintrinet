@@ -54,6 +54,10 @@ Route::get('/trade', function () {
     return view('trade');
 });
 
+Route::get('/technical', function () {
+    return view('technical');
+});
+
 Route::get('/investment', function () {
     return view('investment');
 });

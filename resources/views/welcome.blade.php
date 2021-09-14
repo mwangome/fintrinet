@@ -107,6 +107,7 @@
                 <div class="slide box"><a href="https://www.pollmans.com"><img src="images/pollmans.jpg"></a></div>
                 <div class="slide box"><a href="http://eavca.org"><img src="images/eav.png"></a></div>
                 <div class="slide box"><a href="http://www.nse.co.ke"><img src="images/nse.jpg"></a></div>
+                <div class="slide box"><a href="https://p4cda.net"><img src="images/p4cda.png"></a></div>
             </section>
 
         </div>
