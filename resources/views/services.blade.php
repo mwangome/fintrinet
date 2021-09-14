@@ -881,40 +881,30 @@
 
     <div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
         <ul id="wprmenu_menu_ul">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/" aria-current="page">About Us</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/">Home</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                 <ul class="sub-menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
-                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.smart-sourcing.com/manufacturing/apparel/">Apparel</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://www.smart-sourcing.com/manufacturing/vendor-network/">Vendor Network</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://www.smart-sourcing.com/manufacturing/industrial/">Industrial</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.smart-sourcing.com/manufacturing/consumer/">Consumer</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.smart-sourcing.com/manufacturing/medical/">Medical</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a href="https://www.smart-sourcing.com/consulting/">Consulting</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://www.smart-sourcing.com/consulting/quality-assurance/">Quality Assurance</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://www.smart-sourcing.com/consulting/logistics/">Logistics</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="https://www.smart-sourcing.com/smart-sourcing-process/">Product Design &#038; Development</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://www.smart-sourcing.com/smart-sourcing-process/case-studies/">Case Studies</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.smart-sourcing.com/smart-sourcing-process/faqs/">FAQs</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.smart-sourcing.com/request-quote/">Request Quote</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://www.smart-sourcing.com/contact/">Contact Us</a></li>
-        </ul>
 
-        <div class="wpr_search">
-            <form role="search" method="get" class="wpr-search-form" action="https://www.smart-sourcing.com/ss"><label><input type="search" class="wpr-search-field" placeholder=" Search..." value="" name="s" title="Search for:"></label></form>
-        </div>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="partners">Our Founding Partners</a></li>
+                </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="#">Pillars</a>
+                <ul class="sub-menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="finance">Finance</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="trade">Trade</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="investment">Investment</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="si">Strategic Initiatives</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="nab">SDG Platform - NAB</a></li>
+                </ul>
+            </li>
+
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="resources">Resources</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
+        </ul>
+        
     </div>
 </body>
 

@@ -33,8 +33,28 @@
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong> FINTRINET </strong><br /><em>....</em> </p>
-                                                                    <strong> </strong><br>
+                                                                    <strong> </strong>
+                                                                    <br><strong>Our Vision </strong><br>
+                                                                    <p>To be a Public-Private Partnership in the recovery and transformation of Kenya’s economy powered by Finance, Trade, and Investment to achieve the Big 4 agenda, Vision 2030, and the SDGs.</p>
 
+
+                                                                    <br><strong>MISSION </strong><br>
+
+
+                                                                    To build momentum for rapid economic recovery, create jobs, turn Kenya into a major export economy and deliver the Vision 2030.
+
+                                                                    <br><strong>CORE VALUES </strong><br>
+
+                                                                    FINTRINET is be guided by the following core values:
+                                                                    <ul>
+                                                                        <li>Innovation</li>
+                                                                        <li>Accountability and Transparency </li>
+                                                                        <li>Leadership and Integrity </li>
+                                                                        <li>Equal opportunities.</li>
+                                                                        <li>Collaboration and Partnerships</li>
+                                                                        <li>Teamwork</li>
+                                                                    </ul>
+                                                                    <br>
                                                                     <p> Finance, Trade, and Investment Network (FINTRINET) is a partnership project between National Government, County Government, the Private Sector, and Development Partners on post-COVID-19 economic recovery and long-term growth and transformation up to 2030. It was designed to achieve our VISION 2030 DREAM.</p><br>
                                                                     <p> FINTRINET was convened by KEPSA Foundation, Kenya National Chambers of Commerce and Industry, KNCCI, and in partnership with the SDG Partnership Platform of the UN.</p>
 
@@ -82,26 +102,7 @@
                                                                     <p>Due to the current economic state, FINTRINET has created a post covid 19 recovery road map followed by a growth and transformation plan 2021-2030. The pillars will drive the strategy over the next 3 years and over the 10 years for economic transformation.</p>
 
 
-                                                                    <br><strong>Our Vision </strong><br>
-                                                                    <p>To be a Public-Private Partnership in the recovery and transformation of Kenya’s economy powered by Finance, Trade, and Investment to achieve the Big 4 agenda, Vision 2030, and the SDGs.</p>
-
-
-                                                                    <br><strong>MISSION </strong><br>
-
-
-                                                                    To build momentum for rapid economic recovery, create jobs, turn Kenya into a major export economy and deliver the Vision 2030.
-
-                                                                    <br><strong>CORE VALUES </strong><br>
-
-                                                                    FINTRINET is be guided by the following core values:
-                                                                    <ul>
-                                                                        <li>Innovation</li>
-                                                                        <li>Accountability and Transparency </li>
-                                                                        <li>Leadership and Integrity </li>
-                                                                        <li>Equal opportunities.</li>
-                                                                        <li>Collaboration and Partnerships</li>
-                                                                        <li>Teamwork</li>
-                                                                    </ul>
+                                                                   
 
                                                                     <br>
                                                                     <p>Objectives of Finance, Trade, and Investment Network (FINTRINET)</p>

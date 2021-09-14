@@ -694,6 +694,7 @@
 </li>
                                     <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
+                                        <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
                                             <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="secretariat">The secretariat</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
@@ -750,13 +751,13 @@
 
                 <ol>
 
-                <li><p><a href="documents/Chairman Speaking Notes 14May2020.docx">Chairman Speaking Notes 14 May 2020 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/256/MS-Word-2-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                <li><p><a href="documents/KEPSA CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
-                    <li><p><a href="documents/Deputy CEO Speaking Notes 14May2020.docx">Deputy CEO Speaking Notes 14 May 2020 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/256/MS-Word-2-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                    <li><p><a href="documents/KEPSA CHAIR SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA CHAIR SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET<img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
                    
-                    <li><p><a href="documents/Carole Karuga Guiding Notes 18June2020.docx">Carole Karuga Guiding Notes 18 June 2020  <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/256/MS-Word-2-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                    <li><p><a href="documents/KEPSA DEPUTY CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA DEPUTY CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET  <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
-                    <li><p><a href="documents/Presentation 29May2020.pdf">Presentation 29 May 2020 <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p> </li>
+                    <li><p><a href="documents/THE INAUGURAL FINTRINET COUNCIL MEETING PRESENTATION.pdf">THE INAUGURAL FINTRINET COUNCIL MEETING PRESENTATION <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p> </li>
                 </ol>
                    
 <div style="height: 200px;">

@@ -757,6 +757,7 @@
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
+                                        <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
@@ -817,7 +818,7 @@
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                <h2>INVESTMENT PILLAR - Investment Deal Hub</h2> <br>
+                                                                <h4>INVESTMENT PILLAR - Investment Deal Hub&nbsp;&nbsp;<a href="investment-listing"><button class="btn btn-primary" type="submit"><h6>View List&nbsp;<img src="https://icons.iconarchive.com/icons/iconleak/atrous/24/search-icon.png"></h6></button></a></h4> <br>
                                                     FINTRINET seeks to leverage on the various financial assets to implement the Post COVID recovery and accelerated growth. Kenya is a prime investment hub with a lot of local and foreign interests yet there are insufficient structured platform offering pre-vetted investments options. In the brink of great economic transformation in Africa with unprecedented opportunities, there is need to tap into the capital markets and provide an investor ready catalogue to address the most important projects in achieving the projected growth.
 
 The network believes that investing can make the world more equitable and sustainable and will seek to provide a financial infrastructure to execute on this potential. The platform should engage the different actors and leverage different types of capital that have varying expectations, tax implications, legal obligations, and regulatory oversight among others and provide the required different infrastructure to succeed.
@@ -845,7 +846,7 @@ The network believes that investing can make the world more equitable and sustai
                                                         <li>Introduce new investments.</li>
                                                         <li>Increase and strengthen members engagement.</li>
                                                     </ul>
-                                                                    <a href="investment-listing"><button class="btn btn-primary" type="submit">Investments List</button></a>
+                                                                    
                                                                     </div>
                                                             </div>
                                                         </div>
@@ -859,14 +860,48 @@ The network believes that investing can make the world more equitable and sustai
                                             <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
 
                                                 <div class="sow-image-container">
-                                                    <img src="images/thumbnail_Luke Kinoti Passport Photo.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Dr. alfred Ndemo" alt="" class="so-widget-image" />
+                                                    <img src="images/thumbnail_Luke Kinoti Passport Photo.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Mr. Luke Kinoti" alt="" class="so-widget-image" />
                                               
                                                 </div>
-                                                <br> <p >Mr. LUKE M. KINOTI
-                                                <br>
-                                                <span style="font-size: x-small;"><a href="mailto:kinotim2000@gmail.com">kinotim2000@gmail.com</a></span>
+                                                <br> <p >Mr. Luke Kinoti, <strong>Chair Investment Pillar</strong>                                                <br>
+                                                
                                                 </p>
                                                 <br>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div id="pg-37-3" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-3-0" class="panel-grid-cell">
+                                        <div id="panel-37-3-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="5">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/kimathi.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Kimathi Ikiao" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-3-1" class="panel-grid-cell">
+                                        <div id="panel-37-3-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="6">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+
+                                                                <p class="bodytext"><strong>Kimathi Ikiao</strong><br /><em>Secretariat member supporting the pillar</em> </p>
+                                          
+                                                                                                                                       
+                                                                   
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -973,40 +1008,30 @@ The network believes that investing can make the world more equitable and sustai
 
     <div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
         <ul id="wprmenu_menu_ul">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/">Home</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://www.smart-sourcing.com/about/history/">History</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-75"><a href="https://www.smart-sourcing.com/about/who-we-are/" aria-current="page">Who we are</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.smart-sourcing.com/manufacturing/apparel/">Apparel</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://www.smart-sourcing.com/manufacturing/vendor-network/">Vendor Network</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://www.smart-sourcing.com/manufacturing/industrial/">Industrial</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.smart-sourcing.com/manufacturing/consumer/">Consumer</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.smart-sourcing.com/manufacturing/medical/">Medical</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a href="https://www.smart-sourcing.com/consulting/">Consulting</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://www.smart-sourcing.com/consulting/quality-assurance/">Quality Assurance</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://www.smart-sourcing.com/consulting/logistics/">Logistics</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="https://www.smart-sourcing.com/smart-sourcing-process/">Product Design &#038; Development</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://www.smart-sourcing.com/smart-sourcing-process/case-studies/">Case Studies</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.smart-sourcing.com/smart-sourcing-process/faqs/">FAQs</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.smart-sourcing.com/request-quote/">Request Quote</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://www.smart-sourcing.com/contact/">Contact Us</a></li>
-        </ul>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
 
-        <div class="wpr_search">
-            <form role="search" method="get" class="wpr-search-form" action="https://www.smart-sourcing.com/ss"><label><input type="search" class="wpr-search-field" placeholder=" Search..." value="" name="s" title="Search for:"></label></form>
-        </div>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="partners">Our Founding Partners</a></li>
+                </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="#">Pillars</a>
+                <ul class="sub-menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="finance">Finance</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="trade">Trade</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="investment">Investment</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="si">Strategic Initiatives</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="nab">SDG Platform - NAB</a></li>
+                </ul>
+            </li>
+
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="resources">Resources</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
+        </ul>
+        
     </div>
 </body>
 

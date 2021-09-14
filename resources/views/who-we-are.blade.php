@@ -757,6 +757,7 @@
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="#">About Us</a>
                                         <ul class="sub-menu">
+                                        <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                         </ul>
@@ -1087,11 +1088,6 @@
                                 </div>
 
 
-
-
-
-
-
                                 <div id="pg-37-4" class="panel-grid panel-no-style">
                                     <div id="pgc-37-4-0" class="panel-grid-cell">
                                         <div id="panel-37-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7">
@@ -1183,52 +1179,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-
-
-                                <div id="pg-37-4" class="panel-grid panel-no-style">
-                                    <div id="pgc-37-4-0" class="panel-grid-cell">
-                                        <div id="panel-37-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7">
-                                            <div class="textwidget">
-                                                <div class="jsn-bootstrap3">
-                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
-                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
-                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
-                                                                <div id="VV5SDi" class="wr_text">
-                                                                    <p class="bodytext"><strong>Ms. Nemaisa Kiereini</strong><br />
-                                                                        <em></em>
-                                                                    </p>
-                                                                    <p class="bodytext"></p>
-                                                                    <p>Nemaisa Kiereini has been working for the last 16 years, 8 of which have been focused on creating a Business Enabling Environment, playing leadership role in various business membership organizations. She currently serves on the board of Kenya Yearbook Editorial Board and is a resource person for AMREF Kenya. She has previously sat on various committees and councils involved in improving the business environment. She has considerable experience in advocacy for regulatory reform, private public dialogue and private sector development.</p>
-
-<p>Prior to joining KNCCI she was the CEO of KNCCI-Nairobi County, the Advisor on trade and investment for the Kenya Private Sector Alliance (KEPSA) and Advocacy Consultant for the Business Advocacy Fund (BAF), she coordinated a successful engagement for Jack Ma of Alibaba with Kenyan Private Sector.</p>
-
-<p>Previously, she served as Deputy Chief Executive Officer of the Kenya National Chamber and Industries where she successfully led the meetings, incentives and exhibitions initiatives that led to the successful hosting and participation of the private sector in the United Nations Conference on Trade and Development (UNCTAD), Tenth World Trade Organization (WTO) Conference and the Tokyo International Conference on Africa’s Development (TICAD) in Kenya.</p>
-
-<p>Ms. Nemaisa spent the prior 8 years in the Telecom industry, holding several executive positions in Telkom Kenya and Airtel.  She currently sits on the open government steering committee and previously served in the Vice Governor in the KEPSA Industrialization Sector Board. </p>
-
-<p>She earned her Bachelor of Science Degree in Information Systems and Technology from the United States International University (USIU) and an MBA in Strategic Management at Strathmore Business School.
-</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="pgc-37-4-1" class="panel-grid-cell">
-                                        <div id="panel-37-4-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="8">
-                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
-
-                                                <div class="sow-image-container">
-                                                    <img src="images/nemaisa.png" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Ms. Nemaisa Kiereini" alt="" class="so-widget-image" />
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                </div>                             
 
 
                             </div>
@@ -1331,40 +1282,30 @@
 
     <div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
         <ul id="wprmenu_menu_ul">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-73"><a href="https://www.smart-sourcing.com/about/">About Us</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/">Home</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                 <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://www.smart-sourcing.com/about/history/">History</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-75"><a href="https://www.smart-sourcing.com/about/who-we-are/" aria-current="page">Who we are</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.smart-sourcing.com/manufacturing/">Manufacturing</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.smart-sourcing.com/manufacturing/apparel/">Apparel</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://www.smart-sourcing.com/manufacturing/vendor-network/">Vendor Network</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://www.smart-sourcing.com/manufacturing/industrial/">Industrial</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.smart-sourcing.com/manufacturing/consumer/">Consumer</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.smart-sourcing.com/manufacturing/medical/">Medical</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a href="https://www.smart-sourcing.com/consulting/">Consulting</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://www.smart-sourcing.com/consulting/quality-assurance/">Quality Assurance</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://www.smart-sourcing.com/consulting/logistics/">Logistics</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="https://www.smart-sourcing.com/smart-sourcing-process/">Product Design &#038; Development</a>
-                <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://www.smart-sourcing.com/smart-sourcing-process/case-studies/">Case Studies</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.smart-sourcing.com/smart-sourcing-process/faqs/">FAQs</a></li>
-                </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.smart-sourcing.com/request-quote/">Request Quote</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://www.smart-sourcing.com/contact/">Contact Us</a></li>
-        </ul>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
 
-        <div class="wpr_search">
-            <form role="search" method="get" class="wpr-search-form" action="https://www.smart-sourcing.com/ss"><label><input type="search" class="wpr-search-field" placeholder=" Search..." value="" name="s" title="Search for:"></label></form>
-        </div>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="partners">Our Founding Partners</a></li>
+                </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="#">Pillars</a>
+                <ul class="sub-menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="finance">Finance</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="trade">Trade</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="investment">Investment</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="si">Strategic Initiatives</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="nab">SDG Platform - NAB</a></li>
+                </ul>
+            </li>
+
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="resources">Resources</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
+        </ul>
+        
     </div>
 </body>
 

@@ -60,7 +60,7 @@
                             <div class="post-mainpart">
                                 <header class="entry-header">
                                     <h1 class="entry-title">
-                                        <a href="https://www.smart-sourcing.com/title-post/" rel="bookmark"></a>
+                                        <a href="# rel="bookmark"></a>
                                     </h1>
 
                                     <div class="entry-meta">
