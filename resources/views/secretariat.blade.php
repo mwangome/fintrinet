@@ -886,7 +886,7 @@ BSC Degree in Communication & Public Relations, MBA(Ongoing) in Corporate Commun
 and Public Relations from Moi University.
 Full Member of the Public Relations Society of Kenya (PRSK), an Associate Member of the Kenya
 Institute of Management (KIM) and a Member of Association Media Women in Kenya (AMWIK).
-Lydia Mukhongo can be reached on Lydiamukhongo123@gmil.com</p>
+</p>
                                                                                                                                        
                                                                    
                                                                 </div>
