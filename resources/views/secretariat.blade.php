@@ -721,7 +721,7 @@
 
     <div id="page" class="hfeed site">
 
-    <div id="utilitybar" class="utilitybar colored-bg">
+        <div id="utilitybar" class="utilitybar colored-bg">
             <div class="ubarinnerwrap">
                 <div class="socialicons">
                 </div>
@@ -740,7 +740,7 @@
         <div class="headerwrap">
             <header id="masthead" class="site-header" role="banner">
                 <div class="headerinnerwrap">
-                <a class="home-link" href="/" title="Fintrinet" rel="home">
+                    <a class="home-link" href="/" title="Fintrinet" rel="home">
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo normal-logo" /></span>
                         <span><img src="/images/fintrinet.png" alt="Fintrinet" class="imax-logo trans-logo" /></span>
                     </a>
@@ -757,7 +757,7 @@
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
-                                        <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
+                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
@@ -767,7 +767,7 @@
 
                                     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Pillars</a>
                                         <ul class="sub-menu">
-                                            
+
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
                                             <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
@@ -820,15 +820,15 @@
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
                                                                     <p class="bodytext"><strong> DR. ALFRED NDEMO</strong><br /><em>Chief Executive Officer (CEO)</em> </p>
-                                                                    
+
                                                                     <p>
-                                                                    Dr. Alfred Ndemo is the Current Chief Executive Officer (CEO) of Finance, Trade, and Investment Network, (FINTRINET). Prior to joining FINTRINET, Dr. Ndemo was a Lecturer at Strathmore University at the Business School. His areas of interest were in Corporate Governance, Public Policy, and International Development.
-He previously has a chequered career as a Public Administrator, having worked with Government of Kenya as a civil servant for many years. He is a researcher and trainer in Governance matters, particularly in Public Finance, Public Policy, and International Development.
-He is an experienced Resource Person in Public Management and Devolution. Dr. Ndemo has previously worked as a technical expert and consultant in many institutions such as the World Bank (Governance Division), Centre for Parliamentary Studies and Training (CPST), DFID, USAID, GiZ, Transparency International Kenya and Kenya Institute of Public Policy Research and Analysis (KIPPRA). He has also previously worked as a General Assembly Council member for Action Aid International (AAIK), Kenya Chapter. 
-Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree from the University of Leicester in the UK. He is a member of African Association of Political Science-Kenya Chapter (AAPS-K), an affiliate member of the Centre for Law and Research International (CLARION) and a member of Chartered Institute of Arbitrators.
-                                                                    
-                                                                    
-</div>
+                                                                        Dr. Alfred Ndemo is the Current Chief Executive Officer (CEO) of Finance, Trade, and Investment Network, (FINTRINET). Prior to joining FINTRINET, Dr. Ndemo was a Lecturer at Strathmore University at the Business School. His areas of interest were in Corporate Governance, Public Policy, and International Development.
+                                                                        He previously has a chequered career as a Public Administrator, having worked with Government of Kenya as a civil servant for many years. He is a researcher and trainer in Governance matters, particularly in Public Finance, Public Policy, and International Development.
+                                                                        He is an experienced Resource Person in Public Management and Devolution. Dr. Ndemo has previously worked as a technical expert and consultant in many institutions such as the World Bank (Governance Division), Centre for Parliamentary Studies and Training (CPST), DFID, USAID, GiZ, Transparency International Kenya and Kenya Institute of Public Policy Research and Analysis (KIPPRA). He has also previously worked as a General Assembly Council member for Action Aid International (AAIK), Kenya Chapter.
+                                                                        Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree from the University of Leicester in the UK. He is a member of African Association of Political Science-Kenya Chapter (AAPS-K), an affiliate member of the Centre for Law and Research International (CLARION) and a member of Chartered Institute of Arbitrators.
+
+
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -876,19 +876,19 @@ Dr. Ndemo holds a PhD from the University of Birmingham (UK) and a Master degree
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
 
-                                                                <p class="bodytext"><strong>MS. LYDIA MUKHONGO</strong><br /><em>Communications Officer</em> </p>
+                                                                    <p class="bodytext"><strong>MS. LYDIA MUKHONGO</strong><br /><em>Communications Officer</em> </p>
                                                                     <p class="bodytext">Lydia Has over 12 years’ experience span in Events Management, Conferences’, meetings, and
-Corporate Social Initiatives (CSI) Management.
-Worked in formidable Secretariats of ECASSA, APTAK and Now FINTRINET working on the
-Strategic Planning and development.
-Holds a Diploma in Public Relations Management from the Kenya Institute of Management (KIM),
-BSC Degree in Communication & Public Relations, MBA(Ongoing) in Corporate Communication
-and Public Relations from Moi University.
-Full Member of the Public Relations Society of Kenya (PRSK), an Associate Member of the Kenya
-Institute of Management (KIM) and a Member of Association Media Women in Kenya (AMWIK).
-</p>
-                                                                                                                                       
-                                                                   
+                                                                        Corporate Social Initiatives (CSI) Management.
+                                                                        Worked in formidable Secretariats of ECASSA, APTAK and Now FINTRINET working on the
+                                                                        Strategic Planning and development.
+                                                                        Holds a Diploma in Public Relations Management from the Kenya Institute of Management (KIM),
+                                                                        BSC Degree in Communication & Public Relations, MBA(Ongoing) in Corporate Communication
+                                                                        and Public Relations from Moi University.
+                                                                        Full Member of the Public Relations Society of Kenya (PRSK), an Associate Member of the Kenya
+                                                                        Institute of Management (KIM) and a Member of Association Media Women in Kenya (AMWIK).
+                                                                    </p>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -900,7 +900,7 @@ Institute of Management (KIM) and a Member of Association Media Women in Kenya (
                                 </div>
 
 
-                               
+
                                 <div id="pg-37-2" class="panel-grid panel-no-style">
                                     <div id="pgc-37-2-0" class="panel-grid-cell">
                                         <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
@@ -910,17 +910,17 @@ Institute of Management (KIM) and a Member of Association Media Women in Kenya (
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    
-                                                                <p class="bodytext"><strong>Kimathi Ikiao</strong><br />
+
+                                                                    <p class="bodytext"><strong>Kimathi Ikiao</strong><br />
                                                                         <em>Investment Officer.</em>
                                                                     </p>
                                                                     <p class="bodytext">
-                                                                    Kimathi Ikiao serves as FINTRINET’s Investment Officer and as the NAB Secretariat on Secondment from the SDPP. Kimathi is a seasoned investment practitioner with over 15 years of experience in the East African region.  
+                                                                        Kimathi Ikiao serves as FINTRINET’s Investment Officer and as the NAB Secretariat on Secondment from the SDPP. Kimathi is a seasoned investment practitioner with over 15 years of experience in the East African region.
 
-He has previously served in various investment focused roles for FSD Kenya, Acumen and the Industrial and Commercial Development corporation (ICDC).  
+                                                                        He has previously served in various investment focused roles for FSD Kenya, Acumen and the Industrial and Commercial Development corporation (ICDC).
 
-Kimathi holds a Master’s degree in Business Administration (finance) from the University of Tulsa and a Bachelor of Science degree in International Business Administration from the United States International University-Africa.  </p>
-                                                                
+                                                                        Kimathi holds a Master’s degree in Business Administration (finance) from the University of Tulsa and a Bachelor of Science degree in International Business Administration from the United States International University-Africa. </p>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -940,8 +940,8 @@ Kimathi holds a Master’s degree in Business Administration (finance) from the 
                                             </div>
                                         </div>
                                     </div>
-                                </div>                                
-                                
+                                </div>
+
                                 <div id="pg-37-5" class="panel-grid panel-no-style">
                                     <div id="pgc-37-5-0" class="panel-grid-cell">
                                         <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
@@ -966,14 +966,14 @@ Kimathi holds a Master’s degree in Business Administration (finance) from the 
                                                                         <em>Administration Assistant Officer</em>
                                                                     </p>
                                                                     <p class="bodytext">Juliet is the Administration Assistant Officer at Fintrinet. Working on the Strategic
-planning and development and documentation. She is a trained administrator and
-researcher. She carries out administrative functions, facilitates and provides support
-services for Fintrinet Secretariat.
-She holds a Bachelor of Art degree in Sociology from the University of Nairobi and
-Certificate in Business Finance and Certificate in Human Resource Management from
-European Business University.</p>
-                                                                    
-</div>
+                                                                        planning and development and documentation. She is a trained administrator and
+                                                                        researcher. She carries out administrative functions, facilitates and provides support
+                                                                        services for Fintrinet Secretariat.
+                                                                        She holds a Bachelor of Art degree in Sociology from the University of Nairobi and
+                                                                        Certificate in Business Finance and Certificate in Human Resource Management from
+                                                                        European Business University.</p>
+
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -984,7 +984,7 @@ European Business University.</p>
                                 </div>
 
 
-                                 <div id="pg-37-2" class="panel-grid panel-no-style">
+                                <div id="pg-37-2" class="panel-grid panel-no-style">
                                     <div id="pgc-37-2-0" class="panel-grid-cell">
                                         <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
                                             <div class="textwidget">
@@ -993,8 +993,8 @@ European Business University.</p>
                                                         <div class="col-md-6 col-sm-6 col-xs-12 ">
                                                             <div class="jsn-bootstrap3 wr-element-container wr-element-text">
                                                                 <div id="VV5SDi" class="wr_text">
-                                                                    
-                                                                <p class="bodytext"><strong>Cynthia M Atieno</strong><br />
+
+                                                                    <p class="bodytext"><strong>Cynthia M Atieno</strong><br />
                                                                         <em>Volunteer</em>
                                                                     </p>
                                                                     <p class="bodytext">Cynthia is a volunteer at FINTRINET. She serves as a documentation assistant and is involved in the research and formulation of company policies and procedures, strategic planning and development, and their documentation. She works closely with and provides support to the FINTRINET secretariat.</p>
@@ -1018,7 +1018,7 @@ European Business University.</p>
                                             </div>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
 
 
                                 <div id="pg-37-5" class="panel-grid panel-no-style">
@@ -1046,16 +1046,98 @@ European Business University.</p>
                                                                     </p>
                                                                     <p>Nemaisa Kiereini has been working for the last 16 years, 8 of which have been focused on creating a Business Enabling Environment, playing leadership role in various business membership organizations. She currently serves on the board of Kenya Yearbook Editorial Board and is a resource person for AMREF Kenya. She has previously sat on various committees and councils involved in improving the business environment. She has considerable experience in advocacy for regulatory reform, private public dialogue and private sector development.</p>
 
-<p>Prior to joining KNCCI she was the CEO of KNCCI-Nairobi County, the Advisor on trade and investment for the Kenya Private Sector Alliance (KEPSA) and Advocacy Consultant for the Business Advocacy Fund (BAF), she coordinated a successful engagement for Jack Ma of Alibaba with Kenyan Private Sector.</p>
+                                                                    <p>Prior to joining KNCCI she was the CEO of KNCCI-Nairobi County, the Advisor on trade and investment for the Kenya Private Sector Alliance (KEPSA) and Advocacy Consultant for the Business Advocacy Fund (BAF), she coordinated a successful engagement for Jack Ma of Alibaba with Kenyan Private Sector.</p>
 
-<p>Previously, she served as Deputy Chief Executive Officer of the Kenya National Chamber and Industries where she successfully led the meetings, incentives and exhibitions initiatives that led to the successful hosting and participation of the private sector in the United Nations Conference on Trade and Development (UNCTAD), Tenth World Trade Organization (WTO) Conference and the Tokyo International Conference on Africa’s Development (TICAD) in Kenya.</p>
+                                                                    <p>Previously, she served as Deputy Chief Executive Officer of the Kenya National Chamber and Industries where she successfully led the meetings, incentives and exhibitions initiatives that led to the successful hosting and participation of the private sector in the United Nations Conference on Trade and Development (UNCTAD), Tenth World Trade Organization (WTO) Conference and the Tokyo International Conference on Africa’s Development (TICAD) in Kenya.</p>
 
-<p>Ms. Nemaisa spent the prior 8 years in the Telecom industry, holding several executive positions in Telkom Kenya and Airtel.  She currently sits on the open government steering committee and previously served in the Vice Governor in the KEPSA Industrialization Sector Board. </p>
+                                                                    <p>Ms. Nemaisa spent the prior 8 years in the Telecom industry, holding several executive positions in Telkom Kenya and Airtel. She currently sits on the open government steering committee and previously served in the Vice Governor in the KEPSA Industrialization Sector Board. </p>
 
-<p>She earned her Bachelor of Science Degree in Information Systems and Technology from the United States International University (USIU) and an MBA in Strategic Management at Strathmore Business School.
-</p>
+                                                                    <p>She earned her Bachelor of Science Degree in Information Systems and Technology from the United States International University (USIU) and an MBA in Strategic Management at Strathmore Business School.
+                                                                    </p>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                                <div id="pg-37-2" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-2-0" class="panel-grid-cell">
+                                        <div id="panel-37-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+
+                                                                    <p class="bodytext"><strong>BILLY WAMALWA IMBUYE</strong><br />
+                                                                        <em>Volunteer</em>
+                                                                    </p>
+                                                                    <p class="bodytext">Billy Wamalwa is a Volunteer who has been with the Secretariat from the formation of FINTRINET. He is a Marketer and Businessstrategist. He supports the secretariat in strategy and communication. He  has  had  previous  stints  in various organizationsincluding  Multichoice  Kenyaand Kenya  Institute  of Applied Sciences.Billy Wamalwa is the Marketing Manager of Resorts and Cities a Company which is a major Developer of Resort cities across Kenya.</p>
+                                                                    <p></p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-2-1" class="panel-grid-cell">
+                                        <div id="panel-37-2-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/billy.jpg" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Cynthia M Atieno" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                                <div id="pg-37-5" class="panel-grid panel-no-style">
+                                    <div id="pgc-37-5-0" class="panel-grid-cell">
+                                        <div id="panel-37-5-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="9">
+                                            <div class="so-widget-sow-image so-widget-sow-image-default-d6014b76747a">
+
+                                                <div class="sow-image-container">
+                                                    <img src="images/caleb.PNG" width="200" height="300" sizes="(max-width: 200px) 100vw, 200px" title="Ms. Nemaisa Kiereini" alt="" class="so-widget-image" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="pgc-37-5-1" class="panel-grid-cell">
+                                        <div id="panel-37-5-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="10">
+                                            <div class="textwidget">
+                                                <div class="jsn-bootstrap3">
+                                                    <div id="zRiiH4" class="row " style="padding: 10px;">
+                                                        <div class="col-md-6 col-sm-6 col-xs-12 ">
+                                                            <div class="jsn-bootstrap3 wr-element-container wr-element-text">
+                                                                <div id="VV5SDi" class="wr_text">
+                                                                    <p class="bodytext"><strong>BARONGO NYAKOE CALEB</strong><br />
+                                                                        <em>Volunteer</em>
+                                                                    </p>
+                                                                    <p>Caleb is a Volunteer who has a huge experience in Research. He is based at the secretariat and
+supports all the Pillars in Research. He holds a Master of Arts degree in Monitoring and Evaluation
+of Population and Development Programmes from the university of Nairobi. He has expertise in
+project Design and Conceptualization, project Evaluation, Surveys, Training in statistical software
+(SPSS, STATA, R), Data Analysis and Proposal Writing.</p>
+
                                                                     
-</div>
+
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1094,7 +1176,7 @@ European Business University.</p>
                             <aside id="nav_menu-2" class="widget widget_nav_menu">
                                 <div class="menu-footer_menu-container">
                                     <ul id="menu-footer_menu" class="menu">
-                                    <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
+                                        <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
                                         <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="resources">Resources</a></li>
                                         <li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="contact">Contact Us</a></li>
                                     </ul>
@@ -1190,7 +1272,7 @@ European Business University.</p>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="resources">Resources</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
         </ul>
-        
+
     </div>
 </body>
 
