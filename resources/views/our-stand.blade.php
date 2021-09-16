@@ -87,19 +87,19 @@
                                                                     <p>FINTRINET shall promote productivity,value addition,competitiveness and standards as its key success factors</p>
 
                                                                     <p>The Network has 5 Pillars:</p>
-                                                                    <ol type="1">
-                                                                        <li><strong>1) Finance:</strong> FINTRINET aims to bring around the finance capital from various institutions and focus on capital deployment in a coordinated way.</li>
+                                                                    <ul>
+                                                                        <li><strong> Finance:</strong> FINTRINET aims to bring around the finance capital from various institutions and focus on capital deployment in a coordinated way.</li>
 
-                                                                        <li><strong>2) Trade:</strong>FINTRINET aims to mainstream and upscale the 10 sectors through facilitation of access to new regional, continental and global markets. To accelerate Kenya into a major export economy</li>
-                                                                        <li><strong>3) Investment:</strong>FINTRINET aims to create a professional matching deal platform to ensure timely closure on investment across the 10msectors.</li>
-                                                                        <li><strong>4) Strategic initiative: </strong>focuses on Kenya @ 60. Kenya shall be 60 years of independence in 2023. This will coincide with the end of the first phase of 3 years and the beginning of the 7-year journey to 2030.FINTRINET aims to build a transformation agenda and economic transformation and opportunities around Kenya@60 celebrations in 2023, The Year of Convergence. Bringing the World to Kenya and taking Kenya to the World.</li>
-                                                                        <li><strong>5) National advisory board (NAB): </strong>With impact investment landscape rapidly increasing in Kenya due to a young, enterprising and ambitious population, coupled with several social or environmental challenges that need investment, the need for a body to coordinate the sub-sector’s needs has been recognised.</li>
+                                                                        <li><strong> Trade:</strong>FINTRINET aims to mainstream and upscale the 10 sectors through facilitation of access to new regional, continental and global markets. To accelerate Kenya into a major export economy</li>
+                                                                        <li><strong> Investment:</strong>FINTRINET aims to create a professional matching deal platform to ensure timely closure on investment across the 10msectors.</li>
+                                                                        <li><strong> Strategic initiative: </strong>focuses on Kenya @ 60. Kenya shall be 60 years of independence in 2023. This will coincide with the end of the first phase of 3 years and the beginning of the 7-year journey to 2030.FINTRINET aims to build a transformation agenda and economic transformation and opportunities around Kenya@60 celebrations in 2023, The Year of Convergence. Bringing the World to Kenya and taking Kenya to the World.</li>
+                                                                        <li><strong> National advisory board (NAB): </strong></li>
 
-                                                                    </ol>
+                                                                    </ul>
 
                                                                     <p>Championed by the Global Steering Group for Impact Investing (GSG) and led by the SDG Partnership Platform, The National Advisory Board for Impact Investing (NAB) in Kenya brings together key stakeholders from Kenya’s Impact Investing ecosystem to develop and strengthen the impact investment sector in Kenya for the achievement of Sustainable Development Goals (SDGs) and the national development agenda.</p>
 
-                                                                    <p>Due to the current economic state, FINTRINET has created a post covid 19 recovery road map followed by a growth and transformation plan 2021-2030. The pillars will drive the strategy over the next 3 years and over the 10 years for economic transformation.</p>
+                                                                    <p></p>
 
 
                                                                    
@@ -107,22 +107,22 @@
                                                                     <br>
                                                                     <p>Objectives of Finance, Trade, and Investment Network (FINTRINET)</p>
 
-                                                                    <ol type="a">
-                                                                        <li>a) To create an umbrella platform for Finance, Trade, and Investment sector in Kenya.</li>
-                                                                        <li>b) To create synergy and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities.</li>
-                                                                        <li>c) To upscale trade and access to strategic markets at local, regional, continental, and global levels towards positioning Kenya as a major export economy.</li>
-                                                                        <li>d) To create a continental financial services hub in Nairobi.</li>
-                                                                        <li>e) To create an Africa Trade Centre and promote a Continental Hub for Intra Africa Trade through the Africa Continental Free Trade Area (AFCFTA)</li>
-                                                                        <li>f) To mainstream Local, regional, and international investments into Kenya.</li>
-                                                                        <li>g) To create innovation, research, and resource centre on Finance, Trade, and Investment.</li>
+                                                                    <ul>
+                                                                        <li>To create an umbrella platform for Finance, Trade, and Investment sector in Kenya.</li>
+                                                                        <li>To create synergy and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities.</li>
+                                                                        <li>To upscale trade and access to strategic markets at local, regional, continental, and global levels towards positioning Kenya as a major export economy.</li>
+                                                                        <li>To create a continental financial services hub in Nairobi.</li>
+                                                                        <li>To create an Africa Trade Centre and promote a Continental Hub for Intra Africa Trade through the Africa Continental Free Trade Area (AFCFTA)</li>
+                                                                        <li>To mainstream Local, regional, and international investments into Kenya.</li>
+                                                                        <li>To create innovation, research, and resource centre on Finance, Trade, and Investment.</li>
 
-                                                                    </ol>
+                                                                    </ul>
 
 
                                                                     <br>
                                                                     <p>Expected national Outcomes</p>
 
-                                                                    <ol type="a">
+                                                                    <ul>
                                                                         <li>a) Economic recovery in 3 years from 2% to 6% GDP growth.</li>
                                                                         <li>b) Inclusive prosperity and economic growth and transformation: to attain a GDP growth of 10% by year 6.</li>
                                                                         <li>c) To create 1.5million new jobs every year over 10 years totaling 15 million. This will clear the current backlog of 5 million jobs and take care of the 1 million people entering the job market every year.</li>
@@ -133,22 +133,22 @@
                                                                         <li>h) Promote national savings and a savings culture.</li>
                                                                         <li>i) Progressively reduce poverty.</li>
 
-                                                                    </ol>
+                                                                    </ul>
 
                                                                     <p>Expected business outcome</p>
                                                                     <p>There shall be measurable:</p>
 
-                                                                    <ol type="a">
+                                                                    <ul>
                                                                         <li>amounts of local and foreign investment in the various business segments every year.</li>
                                                                         <li>number of enterprises that have full closure on investments and growth from it.</li>
                                                                         <li>amount of value of business created through access to markets within Kenya, the region, continent, and the world.</li>
                                                                         <li>number of jobs created, both direct and indirect</li>
                                                                         <li>Ways of assessing the overall impact of FINTRINET on the national economy</li>
 
-                                                                    </ol>
+                                                                    </ul>
 
 
-                                                                    <p>FINTRINET first strategic plan is a 3-year plan (2021-2023) which will guide our work for the first phase.
+                                                                    <p><br>FINTRINET first strategic plan is a 3-year plan (2021-2023) which will guide our work for the first phase.
                                                                         FINTRINET shall identify all legislative and regulatory barriers that are cross-cutting or sector-based and advocate for reforms to the national and county governments as well as the legislature and the judiciary
                                                                         Key partnerships include the National Treasury, Ministry of Interior and Coordination of National Government, Ministry of Trade and Industrialisation, Ministry of ICT and Youth, Nairobi metropolitan, Ministry of Agriculture, Livestock, Fisheries, and Cooperatives and development partners.
                                                                     </p>
