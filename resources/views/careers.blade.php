@@ -753,7 +753,7 @@
 
                 <ol>
 
-                <li><p><a href="documents/careers/TRADE OFFICER POST.pdf">TRADE OFFICER POST <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                <li><p><a href="documents/careers/TRADE OFFICER POST.pdf">TRADE OFFICER POST <img src="images/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
                    
                    

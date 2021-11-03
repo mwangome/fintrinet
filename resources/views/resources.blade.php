@@ -753,15 +753,15 @@
 
                 <ol>
 
-                <li><p><a href="documents/KEPSA CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                <li><p><a href="documents/KEPSA CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET <img src="images/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
-                    <li><p><a href="documents/KEPSA CHAIR SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA CHAIR SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET<img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                    <li><p><a href="documents/KEPSA CHAIR SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA CHAIR SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET<img src="images/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
                    
-                    <li><p><a href="documents/KEPSA DEPUTY CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA DEPUTY CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET  <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
+                    <li><p><a href="documents/KEPSA DEPUTY CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET.pdf">KEPSA DEPUTY CEO SPEAKING NOTES ON PPP CONSULTATIVE MEETING ON FINTRINET  <img src="images/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
-                    <li><p><a href="documents/THE INAUGURAL FINTRINET COUNCIL MEETING PRESENTATION.pdf">THE INAUGURAL FINTRINET COUNCIL MEETING PRESENTATION <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p> </li>
+                    <li><p><a href="documents/THE INAUGURAL FINTRINET COUNCIL MEETING PRESENTATION.pdf">THE INAUGURAL FINTRINET COUNCIL MEETING PRESENTATION <img src="images/pdf-icon.png" alt="" height="25px" width="25px"></a></p> </li>
 
-                    <li><p><a href="documents/INEDPS Presentation (FINITRINET) - 24062021.pdf">INEDPS Presentation (FINITRINET) - 24062021 <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p> </li>
+                    <li><p><a href="documents/INEDPS Presentation (FINITRINET) - 24062021.pdf">INEDPS Presentation (FINITRINET) - 24062021 <img src="images/pdf-icon.png" alt="" height="25px" width="25px"></a></p> </li>
                 </ol>
                    
 <div style="height: 200px;">
