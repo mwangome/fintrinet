@@ -903,6 +903,7 @@
             </li>
 
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="resources">Resources</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="careers">Careers</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="contact">Contact Us</a></li>
         </ul>
         

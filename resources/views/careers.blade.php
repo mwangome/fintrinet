@@ -7,13 +7,13 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="https://www.smart-sourcing.com/ss/xmlrpc.php">
-    <title>About Us &#8211; Fintrinet</title>
+    <title>Careers &#8211; Fintrinet</title>
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Feed" href="https://www.smart-sourcing.com/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Comments Feed" href="https://www.smart-sourcing.com/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Feed" href="/" />
+    <link rel="alternate" type="application/rss+xml" title="Fintrinet &raquo; Comments Feed" href="/" />
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
@@ -77,6 +77,8 @@
     </style>
     <link rel='stylesheet' id='wp-block-library-css' href='https://www.smart-sourcing.com/ss/wp-includes/css/dist/block-library/style.min.css?ver=5.3.7' type='text/css' media='all' />
     <link rel='stylesheet' id='siteorigin-panels-front-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='sow-contact-form-default-29e8396e8f06-css' href='https://www.smart-sourcing.com/ss/wp-content/uploads/siteorigin-widgets/sow-contact-form-default-29e8396e8f06.css?ver=5.3.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='sow-image-default-d6014b76747a-css' href='https://www.smart-sourcing.com/ss/wp-content/uploads/siteorigin-widgets/sow-image-default-d6014b76747a.css?ver=5.3.7' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css' href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
     <link rel='stylesheet' id='owl-carousel-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1' type='text/css' media='all' />
     <link rel='stylesheet' id='owl-carousel-transitions-css' href='https://www.smart-sourcing.com/ss/wp-content/plugins/templatesnext-toolkit/css/owl.transitions.css?ver=1.3.2' type='text/css' media='all' />
@@ -127,15 +129,16 @@
     </style>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+    <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-content/plugins/so-widgets-bundle/widgets/contact/js/contact.min.js?ver=1.15.8'></script>
     <script type='text/javascript' src='https://www.smart-sourcing.com/ss/wp-content/plugins/tabs-widget-for-page-builder/assets/js/main.min.js?ver=1.2.1'></script>
     <link rel='https://api.w.org/' href='https://www.smart-sourcing.com/wp-json/' />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.smart-sourcing.com/ss/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.smart-sourcing.com/ss/wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 5.3.7" />
-    <link rel="canonical" href="https://www.smart-sourcing.com/about/" />
-    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=4' />
-    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fabout%2F&#038;format=xml" />
+    <link rel="canonical" href="https://www.smart-sourcing.com/contact/" />
+    <link rel='shortlink' href='https://www.smart-sourcing.com/?p=14' />
+    <link rel="alternate" type="application/json+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fcontact%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="https://www.smart-sourcing.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smart-sourcing.com%2Fcontact%2F&#038;format=xml" />
     <style type="text/css">
         body {
             font-family: "Open Sans", Helvetica, sans-serif;
@@ -560,106 +563,77 @@
         }
     </style>
     <style type="text/css" media="all" id="siteorigin-panels-layouts-head">
-        /* Layout 4 */
-        #pgc-4-0-0 {
-            width: 25%;
-            width: calc(25% - (0.750000001875 * 30px))
+        /* Layout 14 */
+        #pgc-14-0-0,
+        #pgc-14-0-1,
+        #pgc-14-0-2 {
+            width: 33.3333%;
+            width: calc(33.3333% - (0.66666666666667 * 30px))
         }
 
-        #pl-4 #panel-4-0-0-0,
-        #pl-4 #panel-4-0-1-0,
-        #pl-4 #panel-4-1-0-0 {}
+        #pl-14 #panel-14-0-0-0,
+        #pl-14 #panel-14-0-1-0,
+        #pl-14 #panel-14-0-2-0,
+        #pl-14 #panel-14-1-0-0,
+        #pl-14 #panel-14-1-1-0 {}
 
-        #pgc-4-0-1 {
-            width: 75%;
-            width: calc(75% - (0.249999998125 * 30px))
-        }
-
-        #pg-4-0,
-        #pl-4 .so-panel {
+        #pg-14-0,
+        #pl-14 .so-panel {
             margin-bottom: 30px
         }
 
-        #pgc-4-1-0 {
-            width: 100%;
-            width: calc(100% - (0 * 30px))
+        #pgc-14-1-0,
+        #pgc-14-1-1 {
+            width: 50%;
+            width: calc(50% - (0.5 * 30px))
         }
 
-        #pl-4 .so-panel:last-child {
+        #pl-14 .so-panel:last-child {
             margin-bottom: 0px
         }
 
-        #pg-4-1.panel-no-style,
-        #pg-4-1.panel-has-style>.panel-row-style {
+        #pg-14-0.panel-no-style,
+        #pg-14-0.panel-has-style>.panel-row-style {
             -webkit-align-items: flex-start;
             align-items: flex-start
         }
 
         @media (max-width:780px) {
 
-            #pg-4-0.panel-no-style,
-            #pg-4-0.panel-has-style>.panel-row-style,
-            #pg-4-1.panel-no-style,
-            #pg-4-1.panel-has-style>.panel-row-style {
+            #pg-14-0.panel-no-style,
+            #pg-14-0.panel-has-style>.panel-row-style,
+            #pg-14-1.panel-no-style,
+            #pg-14-1.panel-has-style>.panel-row-style {
                 -webkit-flex-direction: column;
                 -ms-flex-direction: column;
                 flex-direction: column
             }
 
-            #pg-4-0>.panel-grid-cell,
-            #pg-4-0>.panel-row-style>.panel-grid-cell,
-            #pg-4-1>.panel-grid-cell,
-            #pg-4-1>.panel-row-style>.panel-grid-cell {
+            #pg-14-0>.panel-grid-cell,
+            #pg-14-0>.panel-row-style>.panel-grid-cell,
+            #pg-14-1>.panel-grid-cell,
+            #pg-14-1>.panel-row-style>.panel-grid-cell {
                 width: 100%;
                 margin-right: 0
             }
 
-            #pgc-4-0-0 {
+            #pgc-14-0-0,
+            #pgc-14-0-1,
+            #pgc-14-1-0 {
                 margin-bottom: 30px
             }
 
-            #pl-4 .panel-grid-cell {
+            #pl-14 .panel-grid-cell {
                 padding: 0
             }
 
-            #pl-4 .panel-grid .panel-grid-cell-empty {
+            #pl-14 .panel-grid .panel-grid-cell-empty {
                 display: none
             }
 
-            #pl-4 .panel-grid .panel-grid-cell-mobile-last {
+            #pl-14 .panel-grid .panel-grid-cell-mobile-last {
                 margin-bottom: 0px
             }
-        }
-
-
-
-        .custom-list {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        .custom-list li {
-            position: relative;
-            padding-left: 20px;
-        }
-
-        .custom-list li:before {
-            content: '';
-            width: 10px;
-            height: 10px;
-            position: absolute;
-            background-image: url('images/bullet.png');
-            background-size: cover;
-            background-position: center;
-            left: 0;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-
-        .mybullet {
-            list-style-image: url(images/bullet.png);
-            width: 10px;
-            height: 10px;
         }
     </style>
     <link rel="icon" href="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-32x32.png" sizes="32x32" />
@@ -668,7 +642,7 @@
     <meta name="msapplication-TileImage" content="https://www.smart-sourcing.com/ss/wp-content/uploads/2015/12/cropped-512px-icon-270x270.png" />
 </head>
 
-<body class="page-template-default page page-id-4 page-parent custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
+<body class="page-template-default page page-id-14 custom-background siteorigin-panels siteorigin-panels-before-js nx-wide onecol-blog single-author nx-preloader nx-no-search" style="  ">
 
     <div class="nx-ispload">
         <div class="nx-ispload-wrap">
@@ -696,6 +670,7 @@
                     <i class="topbarico genericon genericon-mail"></i>
                     Mail us : <a class="top_email_link" href="mailto:info@fintrinet.or.ke" style="color: #FFF;"> info@fintrinet.or.ke</a>
                 </div>
+
             </div>
         </div>
 
@@ -714,21 +689,33 @@
                             <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
                             <div class="nav-container">
                                 <ul id="menu-main_menu" class="nav-menu">
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
 
-                                    <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="/">Home</a>
-
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="/about/">About Us</a>
+</li>
+                                    <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="our-stand">About Us</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="/who-we-are">Executive Committee</a></li>
-                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/secretariat">The secretariat</a></li>
+                                        <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="our-stand">Who We Are</a></li>
+                                            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="who-we-are">Executive Committee</a></li>
+                                            <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="secretariat">The secretariat</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
                                             <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="technical">Technical Experts</a></li>
                                         </ul>
                                     </li>
-
-                                    <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/services/">Services</a></li>
-                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/contact/">Contact Us</a></li>
+                                    <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-83"><a href="#">Pillars</a>
+                                        <ul class="sub-menu">
+                                            
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="finance">Finance</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="trade">Trade</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="investment">Investment</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="si">Strategic Initiatives</a></li>
+                                            <li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-135"><a href="nab">SDG Platform – NAB</a></li>
+                                            
+                                        </ul>
+                                    </li>
+                                    
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-14  menu-item-78"><a href="resources" aria-current="page">Resources</a></li>
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item  page_item page-item-14  menu-item-78"><a href="careers" aria-current="page">Careers</a></li>
+                                    <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-14  menu-item-78"><a href="contact/" aria-current="page">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav><!-- #site-navigation -->
@@ -747,7 +734,11 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">About Us</h1>
+                <h1 class="entry-title">Careers</h1>
+                <div class="nx-breadcrumb">
+                    <!-- Breadcrumb NavXT 6.3.0 -->
+                    <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to Fintrinet." href="/" class="home">Fintrinet</a></span> &gt; <span typeof="v:Breadcrumb"><span property="v:title">Careers</span></span>
+                </div>
 
             </div>
         </div>
@@ -760,43 +751,19 @@
                 <div id="content" class="site-content" role="main">
 
 
-                    <article id="post-4" class="post-4 page type-page status-publish hentry">
+                <ol>
 
-                        <div class="entry-content">
-                            <div id="pl-4" class="panel-layout">
+                <li><p><a href="documents/careers/TRADE OFFICER POST.pdf">TRADE OFFICER POST <img src="https://icons.iconarchive.com/icons/treetog/file-type/96/pdf-icon.png" alt="" height="25px" width="25px"></a></p></li>
 
-                                <div id="pg-4-1" class="panel-grid panel-no-style">
-                                    <div id="pgc-4-1-0" class="panel-grid-cell">
-                                        <div id="panel-4-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2">
-                                            <div class="so-widget-sow-editor so-widget-sow-editor-base">
-                                                <div class="siteorigin-widget-tinymce textwidget">
-                                                    <p><strong>Main Objectives –</strong>
-                                                    <ul>
-                                                        <li> To create an umbrella platform for Finance, Trade and Investment sector in Kenya.</li>
-                                                        <li>To create synergy and collaboration amongst all institutions that manage and deploy financial capital in support of economic transformation priorities.</li>
-                                                        <li>To upscale trade and access to strategic markets at local, regional, continental and global levels towards positioning Kenya as a major export economy.</li>
-                                                        <li>To mainstream Local, regional and international investments into Kenya.</li>
-                                                        <li>To create an innovation, research and resource centre on Finance, Trade and Investment</li>
+                   
+                   
+                </ol>
+                   
+<div style="height: 400px;">
 
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!-- .entry-content -->
-
-                        <footer class="entry-meta">
-                        </footer><!-- .entry-meta -->
-                    </article><!-- #post -->
+</div>
 
 
-                    <div id="comments" class="comments-area">
-
-
-
-                    </div><!-- #comments -->
                 </div><!-- #content -->
             </div><!-- #primary -->
 
@@ -812,9 +779,8 @@
                                 <div class="menu-footer_menu-container">
                                     <ul id="menu-footer_menu" class="menu">
                                         <li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-332"><a href="/">Home</a></li>
-                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-333"><a href="about/" aria-current="page">About Us</a></li>
-                                        <li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="services/">Services</a></li>
-                                        <li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="contact/">Contact Us</a></li>
+                                        <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="resources">Resources</a></li>
+                                        <li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="contact">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </aside>
@@ -825,10 +791,10 @@
 
             <div class="site-info">
                 <div class="copyright">
-                    Copyright &copy; Fintrinet </div>
+                    Copyright &copy; LITES </div>
                 <div class="credit-info">
+                   
                     Designed and Developed by LITES
-
                 </div>
 
             </div><!-- .site-info -->
@@ -892,7 +858,6 @@
 
                     <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                     <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="partners">Our Founding Partners</a></li>
-                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="technical">Technical Experts</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="#">Pillars</a>

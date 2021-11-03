@@ -91,6 +91,10 @@ Route::get('/resources', function () {
     return view('resources');
 });
 
+Route::get('/careers', function () {
+    return view('careers');
+});
+
 Route::post('/mailus', function(Request $request){
     error_log(" -> name: " . $request->name ." -> message: " . $request->message . " -> subject: " . $request->subject . " -> email: " . $request->email);
 
