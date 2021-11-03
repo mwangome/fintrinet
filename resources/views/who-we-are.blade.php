@@ -794,7 +794,7 @@
         <div class="iheader nx-titlebar" style="">
             <div class="titlebar">
 
-                <h1 class="entry-title">Executive Board</h1>
+                <h1 class="entry-title">Executive Committee</h1>
 
             </div>
         </div>
@@ -1291,7 +1291,9 @@
 
                     <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="secretariat">The secretariat</a></li>
                     <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="partners">Our Founding Partners</a></li>
-                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="technical">Technical Experts</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="technical">Technical Team</a></li>
+                    <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="/partners">Our Founding Partners</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="technical">Technical Team</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="#">Pillars</a>
